@@ -31,7 +31,12 @@
 		{
 			name: 'Kalnir',
 			role: 'Head of Creature Studies',
-			quotes: ['Rrhah rhah rawr rha rhrah.', 'Ghruff... ghruff.', 'Awwooooooooo.']
+			quotes: [
+				'Rrhah rhah rawr rha rhrah.',
+				'Ghruff... ghruff.',
+				'Awwooooooooo.',
+				'No one will ever believe you.'
+			]
 		}
 	];
 
@@ -41,10 +46,10 @@
 			name: 'Remy',
 			role: 'Assistant Librarian',
 			quotes: [
-				'In silence, the greatest truths are discovered.',
-				'Books are the memory of the world.',
-				'Shhh... knowledge requires quiet.',
-				'The library holds more than books.'
+				'The first weapon against the abyss is knowledge — the second is choice.',
+				'Knowledge is the sweetest temptation—one forbidden fruit they can never burn from the tree.',
+				'What they name heresy, I call curiosity.',
+				'To learn is to defy, and I have never feared defiance.'
 			]
 		}
 	];
@@ -58,6 +63,25 @@
 	const members = [
 		// Add members here
 	];
+	import { onMount } from 'svelte';
+	import { getCurrentUser } from '$lib/api';
+
+	let userData = null;
+	let userError = null;
+
+	onMount(async () => {
+		try {
+			const data = await getCurrentUser();
+			if (data.user) {
+				userData = data.user;
+			}
+		} catch (e) {
+			userError = e.message;
+		}
+	});
+	if (typeof document !== 'undefined') {
+		console.log('Raw cookie:', document.cookie);
+	}
 </script>
 
 <div class="academy-bg">
@@ -170,6 +194,18 @@
 			{/if}
 
 			<!-- Members -->
+			<!-- User Data Debug Info -->
+			{#if userData}
+				<section class="section">
+					<h2>User Data</h2>
+					<pre>{JSON.stringify(userData, null, 2)}</pre>
+				</section>
+			{:else if userError}
+				<section class="section">
+					<h2>User Data</h2>
+					<p style="color: red;">{userError}</p>
+				</section>
+			{/if}
 			{#if members.length > 0}
 				<div class="personnel-category">
 					<h3 class="category-title">Members</h3>

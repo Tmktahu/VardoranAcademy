@@ -9,14 +9,14 @@
 	let html;
 	let errorMsg;
 
-	onMount(() => {
+	onMount(async () => {
 		// Get slug from page params
 		slug = $page.params.slug ?? '';
+		const { getBook } = useBooks();
 		try {
-			const { getBook } = useBooks();
-			const markdown = getBook(slug);
+			const markdown = await getBook(slug);
 			html = marked.parse(markdown);
-		} catch (err) {
+		} catch {
 			errorMsg = 'Book not found.';
 		}
 	});

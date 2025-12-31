@@ -2,12 +2,21 @@
 	import favicon from '$lib/assets/favicon.svg';
 
 	let { children } = $props();
+	const apiBaseUrl = import.meta.env.VITE_API_BASE_URL;
 </script>
 
 <svelte:head>
 	<link rel="icon" href={favicon} />
 </svelte:head>
 
+<nav style="padding: 1rem;">
+	<a
+		href="{apiBaseUrl}/auth/discord"
+		style="background: #5865F2; color: #fff; padding: 0.5rem 1rem; border-radius: 4px; text-decoration: none;"
+	>
+		Login with Discord
+	</a>
+</nav>
 {@render children?.()}
 
 <style>

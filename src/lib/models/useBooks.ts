@@ -1,10 +1,9 @@
 export const useBooks = () => {
-	const bookFiles = import.meta.glob('../../../books/*.md', { eager: true, as: 'raw' });
-
-	const getBook = (slug: string) => {
-		const fileKey = Object.keys(bookFiles).find((key) => key.endsWith(`/${slug}.md`));
-		if (!fileKey) throw new Error('Book not found');
-		return bookFiles[fileKey] as string;
+	const getBook = async (slug: string) => {
+		const res = await fetch(`/books/${slug}`);
+		if (!res.ok) throw new Error('Book not found');
+		const book = await res.json();
+		return book.content;
 	};
 
 	return { getBook };
