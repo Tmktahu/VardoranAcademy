@@ -63,22 +63,23 @@
 	const members = [
 		// Add members here
 	];
-	import { onMount } from 'svelte';
-	import { getCurrentUser } from '$lib/api';
+	// import { onMount } from 'svelte';
+	// import { getCurrentUser } from '$lib/api';
 
 	let userData = null;
 	let userError = null;
 
-	onMount(async () => {
-		try {
-			const data = await getCurrentUser();
-			if (data.user) {
-				userData = data.user;
-			}
-		} catch (e) {
-			userError = e.message;
-		}
-	});
+	// onMount(async () => {
+	// 	try {
+	// 		const data = await getCurrentUser();
+	// 		if (data.user) {
+	// 			userData = data.user;
+	// 		}
+	// 	} catch (e) {
+	// 		userError = e.message;
+	// 	}
+	// });
+
 	if (typeof document !== 'undefined') {
 		console.log('Raw cookie:', document.cookie);
 	}

@@ -1,15 +1,8 @@
-<!-- [`src/routes/books/[slug]/+page.svelte`](src/routes/books/[slug]/+page.svelte:1) -->
 <script lang="ts">
   import { marked } from 'marked';
-  import { page } from '$app/stores';
-  import { onMount } from 'svelte';
-  import { invalidate } from '$app/navigation';
-  import { goto } from '$app/navigation';
   export let data;
-
   let html = '';
   let errorMsg = '';
-
   $: if (data) {
     if (data.alreadyRead) {
       errorMsg = data.message;

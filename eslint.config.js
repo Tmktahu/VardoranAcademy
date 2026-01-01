@@ -1,23 +1,33 @@
-import js from '@eslint/js';
-import svelte from 'eslint-plugin-svelte';
-import prettier from 'eslint-config-prettier';
 import globals from 'globals';
+import pluginJs from '@eslint/js';
+import pluginSvelte from 'eslint-plugin-svelte';
+import pluginPrettier from 'eslint-config-prettier';
 
-/** @type {import('eslint').Linter.Config[]} */
 export default [
-	js.configs.recommended,
-	...svelte.configs['flat/recommended'],
-	prettier,
-	...svelte.configs['flat/prettier'],
+	pluginJs.configs.recommended,
+	pluginPrettier,
+	...pluginSvelte.configs['flat/recommended'],
 	{
+		files: ['**/*.svelte'],
 		languageOptions: {
-			globals: {
-				...globals.browser,
-				...globals.node
+			parser: require.resolve('@typescript-eslint/parser'),
+			parserOptions: {
+				project: './tsconfig.json',
+				extraFileExtensions: ['.svelte']
 			}
 		}
 	},
 	{
-		ignores: ['build/', '.svelte-kit/', 'dist/']
+		languageOptions: {
+			ecmaVersion: 2022,
+			sourceType: 'module',
+			globals: {
+				...globals.node,
+				...globals.browser
+			}
+		},
+		rules: {
+			'@typescript-eslint/ban-ts-comment': 'off'
+		}
 	}
 ];
