@@ -1,7 +1,8 @@
-import fs from 'fs/promises';
-import path from 'path';
+// Use Vite's import.meta.glob to bundle markdown files for backend access
 import { error, type RequestEvent } from '@sveltejs/kit';
 import { slugToBookMap } from '$lib/constants';
+// Import all markdown files as raw strings
+const bookFiles = import.meta.glob('/src/lib/books/**/*.md', { as: 'raw', eager: true });
 
 // Toggle this to enable/disable daily read limit
 // env.DISABLE_DAILY_LIMIT = true; // Set to false to enable limit
@@ -25,22 +26,22 @@ function parseCookie(cookieStr: any) {
   }
 }
 
-function getBookPath(slug: string | undefined) {
+function getBookContent(slug: string | undefined) {
   if (!slug) {
     throw error(400, 'Missing book slug');
   }
-
   const bookConfig = slugToBookMap[slug];
   if (!bookConfig?.path) {
     throw error(404, 'Book not found in slug map');
   }
-
-  // Construct the full path from project root
-  // Read from .svelte-kit/output/books instead of src/lib/books
   // bookConfig.path is like 'lib/books/Flora Vardorana/0 - Introduction to Flora Vardorana.md'
-  // Remove 'lib/books/' prefix
-  const relPath = bookConfig.path.replace(/^lib\/books\//, '');
-  return path.join(process.cwd(), '.svelte-kit', 'output', 'books', relPath);
+  // Convert to absolute path used by import.meta.glob
+  const absPath = `/src/${bookConfig.path}`;
+  const content = bookFiles[absPath];
+  if (!content) {
+    throw error(404, 'Book not found');
+  }
+  return content;
 }
 
 export async function load({ params, cookies }: RequestEvent) {
@@ -64,14 +65,12 @@ export async function load({ params, cookies }: RequestEvent) {
   }
 
   // Load book markdown
-  const bookPath = getBookPath(slug);
-  console.log('[library/book] Book path:', bookPath);
   let content;
   try {
-    content = await fs.readFile(bookPath, 'utf-8');
+    content = getBookContent(slug);
     console.log('[library/book] Book loaded successfully');
   } catch (e) {
-    console.error('[library/book] Book not found:', bookPath, e);
+    console.error('[library/book] Book not found:', slug, e);
     throw error(404, 'Book not found');
   }
 
