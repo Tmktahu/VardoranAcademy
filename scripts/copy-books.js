@@ -1,8 +1,10 @@
-// scripts/copy-books.js
-// Copies markdown books to .svelte-kit/output/books for backend-only access
+// scripts/copy-books.js (ESM)
+import fs from 'fs';
+import path from 'path';
+import { fileURLToPath } from 'url';
 
-const fs = require('fs');
-const path = require('path');
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = path.dirname(__filename);
 
 const srcDir = path.join(__dirname, '../src/lib/books');
 const destDir = path.join(__dirname, '../.svelte-kit/output/books');
