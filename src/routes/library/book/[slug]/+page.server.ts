@@ -36,7 +36,11 @@ function getBookPath(slug: string | undefined) {
   }
 
   // Construct the full path from project root
-  return path.join(process.cwd(), 'src', bookConfig.path);
+  // Read from .svelte-kit/output/books instead of src/lib/books
+  // bookConfig.path is like 'lib/books/Flora Vardorana/0 - Introduction to Flora Vardorana.md'
+  // Remove 'lib/books/' prefix
+  const relPath = bookConfig.path.replace(/^lib\/books\//, '');
+  return path.join(process.cwd(), '.svelte-kit', 'output', 'books', relPath);
 }
 
 export async function load({ params, cookies }: RequestEvent) {
