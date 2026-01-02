@@ -1,8 +1,7 @@
-*A field guide with singed edges on several pages, as if exposed to heat. The binding shows wear from outdoor use, and several pressed specimens are carefully attached with metal clips. Written in steady script with flame motifs decorating section headers. Common tongue. Fair condition. Found in herbalist workshops and alchemical laboratories.*
 # Fire Blossom: *Flos Ignis*
-**Series:** Flora Vardorana: A Comprehensive Study, Volume I
-**Author:** Verena Stillswater (original text), Martin Ehrlich (alchemical applications)
-**Written:** AD 51 (original), AMR 201 (alchemical applications)
+> **Series:** Flora Vardorana: A Comprehensive Study, Volume I  
+> **Author:** Verena Stillswater (original text), Martin Ehrlich (alchemical applications)  
+> **Written:** AD 51 (original), AMR 201 (alchemical applications)
 ## Description and Habitat
 The fire blossom displays distinctive golden to orange star-shaped flowers, typically with five to six petals arranged around a darker amber center. The blooms grow on tall stems rising from clusters of bright green leaves. Multiple flowers emerge from each plant, often growing in patches where conditions prove favorable.
 

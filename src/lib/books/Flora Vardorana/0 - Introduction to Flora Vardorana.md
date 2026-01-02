@@ -1,8 +1,7 @@
-*A pristine volume bound in green cloth with gold lettering. The pages are clean and well-organized, showing careful editing and revision. Written in precise script with clear section divisions. Common tongue. Excellent condition. Distributed to Academy libraries and instructional facilities.*
 # Introduction to Flora Vardorana: A Comprehensive Study
-**Series:** Flora Vardorana: A Comprehensive Study, Volume 0
-**Author:** Verena Stillswater
-**Written:** AD 50
+> **Series:** Flora Vardorana: A Comprehensive Study, Volume 0  
+> **Author:** Verena Stillswater  
+> **Written:** 50 AD
 ## About the Author
 Verena Stillswater serves as First Head of Botanical Studies at The Academy since its founding in AD 25. Prior botanical training under Master Herbalist Elara Thornwood in Farbane region provided foundation in conventional fieldwork and specimen preservation. Transition to magical botany began following observations of unusual plant behaviors in areas affected by residual magical energies from the War of Dracula.
 
@@ -40,7 +39,9 @@ Field work with magical plants demands respect for both their power and their ha
 
 May this series serve your research, instruction, or practical needs effectively.
 
+<br>
+
 — Verena Stillswater  
-First Head of Botanical Studies  
+Head of Botanical Studies  
 The Academy, Central Dunley  
-AD 50
+50 AD

@@ -1,8 +1,7 @@
-*A farm journal with pressed flower specimens and sketches of cultivation plots. The binding shows soil stains and weather damage. Written in neat script with agricultural notes. Common tongue. Fair condition. Found among Church farming records and devotional plant documentation.*
 # Sunflower: *Helianthus Sacrus*
-**Series:** Flora Vardorana: A Comprehensive Study, Volume IV
-**Author:** Verena Stillswater
-**Written:** AD 54
+> **Series:** Flora Vardorana: A Comprehensive Study, Volume IV  
+> **Author:** Verena Stillswater  
+> **Written:** AD 54
 ## Description and Habitat
 The sunflower displays distinctive large flower heads with bright yellow petals radiating from dark central discs. The blooms grow atop tall, sturdy stems that can reach impressive heights. Large, broad leaves provide substantial foliage. The flower heads track the sun's movement across the sky, a characteristic that holds particular significance for those who cultivate them.
 

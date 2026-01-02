@@ -1,8 +1,7 @@
-*A small field notebook with pages showing purple staining and slightly warped text in sections. The binding is loose and several pages appear to have been removed. Written in unsteady script with cautionary notes in margins. Common tongue. Poor condition. Found among herbalist records and alchemical experimentation logs.*
 # Trippy Shroom: *Fungus Psychotropus*
-**Series:** Flora Vardorana: A Comprehensive Study, Volume VII
-**Author:** Verena Stillswater (original text), Martin Ehrlich (medical applications)
-**Written:** AD 57 (original), AMR 201 (medical applications)
+> **Series:** Flora Vardorana: A Comprehensive Study, Volume VII  
+> **Author:** Verena Stillswater (original text), Martin Ehrlich (medical applications)  
+> **Written:** AD 57 (original), AMR 201 (medical applications)
 ## Description and Habitat
 The trippy shroom displays distinctive dark blue to purple coloration with bright magenta spots distributed across the cap surface. The mushroom grows in small clusters, typically emerging from decaying organic matter in shaded, damp conditions. Cap size varies from small buttons to dinner-plate specimens.
 

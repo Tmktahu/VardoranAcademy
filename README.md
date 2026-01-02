@@ -1,38 +1,33 @@
-# sv
+# Library & Librarian Route Structure
 
-Everything you need to build a Svelte project, powered by [`sv`](https://github.com/sveltejs/cli).
+## Overview
+This project provides two main routes for accessing books:
 
-## Creating a project
+- `/library` — Public route, enforces a 1-book-per-day read limit per user.
+- `/librarian/library` — Librarian route, unlimited access, protected by a simple password login.
 
-If you're seeing this, you've probably already done this step. Congrats!
+## Code Sharing
+- All book loading and rendering logic is shared between routes via helper functions and Svelte components.
+- UI components (e.g., book display, confirmation modals) are reused to avoid duplication.
 
-```sh
-# create a new project in the current directory
-npx sv create
+## Authentication
+- Librarian access uses a password-based login. The password is checked server-side and sets a secure cookie for session management.
+- Change the password in [`src/routes/librarian/library/+page.server.ts`](src/routes/librarian/library/+page.server.ts).
 
-# create a new project in my-app
-npx sv create my-app
-```
+## Extending
+- To add new books or categories, update [`src/lib/constants.ts`](src/lib/constants.ts).
+- To adjust access logic, update the helpers in [`src/lib/models/bookAccess.ts`](src/lib/models/bookAccess.ts).
 
-## Developing
+## Folder Structure
+- `src/routes/library/` — Public-facing library routes
+- `src/routes/librarian/library/` — Librarian-only routes (mirrors public structure, disables daily limit)
+- `src/lib/components/BookContent.svelte` — Shared book content UI
+- `src/lib/models/bookAccess.ts` — Shared book access logic
 
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
+## Security Notes
+- Password is stored in code for simplicity. For production, use environment variables and add rate limiting.
+- All authentication and access checks are performed server-side.
 
-```sh
-npm run dev
+---
 
-# or start the server and open the app in a new browser tab
-npm run dev -- --open
-```
-
-## Building
-
-To create a production version of your app:
-
-```sh
-npm run build
-```
-
-You can preview the production build with `npm run preview`.
-
-> To deploy your app, you may need to install an [adapter](https://svelte.dev/docs/kit/adapters) for your target environment.
+For further details, see code comments in the relevant files.

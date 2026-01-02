@@ -1,8 +1,7 @@
-*A small notebook bound in dark cloth, pages stained with soil and marked with pressed flower samples. The binding is reinforced with thread, showing frequent field use. Written in careful script with sketches of cemetery layouts in margins. Common tongue. Well-worn condition. Found among morticians' effects and cemetery groundskeepers' records.*
 # Mourning Lily: *Lilium Luctus*
-**Series:** Flora Vardorana: A Comprehensive Study, Volume VI
-**Author:** Verena Stillswater (original text), Martin Ehrlich (medical applications)
-**Written:** AD 56 (original), AMR 201 (medical applications)
+> **Series:** Flora Vardorana: A Comprehensive Study, Volume VI  
+> **Author:** Verena Stillswater (original text), Martin Ehrlich (medical applications)  
+> **Written:** AD 56 (original), AMR 201 (medical applications)
 ## Description and Habitat
 The mourning lily displays distinctive drooping bell-shaped flowers in pale blue to teal hues, hanging downward from gracefully curved stems. The blooms possess a mournful, weighted appearance, as if bowing in perpetual grief. Dark green leaves grow along the stems, providing contrast to the delicate flowers.
 

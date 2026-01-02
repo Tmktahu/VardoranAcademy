@@ -1,8 +1,7 @@
-*A small journal with translucent pages that seem to shimmer in certain light. The binding is wrapped in cloth that appears to shift color. Written in faint script that occasionally requires tilting to read. Common tongue. Fair condition. Found among illusionist records and forest expedition notes.*
 # Ghost Shroom: *Agaricus Spectralis*
-**Series:** Flora Vardorana: A Comprehensive Study, Volume VIII
-**Author:** Verena Stillswater
-**Written:** AD 58
+> **Series:** Flora Vardorana: A Comprehensive Study, Volume VIII  
+> **Author:** Verena Stillswater  
+> **Written:** AD 58
 ## Description and Habitat
 The ghost shroom displays a distinctive translucent appearance, with pale blue to teal coloring that gives the fungus an ethereal, ghostly quality. The fruiting bodies range from small caps on thin stalks to larger trumpet-shaped specimens, all sharing the characteristic semi-transparent flesh that seems to capture and diffuse light. The mushrooms emit a faint luminescence, creating an eerie glow in the darkness of their forest home.
 

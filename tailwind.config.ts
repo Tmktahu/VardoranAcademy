@@ -17,6 +17,7 @@ const textPrimaryColor = '#E8E8E8'; // light gray
 const textSecondaryColor = '#9E9E9E '; // medium gray
 
 const botanicalGreen = '#2F4F2F';
+const alchemicalOrange = '#FF8C00';
 
 const primaryOverlayOpacity = 0.8;
 const secondaryOverlayOpacity = 0.3;
@@ -47,6 +48,7 @@ const config = {
       tsecondary: generateColors(pitchBlack, textSecondaryColor, primaryOverlayOpacity),
 
       botanicalGreen: generateColors(pitchBlack, botanicalGreen, 0.4),
+      alchemicalOrange: generateColors(pitchBlack, alchemicalOrange, 0.4),
 
       zinc: colors.zinc,
       white: colors.white,
@@ -109,6 +111,12 @@ const config = {
           DEFAULT: botanicalGreen,
           foreground: generateColors(baseBackgroundColor, botanicalGreen, 0.4),
           ...generateColors(baseBackgroundColor, botanicalGreen, 0.7),
+        },
+
+        alchemicalOrange: {
+          DEFAULT: alchemicalOrange,
+          foreground: generateColors(baseBackgroundColor, alchemicalOrange, 0.4),
+          ...generateColors(baseBackgroundColor, alchemicalOrange, 0.7),
         },
 
         destructive: {

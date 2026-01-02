@@ -1,8 +1,7 @@
-*A field guide with pressed flower samples attached to several pages. The binding is reinforced with cord, and the pages show signs of moisture damage from outdoor use. Written in neat script with botanical sketches in the margins. Common tongue. Good condition. Found in herbalist collections and traveling naturalist kits.*
 # Snow Flower: *Flos Niveus*
-**Series:** Flora Vardorana: A Comprehensive Study, Volume II
-**Author:** Verena Stillswater (original text), Martin Ehrlich (medical applications)
-**Written:** AD 52 (original), AMR 201 (medical applications)
+> **Series:** Flora Vardorana: A Comprehensive Study, Volume II  
+> **Author:** Verena Stillswater (original text), Martin Ehrlich (medical applications)  
+> **Written:** AD 52 (original), AMR 201 (medical applications)
 ## Description and Habitat
 The snow flower is easily identified by its distinctive pale blue to white star-shaped blossoms, typically displaying five to six delicate petals arranged around a bright yellow center. The flowers grow on tall, slender stems rising from clusters of dark green blade-like leaves. Multiple blooms emerge from each plant, creating small colonies in favorable conditions.
 

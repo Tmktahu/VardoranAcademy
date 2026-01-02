@@ -1,8 +1,6 @@
 // src/routes/library/+page.server.ts
-import { libraryData } from '$lib/constants';
+import { libraryData } from '$lib/libraryData';
 
 export async function load() {
-  console.log('[library] Loading library table of contents');
-  console.log('[library] Library object:', JSON.stringify(libraryData, null, 2));
   return { libraryData };
 }

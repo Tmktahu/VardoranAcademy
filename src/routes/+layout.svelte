@@ -20,6 +20,18 @@
 </nav> -->
 {@render children?.()}
 
+<!-- Tailwind safelist for dynamic book colors -->
+<!-- 
+  bg-botanicalGreen-500 bg-botanicalGreen-600 bg-botanicalGreen-700 bg-botanicalGreen-800 bg-botanicalGreen-900
+  bg-alchemicalOrange-500 bg-alchemicalOrange-600 bg-alchemicalOrange-700 bg-alchemicalOrange-800 bg-alchemicalOrange-900
+  bg-arcanePurple-500 bg-arcanePurple-600 bg-arcanePurple-700 bg-arcanePurple-800 bg-arcanePurple-900
+  bg-chemistryBlue-500 bg-chemistryBlue-600 bg-chemistryBlue-700 bg-chemistryBlue-800 bg-chemistryBlue-900
+  bg-bloodRed-500 bg-bloodRed-600 bg-bloodRed-700 bg-bloodRed-800 bg-bloodRed-900
+
+  border-botanicalGreen-200
+  border-alchemicalOrange-200
+-->
+
 <style>
   :global(html) {
     background: #181a20;

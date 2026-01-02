@@ -1,8 +1,7 @@
-*A worn field guide with cave dust embedded in the pages and mushroom spore prints pressed between leaves. The binding is water-stained and reinforced with cord. Written in hurried script with rough sketches of underground fungi. Common tongue. Poor condition. Found among spelunker records and cave expedition notes.*
 # Hell's Clarion: *Tuba Inferni*
-**Series:** Flora Vardorana: A Comprehensive Study, Volume V
-**Author:** Verena Stillswater
-**Written:** AD 55
+> **Series:** Flora Vardorana: A Comprehensive Study, Volume V  
+> **Author:** Verena Stillswater  
+> **Written:** AD 55
 ## Description and Habitat
 Hell's clarion displays a distinctive dark trumpet or horn-shaped fruiting body, with flesh that ranges from deep charcoal to black. The interior of each trumpet glows with a dull red luminescence, creating an eerie appearance in the darkness where these fungi thrive. The mushrooms grow in clusters, their horn-like shapes resembling a chorus of instruments calling from the depths.
 
