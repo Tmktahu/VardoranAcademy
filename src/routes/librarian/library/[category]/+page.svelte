@@ -66,7 +66,9 @@
   <img src={shelvesBackground} alt="Bookshelf Background" class="absolute top-0 w-full h-full object-top object-cover opacity-30 pointer-events-none z-0" />
 
   <div class="flex justify-center w-full relative py-4">
-    <button class="text-yellow-400 bg-background-0/80 hover:bg-background-0/50 px-5 py-1 rounded-2xl z-10" on:click={() => goto(resolve('/library'))}> Leave the Section </button>
+    <button class="text-yellow-400 bg-background-0/80 hover:bg-background-0/50 px-5 py-1 rounded-2xl z-10" on:click={() => goto(resolve('/librarian/library'))}>
+      Leave the Section
+    </button>
   </div>
 
   <div class="flex flex-col h-full gap-3 opacity-0 {ready ? 'opacity-100' : ''} transition-opacity duration-500">
