@@ -12,12 +12,3 @@ libraryData.forEach((series) => {
     };
   });
 });
-
-// export const categoryColors: Record<string, string> = {
-//   botanical: 'botanicalGreen',
-//   alchemical: 'alchemicalOrange',
-//   arcane: 'arcanePurple',
-//   chemistry: 'chemistryBlue',
-//   bloodline: 'bloodRed',
-//   default: 'background',
-// };

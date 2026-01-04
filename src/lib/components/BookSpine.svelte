@@ -1,5 +1,4 @@
 <script lang="ts">
-  // import { categoryColors } from '@/constants.js';
   import { onMount, tick } from 'svelte';
 
   export let book: { category?: string; slug: string; bookSpineTitle: string };
@@ -34,7 +33,6 @@
   }
 
   function getBookColorClass(book: { category?: string; slug: string }): string {
-    // const baseColor = categoryColors[book.category || 'default'] || categoryColors.default;
     const intensity = getColorIntensity(book.slug);
     return `bg-${color}-${intensity}`;
   }
