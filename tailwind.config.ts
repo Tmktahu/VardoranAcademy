@@ -18,6 +18,7 @@ const textSecondaryColor = '#9E9E9E '; // medium gray
 
 const botanicalGreen = '#2F4F2F';
 const alchemicalOrange = '#FF8C00';
+const bloodRed = '#981c20';
 
 const primaryOverlayOpacity = 0.8;
 const secondaryOverlayOpacity = 0.3;
@@ -49,6 +50,7 @@ const config = {
 
       botanicalGreen: generateColors(pitchBlack, botanicalGreen, 0.4),
       alchemicalOrange: generateColors(pitchBlack, alchemicalOrange, 0.4),
+      bloodRed: generateColors(pitchBlack, bloodRed, 0.4),
 
       zinc: colors.zinc,
       white: colors.white,
@@ -117,6 +119,12 @@ const config = {
           DEFAULT: alchemicalOrange,
           foreground: generateColors(baseBackgroundColor, alchemicalOrange, 0.4),
           ...generateColors(baseBackgroundColor, alchemicalOrange, 0.7),
+        },
+
+        bloodRed: {
+          DEFAULT: bloodRed,
+          foreground: generateColors(baseBackgroundColor, bloodRed, 0.4),
+          ...generateColors(baseBackgroundColor, bloodRed, 0.7),
         },
 
         destructive: {

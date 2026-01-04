@@ -1,10 +1,10 @@
 <script lang="ts">
   import { onMount, tick } from 'svelte';
-  import { categoryColors } from '@/constants.js';
   import { goto } from '$app/navigation';
   import { resolve } from '$app/paths';
 
   import shelvesBackground from '$lib/assets/shelves_background.png';
+  import BookSpine from '@/components/BookSpine.svelte';
 
   export let data;
 
@@ -12,32 +12,6 @@
   let selectedBook: any = null;
   let bookHeights: number[] = [];
   let ready = false;
-
-  function getBookWidth(seed: string | number, min = 40, max = 64): number {
-    let hash = 0;
-    for (let i = 0; i < String(seed).length; i++) {
-      hash = (hash << 5) - hash + String(seed).charCodeAt(i);
-      hash |= 0;
-    }
-    const rand = Math.abs(hash % 1000) / 1000;
-    return Math.round(min + (max - min) * rand);
-  }
-
-  function getColorIntensity(slug: string): number {
-    let hash = 0;
-    for (let i = 0; i < slug.length; i++) {
-      hash = (hash << 5) - hash + slug.charCodeAt(i);
-      hash |= 0;
-    }
-    const intensities = [500, 600, 700, 800, 900];
-    return intensities[Math.abs(hash) % intensities.length];
-  }
-
-  function getBookColorClass(book: { category?: string; slug: string }): string {
-    const baseColor = categoryColors[book.category || 'default'] || categoryColors.default;
-    const intensity = getColorIntensity(book.slug);
-    return `bg-${baseColor}-${intensity}`;
-  }
 
   const selectBook = (book: any) => {
     selectedBook = book;
@@ -77,24 +51,7 @@
         <div class="series-block flex flex-col">
           <div class="books-row flex gap-2 items-end flex-wrap">
             {#each series.books as book, i (book.slug)}
-              <button
-                on:click={() => selectBook(book)}
-                class="book-button flex items-center justify-center relative"
-                style="height: {bookHeights[i] || 64}px; width: {getBookWidth(book.slug)}px;"
-              >
-                <div class="book flex items-center justify-center w-full h-full relative">
-                  <div class="book-color {getBookColorClass(book)}"></div>
-                  <div class="book-shadow"></div>
-                  <div class="book-stripes"></div>
-                  <div class="book-horizontal">
-                    <div class="book-line book-line-top-1"></div>
-                    <div class="book-line book-line-top-2"></div>
-                    <div class="book-line book-line-bottom-1"></div>
-                    <div class="book-line book-line-bottom-2"></div>
-                  </div>
-                  <div class="rotate-90 whitespace-nowrap title-text text-tprimary-0">{@html book.bookSpineTitle}</div>
-                </div>
-              </button>
+              <BookSpine {book} {selectBook} color={series.color} />
             {/each}
           </div>
         </div>

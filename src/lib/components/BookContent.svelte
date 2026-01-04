@@ -3,16 +3,13 @@
   import octagramBackground from '$lib/assets/octagram_background.png';
   import { useMarked } from '$lib/models/useMarked';
   export let content: string;
-  export let category: string;
-  export let categoryColors: Record<string, string>;
+  export let color: string;
 
   let html: string | Promise<string> = '';
-  let categoryColor = categoryColors[category];
   const { parse } = useMarked();
 
   onMount(async () => {
     html = parse(content);
-    categoryColor = categoryColors[category];
   });
 </script>
 
@@ -22,7 +19,7 @@
     <div class="w-full max-w-4xl z-1">
       <slot name="back"></slot>
     </div>
-    <article class="marked w-full max-w-4xl rounded-xl shadow-xl px-8 py-4 border border-{categoryColor}-200 bg-background-0/80 z-1">
+    <article class="marked w-full max-w-4xl rounded-xl shadow-xl px-8 py-4 border border-{color}-200 bg-background-0/80 z-1">
       {@html html}
     </article>
   </div>

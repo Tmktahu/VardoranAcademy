@@ -1,8 +1,9 @@
 <script lang="ts">
-  import { categoryColors } from '@/constants.js';
+  // import { categoryColors } from '@/constants.js';
   import { onMount, tick } from 'svelte';
 
   export let book: { category?: string; slug: string; bookSpineTitle: string };
+  export let color: string;
   export let selectBook: (book: any) => void;
 
   let bookHeight: number = 64;
@@ -33,9 +34,9 @@
   }
 
   function getBookColorClass(book: { category?: string; slug: string }): string {
-    const baseColor = categoryColors[book.category || 'default'] || categoryColors.default;
+    // const baseColor = categoryColors[book.category || 'default'] || categoryColors.default;
     const intensity = getColorIntensity(book.slug);
-    return `bg-${baseColor}-${intensity}`;
+    return `bg-${color}-${intensity}`;
   }
 
   async function measureHeight() {

@@ -1,12 +1,49 @@
 export const libraryData: {
   series: string;
   description: string;
+  color: string;
   books: { slug: string; title: string; bookSpineTitle: string; description: string; category: string; path: string }[];
 }[] = [
+  {
+    series: 'Sanguine Theory',
+    description:
+      'Theoretical framework for blood magic by Ellie Tarsvesh, First Head of Arcana Studies, with vampiric expertise from Severin, Academy Consultant. Covers blood magic principles, combat applications, and ritual techniques.',
+    color: 'bloodRed',
+    books: [
+      {
+        slug: 'foundations-blood-magic',
+        title: 'Foundations of Blood Magic',
+        bookSpineTitle: 'Foundations of<br>Blood Magic',
+        description:
+          'A scholarly treatise bound in deep red leather with silver clasps. Pages are meticulously organized with theoretical diagrams and cross-references. Written in sharp, demanding academic script with consultation notes from vampiric practitioner. Common tongue. Excellent condition.',
+        category: 'arcana',
+        path: 'lib/books/Sanguine Theory/1 - Foundations of Blood Magic.md',
+      },
+      {
+        slug: 'blood-magic-combat',
+        title: 'Blood Magic in Combat',
+        bookSpineTitle: 'Blood Magic<br>in Combat',
+        description:
+          'A tactical analysis bound in blood-red cloth. Pages contain combat theory with practical observations from vampiric warfare. Written in sharp academic script with strategic annotations. Common tongue. Excellent condition.',
+        category: 'arcana',
+        path: 'lib/books/Sanguine Theory/2 - Blood Magic in Combat.md',
+      },
+      {
+        slug: 'ritual-ceremonial-applications',
+        title: 'Ritual and Ceremonial Applications',
+        bookSpineTitle: 'Ritual and<br>Ceremonial Applications',
+        description:
+          'A ceremonial reference bound in crimson leather. Pages detail ritual blood magic theory and healing applications. Written in sharp academic script with consultation notes. Common tongue. Excellent condition.',
+        category: 'arcana',
+        path: 'lib/books/Sanguine Theory/3 - Ritual and Ceremonial Applications.md',
+      },
+    ],
+  },
   {
     series: 'Flora Vardorana',
     description:
       "Systematic documentation of Vardoran's magically-significant plant species by First Head of Botanical Studies Verena Stillswater, with later medical and alchemical applications documented by Martin Ehrlich.",
+    color: 'botanicalGreen',
     books: [
       {
         slug: 'flora-vardorana-introduction',
@@ -131,6 +168,7 @@ export const libraryData: {
     series: 'Field Alchemy',
     description:
       'Basic waterskin-based alchemical formulations for field use by Malcolm Maxworthy, First Head of Chemical Studies. Covers resistance preparations, combat enhancement, and healing using minimal equipment.',
+    color: 'alchemicalOrange',
     books: [
       {
         slug: 'field-alchemy-introduction',
@@ -210,6 +248,7 @@ export const libraryData: {
     series: 'Advanced Preparations',
     description:
       'Glass bottle formulations requiring advanced technique by Malcolm Maxworthy, First Head of Chemical Studies. Covers enhanced resistance, healing, combat, and specialized applications.',
+    color: 'alchemicalOrange',
     books: [
       {
         slug: 'advanced-preparations-introduction',
@@ -298,6 +337,7 @@ export const libraryData: {
     series: 'Blood Essence Mastery',
     description:
       'Elite blood essence formulations by Malcolm Maxworthy and Theresa Proudmoore. Documents advanced elixir preparation techniques using Greater Blood Essence to hold opposed plant properties in stable suspension.',
+    color: 'alchemicalOrange',
     books: [
       {
         slug: 'blood-essence-introduction',
