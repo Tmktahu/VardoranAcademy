@@ -38,29 +38,29 @@ export const useMarked = () => {
     // };
     let depth = 0;
 
-    renderer.list = function (token) {
-      depth++;
-      const tag = token.ordered ? 'ol' : 'ul';
-      const items = token.items.map((item) => renderer.listitem(item)).join('');
-      const html = `<${tag} class="">${items}</${tag}>`;
-      depth--;
-      return html;
-    };
+    // renderer.list = function (token) {
+    //   depth++;
+    //   const tag = token.ordered ? 'ol' : 'ul';
+    //   const items = token.items.map((item) => renderer.listitem(item)).join('');
+    //   const html = `<${tag} class="">${items}</${tag}>`;
+    //   depth--;
+    //   return html;
+    // };
 
-    renderer.listitem = function (token) {
-      const html = Array.isArray(token.tokens) ? marked.parser(token.tokens, { renderer }) : String(token.text || '');
-      let dot;
-      if (depth === 1) {
-        dot = `<span class="inline-block w-3 h-3 mt-[0.6rem] mr-2 bg-tprimary-500 rounded-xs flex-shrink-0"></span>`;
-      } else {
-        dot = `<span class="inline-block w-3 h-3 mt-[0.5rem] mr-2 flex-shrink-0" style="background: none;">
-          <svg width="16" height="16" viewBox="0 0 16 16">
-            <polygon points="8,2 14,8 8,14 2,8" fill="#A855F7"/>
-          </svg>
-        </span>`;
-      }
-      return `<li class="list-none flex items-start mb-2">${dot}<span class="flex-grow">${html}</span></li>`;
-    };
+    // renderer.listitem = function (token) {
+    //   const html = Array.isArray(token.tokens) ? marked.parser(token.tokens, { renderer }) : String(token.text || '');
+    //   let dot;
+    //   if (depth === 1) {
+    //     dot = `<span class="inline-block w-3 h-3 mt-[0.6rem] mr-2 bg-tprimary-500 rounded-xs flex-shrink-0"></span>`;
+    //   } else {
+    //     dot = `<span class="inline-block w-3 h-3 mt-[0.5rem] mr-2 flex-shrink-0" style="background: none;">
+    //       <svg width="16" height="16" viewBox="0 0 16 16">
+    //         <polygon points="8,2 14,8 8,14 2,8" fill="#A855F7"/>
+    //       </svg>
+    //     </span>`;
+    //   }
+    //   return `<li class="list-none flex items-start mb-2">${dot}<span class="flex-grow">${html}</span></li>`;
+    // };
 
     renderer.html = (token) => {
       let text = token.text;
