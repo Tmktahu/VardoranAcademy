@@ -4,9 +4,8 @@
   import { resolve } from '$app/paths';
 
   export let data: any;
-  export let color: string;
 </script>
 
-<BookContent content={data.content} {color}>
+<BookContent content={data.content} color={data.book.color}>
   <button slot="back" class="text-success-400 hover:underline mb-4" on:click={() => goto(resolve(`/library/${data.book.category}`))}> &larr; Back to Library </button>
 </BookContent>
