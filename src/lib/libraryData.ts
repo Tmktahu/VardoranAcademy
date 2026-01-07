@@ -40,6 +40,41 @@ export const libraryData: {
     ],
   },
   {
+    series: 'Chaos Theory',
+    description:
+      'Theoretical framework and practical applications of chaos magic by Ellie Tarsvesh, First Head of Arcana Studies. Covers Void foundation, Chaos Fire mechanics, combat applications, and ritual techniques for controlled unmaking.',
+    color: 'chaosPurple',
+    books: [
+      {
+        slug: 'foundations-chaos-magic',
+        title: 'Foundations of Chaos Magic',
+        bookSpineTitle: 'Foundations of<br>Chaos Magic',
+        description:
+          'A scholarly treatise bound in deep purple leather with amethyst clasps. Pages are organized with theoretical diagrams and warnings about the Void. Written in sharp, demanding academic script. Common tongue. Excellent condition.',
+        category: 'arcana',
+        path: 'lib/books/Chaos Theory/1 - Foundations of Chaos Magic.md',
+      },
+      {
+        slug: 'combat-applications-chaos-magic',
+        title: 'Combat Applications of Chaos Magic',
+        bookSpineTitle: 'Combat Applications<br>of Chaos Magic',
+        description:
+          'A tactical analysis bound in violet cloth with scorch marks along the spine. Pages contain combat theory with practical observations on overwhelming force. Written in sharp academic script with aggressive tactical notes. Common tongue. Excellent condition.',
+        category: 'arcana',
+        path: 'lib/books/Chaos Theory/2 - Combat Applications of Chaos Magic.md',
+      },
+      {
+        slug: 'rituals-advanced-applications',
+        title: 'Rituals and Advanced Applications',
+        bookSpineTitle: 'Rituals and<br>Advanced Applications',
+        description:
+          'A cautionary reference bound in dark purple leather with amethyst insets. Pages detail ritual chaos theory and conceptual destruction warnings. Written in sharp academic script with prominent safety notices. Common tongue. Excellent condition.',
+        category: 'arcana',
+        path: 'lib/books/Chaos Theory/3 - Rituals and Advanced Applications.md',
+      },
+    ],
+  },
+  {
     series: 'Flora Vardorana',
     description:
       "Systematic documentation of Vardoran's magically-significant plant species by First Head of Botanical Studies Verena Stillswater, with later medical and alchemical applications documented by Martin Ehrlich.",

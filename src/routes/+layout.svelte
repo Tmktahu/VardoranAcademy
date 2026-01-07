@@ -25,10 +25,12 @@
   bg-botanicalGreen-500 bg-botanicalGreen-600 bg-botanicalGreen-700 bg-botanicalGreen-800 bg-botanicalGreen-900
   bg-alchemicalOrange-500 bg-alchemicalOrange-600 bg-alchemicalOrange-700 bg-alchemicalOrange-800 bg-alchemicalOrange-900
   bg-bloodRed-500 bg-bloodRed-600 bg-bloodRed-700 bg-bloodRed-800 bg-bloodRed-900
+  bg-chaosPurple-500 bg-chaosPurple-600 bg-chaosPurple-700 bg-chaosPurple-800 bg-chaosPurple-900
 
   border-botanicalGreen-200
   border-alchemicalOrange-200
   border-bloodRed-200
+  border-chaosPurple-200
 -->
 
 <style>
