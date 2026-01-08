@@ -127,9 +127,9 @@
     {/if}
   </div>
 
-  <div class="flex flex-col h-full gap-3 opacity-0 {ready ? 'opacity-100' : ''} transition-opacity duration-500">
+  <div class="flex w-full justify-center flex-wrap opacity-0 {ready ? 'opacity-100' : ''} transition-opacity duration-500">
     {#each data.seriesWithBooks as series (series.series)}
-      <div class="bg-background-0/40 flex items-center justify-center min-h-fit z-1 px-3 py-2 border-t border-b border-yellow-500/80">
+      <div class="bg-background-0/40 flex items-end grow justify-center min-h-fit z-1 px-6 py-2 border-t border-b border-yellow-500/80">
         <div class="series-block flex flex-col">
           <div class="books-row flex gap-2 items-end flex-wrap">
             {#each series.books as book, i (book.slug)}
