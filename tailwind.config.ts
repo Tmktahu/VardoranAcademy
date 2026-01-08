@@ -20,6 +20,7 @@ const botanicalGreen = '#2F4F2F';
 const alchemicalOrange = '#FF8C00';
 const bloodRed = '#981c20';
 const chaosPurple = '#800080';
+const stormYellow = '#FFD700';
 
 const primaryOverlayOpacity = 0.8;
 const secondaryOverlayOpacity = 0.3;
@@ -53,6 +54,7 @@ const config = {
       alchemicalOrange: generateColors(pitchBlack, alchemicalOrange, 0.4),
       bloodRed: generateColors(pitchBlack, bloodRed, 0.4),
       chaosPurple: generateColors(pitchBlack, chaosPurple, 0.4),
+      stormYellow: generateColors(pitchBlack, stormYellow, 0.4),
 
       zinc: colors.zinc,
       white: colors.white,
@@ -133,6 +135,12 @@ const config = {
           DEFAULT: chaosPurple,
           foreground: generateColors(baseBackgroundColor, chaosPurple, 0.4),
           ...generateColors(baseBackgroundColor, chaosPurple, 0.7),
+        },
+
+        stormYellow: {
+          DEFAULT: stormYellow,
+          foreground: generateColors(baseBackgroundColor, stormYellow, 0.4),
+          ...generateColors(baseBackgroundColor, stormYellow, 0.7),
         },
 
         destructive: {

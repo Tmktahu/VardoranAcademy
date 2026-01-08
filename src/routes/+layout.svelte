@@ -26,11 +26,13 @@
   bg-alchemicalOrange-500 bg-alchemicalOrange-600 bg-alchemicalOrange-700 bg-alchemicalOrange-800 bg-alchemicalOrange-900
   bg-bloodRed-500 bg-bloodRed-600 bg-bloodRed-700 bg-bloodRed-800 bg-bloodRed-900
   bg-chaosPurple-500 bg-chaosPurple-600 bg-chaosPurple-700 bg-chaosPurple-800 bg-chaosPurple-900
+  bg-stormYellow-500 bg-stormYellow-600 bg-stormYellow-700 bg-stormYellow-800 bg-stormYellow-900
 
   border-botanicalGreen-200
   border-alchemicalOrange-200
   border-bloodRed-200
   border-chaosPurple-200
+  border-stormYellow-200
 -->
 
 <style>
