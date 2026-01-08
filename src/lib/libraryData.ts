@@ -75,6 +75,41 @@ export const libraryData: {
     ],
   },
   {
+    series: 'Storm Theory',
+    description:
+      'Theoretical framework and practical applications of storm magic by Ellie Tarsvesh, First Head of Arcana Studies. Covers energy flow theory, physical enhancement, combat applications, and ritual techniques for purest magical energy.',
+    color: 'stormYellow',
+    books: [
+      {
+        slug: 'foundations-storm-magic',
+        title: 'Foundations of Storm Magic',
+        bookSpineTitle: 'Foundations of<br>Storm Magic',
+        description:
+          'A scholarly treatise bound in golden-yellow leather with topaz clasps. Pages are meticulously organized with theoretical diagrams and flow analysis charts. Written in sharp, demanding academic script. Common tongue. Excellent condition.',
+        category: 'arcana',
+        path: 'lib/books/Storm Theory/1 - Foundations of Storm Magic.md',
+      },
+      {
+        slug: 'combat-applications-storm-magic',
+        title: 'Combat Applications of Storm Magic',
+        bookSpineTitle: 'Combat Applications<br>of Storm Magic',
+        description:
+          'A tactical analysis bound in electric-blue cloth with scorch marks along the spine. Pages contain combat theory with tactical flow diagrams and energy optimization charts. Written in sharp academic script with aggressive positioning notes. Common tongue. Excellent condition.',
+        category: 'arcana',
+        path: 'lib/books/Storm Theory/2 - Combat Applications of Storm Magic.md',
+      },
+      {
+        slug: 'rituals-advanced-applications-storm-magic',
+        title: 'Rituals and Advanced Applications',
+        bookSpineTitle: 'Rituals and<br>Advanced Applications',
+        description:
+          'An analytical reference bound in golden-yellow leather with topaz insets. Pages detail injection sensing techniques, magical construct analysis, and collaborative ritual frameworks. Written in sharp academic script with Transcendum comparative notes. Common tongue. Excellent condition.',
+        category: 'arcana',
+        path: 'lib/books/Storm Theory/3 - Rituals and Advanced Applications.md',
+      },
+    ],
+  },
+  {
     series: 'Flora Vardorana',
     description:
       "Systematic documentation of Vardoran's magically-significant plant species by First Head of Botanical Studies Verena Stillswater, with later medical and alchemical applications documented by Martin Ehrlich.",
