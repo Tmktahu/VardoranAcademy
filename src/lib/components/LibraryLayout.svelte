@@ -20,7 +20,7 @@
   }
 </script>
 
-<div class="w-full h-full flex items-center justify-center bg-background-400">
+<div class="w-full h-full flex items-center justify-center bg-tsecondary-400">
   <!-- Desktop Layout -->
   <div class="desktop-layout w-full">
     <div class="relative w-full cinzel-regular leading-none" bind:this={container}>
@@ -97,7 +97,7 @@
     left: 0;
     right: 0;
     height: 3%;
-    background: linear-gradient(to bottom, var(--color-background-400), transparent);
+    background: linear-gradient(to bottom, var(--color-tsecondary-400), transparent);
     pointer-events: none;
     z-index: 5;
   }
@@ -109,7 +109,7 @@
     left: 0;
     right: 0;
     height: 3%;
-    background: linear-gradient(to top, var(--color-background-400), transparent);
+    background: linear-gradient(to top, var(--color-tsecondary-400), transparent);
     pointer-events: none;
     z-index: 5;
   }
