@@ -37,13 +37,13 @@
 
 <style>
   :global(html) {
-    background: #181a20;
-    color: #e0e0e0;
+    background: var(--color-background-0);
+    color: var(--color-tprimary-0);
     font-family: system-ui, sans-serif;
   }
   :global(body) {
-    background: #181a20;
-    color: #e0e0e0;
+    background: var(--color-background-0);
+    color: var(--color-tprimary-0);
     margin: 0;
     min-height: 100vh;
   }

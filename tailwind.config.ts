@@ -4,17 +4,19 @@ import { useColors } from './src/lib/models/useColors';
 const { generateBackgroundColors, generateColors } = useColors();
 
 const pitchBlack = '#0D0D0D'; // almost black
-const baseBackgroundColor = '#0D0D0D'; // dark gray
+const baseBackgroundColor = '#2a2319'; // warm dark sepia brown - aged paper dark
 
 const basePrimaryColor = '#FF0000'; // bright red
 const baseSecondaryColor = '#8B0000'; // dark red
 
-const errorColor = '#CC4400'; // vibrant orange
-const successColor = '#FFBF00'; // bright gold
-const infoColor = '#4682B4 '; // steel blue
+const errorColor = '#8B4513'; // saddle brown - sepia error
+const successColor = '#DAA520'; // goldenrod - sepia success
+const infoColor = '#4a6741'; // olive - earthy archive green
 
 const textPrimaryColor = '#E8E8E8'; // light gray
-const textSecondaryColor = '#9E9E9E '; // medium gray
+const textSecondaryColor = '#c9a86c'; // antique gold - aged ink/bronze
+
+const destructiveColor = '#6b3a3a'; // dark brown-red - sepia destructive
 
 const botanicalGreen = '#2F4F2F';
 const alchemicalOrange = '#FF8C00';
@@ -46,6 +48,7 @@ const config = {
       error: generateColors(pitchBlack, errorColor, primaryOverlayOpacity),
       success: generateColors(pitchBlack, successColor, primaryOverlayOpacity),
       info: generateColors(pitchBlack, infoColor, secondaryOverlayOpacity),
+      destructive: generateColors(pitchBlack, destructiveColor, primaryOverlayOpacity),
 
       tprimary: generateColors(pitchBlack, textPrimaryColor, primaryOverlayOpacity),
       tsecondary: generateColors(pitchBlack, textSecondaryColor, primaryOverlayOpacity),
@@ -144,12 +147,9 @@ const config = {
         },
 
         destructive: {
-          DEFAULT: 'hsl(var(--destructive) / <alpha-value>)',
-          foreground: 'hsl(var(--destructive-foreground) / <alpha-value>)',
-        },
-        muted: {
-          DEFAULT: 'hsl(var(--muted) / <alpha-value>)',
-          foreground: 'hsl(var(--muted-foreground) / <alpha-value>)',
+          DEFAULT: generateColors(baseBackgroundColor, destructiveColor, primaryOverlayOpacity)[0],
+          foreground: generateColors(baseBackgroundColor, destructiveColor, primaryOverlayOpacity),
+          ...generateColors(baseBackgroundColor, destructiveColor, primaryOverlayOpacity),
         },
         accent: {
           DEFAULT: 'hsl(var(--accent) / <alpha-value>)',

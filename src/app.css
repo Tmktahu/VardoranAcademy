@@ -7,12 +7,13 @@
 
 html {
   overflow: hidden;
+  background: var(--color-background-0);
 }
 
 body {
   height: 100vh;
-  /* background-color: var(--color-background-0); */
-  color: var(--color-tsecondary-50);
+  background-color: var(--color-background-0);
+  color: var(--color-tprimary-0);
   font-family: 'EB Garamond', serif;
   letter-spacing: 0.02em;
   font-size: 18px;
@@ -24,10 +25,14 @@ button {
   cursor: pointer;
 }
 
-.hide-scrollbar {
-  -ms-overflow-style: none; /* IE and Edge */
-  scrollbar-width: none; /* Firefox */
-}
+ .hide-scrollbar {
+   -ms-overflow-style: none; /* IE and Edge */
+   scrollbar-width: none; /* Firefox */
+ }
+
+ .hide-scrollbar::-webkit-scrollbar {
+   display: none; /* Chrome, Safari and Opera */
+ }
 
 /* fallback and base styles for .marked */
 .marked {
