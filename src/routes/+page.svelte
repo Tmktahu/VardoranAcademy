@@ -32,7 +32,7 @@
     <nav class="flex items-center justify-center gap-8 nav-background">
       <a href="https://discord.gg/Rh9eZNqtpf" target="_blank" class="text-tsecondary-0! hover:text-tprimary-0! transition-colors duration-300 text-xl px-5 py-1">Discord</a>
 
-      <h1 class="text-4xl font-semibold text-tprimary-0 py-2 tracking-widest">The Academy</h1>
+      <h1 class="text-4xl font-semibold text-white py-2 tracking-widest">The Academy</h1>
 
       <a href="/library" class="text-tsecondary-0! hover:text-tprimary-0! transition-colors duration-300 text-xl px-5 py-1"> Library </a>
     </nav>
@@ -42,7 +42,7 @@
     </div>
   </header>
 
-  <main class="max-w-5xl grow mx-auto px-8 pb-16 relative z-10 overflow-y-auto h-[calc(100vh-90px)] hide-scrollbar">
+  <main class="text-tprimary-0 max-w-5xl grow mx-auto px-8 pb-16 relative z-10 overflow-y-auto h-[calc(100vh-90px)] hide-scrollbar">
     <section class="mb-8 mt-8">
       <div class="grid grid-cols-2 gap-8">
         <div class="rules-column px-6 py-5 bg-background-0/90">
@@ -164,7 +164,7 @@
   @import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400;500;600;700&family=Source+Sans+Pro:wght@300;400;500&display=swap');
 
   .nav-background {
-    background: linear-gradient(to left, transparent, rgba(0, 0, 0, 0.4) 30%, rgba(0, 0, 0, 0.4) 70%, transparent);
+    background: linear-gradient(to left, transparent, rgba(0, 0, 0, 0.8) 30%, rgba(0, 0, 0, 0.8) 70%, transparent);
   }
 
   .section-header-background {
