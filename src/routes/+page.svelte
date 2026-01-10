@@ -38,7 +38,7 @@
     </nav>
 
     <div class="flex justify-center w-full">
-      <p class="text-xs px-32 text-center text-tprimary-0 tracking-wide italic nav-background">Knowledge Through Unity, Wisdom Through Practice</p>
+      <p class="text-xs px-32 text-center text-tprimary-0 tracking-wide italic nav-background">Do as you wish, but don't be stupid</p>
     </div>
   </header>
 
