@@ -42,7 +42,7 @@
     </div>
   </header>
 
-  <main class="max-w-5xl mx-auto px-8 pb-16 relative z-10 overflow-y-auto h-[calc(100vh-90px)] hide-scrollbar">
+  <main class="max-w-5xl grow mx-auto px-8 pb-16 relative z-10 overflow-y-auto h-[calc(100vh-90px)] hide-scrollbar">
     <section class="mb-8 mt-8">
       <div class="grid grid-cols-2 gap-8">
         <div class="rules-column px-6 py-5 bg-background-0/90">
@@ -83,12 +83,12 @@
     </section>
 
     <section class="mb-20 relative personnel-section">
-      <div class="cinzel-regular text-4xl py-2 text-center nav-background">Academy Personnel</div>
+      <div class="cinzel-regular text-4xl py-2 text-center nav-background mb-1">Academy Personnel</div>
 
       <!-- Board Members -->
-      <div class="mb-8">
+      <div class="mb-4">
         <h3 class="nav-background text-[1.5rem] font-medium text-tprimary-0 text-center tracking-[0.08em]">Board Members</h3>
-        <div class="grid grid-cols-[repeat(auto-fit,minmax(280px,1fr))] gap-8 mt-8">
+        <div class="grid grid-cols-[repeat(auto-fit,minmax(280px,1fr))] gap-8 mt-4">
           {#each boardMembers as member (member.name)}
             <div class="archive-card border border-tsecondary-500/30 px-4 py-2 relative bg-background-0/90 transition-all duration-300">
               <div class="text-center text-xl font-medium text-tprimary-0 tracking-[0.05em]">{member.name}</div>
@@ -102,9 +102,9 @@
       </div>
 
       <!-- Faculty -->
-      <div class="mb-8">
+      <div class="mb-4">
         <h3 class="nav-background text-[1.5rem] font-medium text-tprimary-0 text-center tracking-[0.08em]">Faculty</h3>
-        <div class="grid grid-cols-[repeat(auto-fit,minmax(280px,1fr))] gap-8 mt-8">
+        <div class="grid grid-cols-[repeat(auto-fit,minmax(280px,1fr))] gap-8 mt-4">
           {#each faculty as member (member.name)}
             <div class="archive-card border border-tsecondary-500/30 px-8 py-8 relative bg-background-0 transition-all duration-300">
               <div class=" text-[1.4rem] font-medium text-tprimary-0 mb-0.5 tracking-[0.05em]">{member.name}</div>
