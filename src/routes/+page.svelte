@@ -83,11 +83,11 @@
     </section>
 
     <section class="mb-20 relative personnel-section">
-      <div class="cinzel-regular text-4xl py-2 text-center nav-background mb-1">Academy Personnel</div>
+      <div class="cinzel-regular text-4xl py-2 text-center section-header-background mb-1">Academy Personnel</div>
 
       <!-- Board Members -->
       <div class="mb-4">
-        <h3 class="nav-background text-[1.5rem] font-medium text-tprimary-0 text-center tracking-[0.08em]">Board Members</h3>
+        <h3 class="section-header-background text-[1.5rem] font-medium text-tprimary-0 text-center tracking-[0.08em]">Board Members</h3>
         <div class="grid grid-cols-[repeat(auto-fit,minmax(280px,1fr))] gap-8 mt-4">
           {#each boardMembers as member (member.name)}
             <div class="archive-card border border-tsecondary-500/30 px-4 py-2 relative bg-background-0/90 transition-all duration-300">
@@ -103,7 +103,7 @@
 
       <!-- Faculty -->
       <div class="mb-4">
-        <h3 class="nav-background text-[1.5rem] font-medium text-tprimary-0 text-center tracking-[0.08em]">Faculty</h3>
+        <h3 class="section-header-background text-[1.5rem] font-medium text-tprimary-0 text-center tracking-[0.08em]">Faculty</h3>
         <div class="grid grid-cols-[repeat(auto-fit,minmax(280px,1fr))] gap-8 mt-4">
           {#each faculty as member (member.name)}
             <div class="archive-card border border-tsecondary-500/30 px-8 py-8 relative bg-background-0 transition-all duration-300">
@@ -165,6 +165,10 @@
 
   .nav-background {
     background: linear-gradient(to left, transparent, rgba(0, 0, 0, 0.4) 30%, rgba(0, 0, 0, 0.4) 70%, transparent);
+  }
+
+  .section-header-background {
+    background: linear-gradient(to left, transparent, var(--color-background-0) 30%, var(--color-background-0) 70%, transparent);
   }
 
   /* Full page octagram background */
