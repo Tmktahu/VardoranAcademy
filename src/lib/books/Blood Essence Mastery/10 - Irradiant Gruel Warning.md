@@ -1,11 +1,11 @@
 # Blood Essence Mastery: Irradiant Gruel Warning
 > **Series:** Blood Essence Mastery, Volume 10  
 > **Author:** Malcolm Maxworthy, First Head of Chemical Studies  
-> **Written:** AD 67
+> **Written:** 67 AD
 ## How I Developed This Formula
 I need to address this directly: this formula exists primarily for documenting dangerous practice rather than encouraging it. Irradiant Gruel increases prisoner blood quality but carries significant mutation risk. The ethics are questionable at best.
 
-The formula emerged from examining plague brier's mutagenic properties when combined with mutant grease. Both materials carry transformative compounds—plague brier from chemical contamination, mutant grease from biological mutation. Together, they create substance that dramatically alters subject physiology.
+The formula emerged from examining plague brier's mutagenic properties when combined with mutant grease. Both materials carry transformative compounds, which include plague brier from chemical contamination and mutant grease from biological mutation. Together, they create substance that dramatically alters subject physiology.
 
 In controlled doses, this increases blood quality as subject's body adapts to mutagenic stress. Unfortunately, approximately 35% of subjects undergo uncontrolled transformation into raging mutants. This represents unacceptable risk for what amounts to marginal blood quality improvement.
 
@@ -14,10 +14,10 @@ I include this formula for academic completeness and explicit warning. If you're
 **Ingredients:**
 - 20 measures plague brier
 - 20 measures mutant grease
-- Note: No container specified—this is not consumed by user
+- Note: No container specified because this is not consumed by user
 
 **Preparation:**
-Grind plague brier flowers thoroughly. Process mutant grease into liquid form through gentle heating—it solidifies at room temperature but liquefies easily. Combine ground plague brier with liquefied mutant grease while stirring constantly.
+Grind plague brier flowers thoroughly. Process mutant grease into liquid form through gentle heating because it solidifies at room temperature but liquefies easily. Combine ground plague brier with liquefied mutant grease while stirring constantly.
 
 The mixture forms thick, unpleasant paste. The combination smells terrible and maintains disturbing greenish-brown color. This is normal for materials derived from chemical contamination and biological mutation.
 
@@ -25,7 +25,7 @@ The mixture forms thick, unpleasant paste. The combination smells terrible and m
 This is fed to prisoners, not consumed by vampires. Small amounts mixed into prisoner food provide mutagenic exposure. The subject processes compounds over several days, during which blood quality increases by 1-2%.
 
 **Mutation Risk:**
-35% chance subject transforms into raging mutant. The transformation occurs unpredictably—might happen immediately, might occur days later. Transformed subjects become violent, lose sapience, require immediate containment or elimination.
+35% chance subject transforms into raging mutant. The transformation occurs unpredictably, which means it might happen immediately or might occur days later. Transformed subjects become violent, lose sapience, require immediate containment or elimination.
 ## Why This Exists
 Vampire operations requiring high-quality blood sometimes resort to this despite risks. The blood quality increase represents meaningful improvement for certain blood-dependent processes. Some vampires consider 35% loss rate acceptable for 65% success rate.
 
@@ -35,7 +35,7 @@ The Academy's position: we neither encourage nor support this application. We do
 ## The Mutation Mechanism
 The mutagenic transformation appears related to subject's adaptive response to combined chemical and biological stressors. Most subjects adapt successfully, increasing blood vitality through stress response. Minority undergo catastrophic adaptation failure resulting in uncontrolled mutation.
 
-No reliable predictors exist for which subjects will transform. Age, health, species—none correlate meaningfully with mutation risk. The 35% appears essentially random, making risk mitigation impossible beyond simply not using the formula.
+No reliable predictors exist for which subjects will transform. Age, health, and species all do not correlate meaningfully with mutation risk. The 35% appears essentially random, making risk mitigation impossible beyond simply not using the formula.
 
 Transformed subjects demonstrate:
 - Extreme aggression
@@ -66,7 +66,7 @@ Monitor subjects constantly after administration. Transformation can occur witho
 
 Never use on subjects in unsecured locations. Transformed mutants in uncontrolled settings create disasters.
 
-The blood quality increase is modest—1-2% maximum. Weigh this carefully against 35% chance of losing subject entirely plus handling transformed mutant.
+The blood quality increase is modest, at 1-2% maximum. Weigh this carefully against 35% chance of losing subject entirely plus handling transformed mutant.
 
 No antidote exists. Once transformation begins, it cannot be stopped or reversed. Transformed subjects remain mutants permanently.
 

@@ -2,9 +2,9 @@
 > **Series:** Blood Essence Mastery, Volume 5  
 > **Author:** Malcolm Maxworthy, First Head of Chemical Studies  
 > **Formula Source:** Theresa Proudmoore, Academy Faculty (Essence Research)  
-> **Written:** AD 89
+> **Written:** 89 AD
 ## How This Formula Developed
-Theresa's fifth elixir targeted mobility and stealth rather than direct combat power. She combined sunflower and fire blossom—plants with holy trace properties and movement enhancement.
+Theresa's fifth elixir targeted mobility and stealth rather than direct combat power. She combined sunflower and fire blossom, which are plants with holy trace properties and movement enhancement.
 
 Her reasoning seemed odd initially: "Holy-touched plant plus movement plant should enhance stealth? Those don't relate logically." Her response: "Sunflower's holy trace creates subtle energy signature. Fire blossom provides movement enhancement. Together, they improve ability to move quickly while maintaining concealment."
 
@@ -38,9 +38,9 @@ Courier services operating through hostile territory appreciate the mobility enh
 ## Theresa's Research Notes
 (Her explanation of holy-movement synergy)
 
-"Malcolm questioned how sunflower's holy properties enhance stealth. Answer: holy trace doesn't enhance stealth directly—it stabilizes magical effects generally. Veil abilities are magical. Stable magic means more reliable veil function and faster recovery.
+"Malcolm questioned how sunflower's holy properties enhance stealth. Answer: holy trace doesn't enhance stealth directly; it stabilizes magical effects generally. Veil abilities are magical. Stable magic means more reliable veil function and faster recovery.
 
-Fire blossom provides movement enhancement we already knew about from other applications. Not complicated—you just move faster.
+Fire blossom provides movement enhancement we already knew about from other applications. Not complicated because you just move faster.
 
 Combined effect: you move faster while maintaining better magical stealth capability. The 4% movement increase sounds modest but proves significant during extended operations. The 7% veil recovery means more frequent concealment access.
 
@@ -62,6 +62,6 @@ The 4% movement increase won't save you in direct pursuit. If enemies detect you
 
 Vampiric users may experience mild discomfort from sunflower's holy trace. The concentration is low enough that most vampires tolerate it easily, but sensitivity varies. Test your tolerance before depending on this in field operations.
 
-Greater Blood Essence remains expensive. This elixir serves specialized purposes—don't prepare it for general use when other formulations would serve better.
+Greater Blood Essence remains expensive. This elixir serves specialized purposes, so don't prepare it for general use when other formulations would serve better.
 
 The bright amber color is correct. Dull orange means insufficient sunflower integration. Dark brown means overheated essence. Either indicates failed batch.

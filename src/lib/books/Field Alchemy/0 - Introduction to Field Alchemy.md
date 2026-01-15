@@ -1,17 +1,17 @@
 # Field Alchemy: Introduction to Basic Formulations
 > **Series:** Field Alchemy, Volume 0  
 > **Author:** Malcolm Maxworthy, First Head of Chemical Studies  
-> **Written:** AD 50
+> **Written:** 50 AD
 ## Welcome to Practical Alchemy
 You're holding the introduction to my field alchemy documentation. I started writing these guides because too many students kept asking the same questions, and frankly, I got tired of repeating myself. Now you get to benefit from my laziness.
 
-This series covers field alchemy—formulations you can prepare with waterskin, basic ingredients, and minimal equipment. If you can grind plants and measure liquids, you can make everything in here. Notice I didn't say "safely make everything." That comes with practice and paying attention.
+This series covers field alchemy, which includes formulations you can prepare with waterskin, basic ingredients, and minimal equipment. If you can grind plants and measure liquids, you can make everything in here. Notice I didn't say "safely make everything." That comes with practice and paying attention.
 
 I've organized these seven formulations by what you're most likely to need first. Resistance brews because vampires face various threats regularly. Combat enhancement because you'll want to hit harder or cast better. Healing because you'll eventually hurt yourself doing stupid things. Trust me on that last one.
 ## What You'll Learn
 This series teaches foundational technique applicable to all later work. How to grind plants properly. Why steeping time matters. Which ingredients need separation until mixing. The basics that prevent explosions, poisoning, or creating useless colored water.
 
-Each formula includes source attribution. Some come from my own research through extensive trial and error—you'll notice I document failures enthusiastically. Others come from collaborations with colleagues or external sources. The Ashen Keep monster hunters, for instance, taught me their field-tested combat formulas. I've noted who contributed what because credit matters, and because knowing a formula's origin often explains its quirks.
+Each formula includes source attribution. Some come from my own research through extensive trial and error, so you'll notice I document failures enthusiastically. Others come from collaborations with colleagues or external sources. The Ashen Keep monster hunters, for instance, taught me their field-tested combat formulas. I've noted who contributed what because credit matters, and because knowing a formula's origin often explains its quirks.
 ## My Teaching Philosophy
 I believe in learning through doing, with appropriate safety margins. Read the entire formula before starting. Gather all materials first. Then proceed carefully while accepting that mistakes happen. You'll waste materials. You'll create batches that don't work. This is normal and expected.
 
@@ -55,9 +55,9 @@ Each formula follows consistent structure:
 
 **Important Warnings:** Safety considerations and common errors. Usually placed last because that's when I remember them.
 
-Read completely before starting preparation. Cross-reference plant descriptions in Flora Vardorana if uncertain about identification. Gather all materials before beginning. Prepare in order presented—early formulas teach techniques needed for later ones.
+Read completely before starting preparation. Cross-reference plant descriptions in Flora Vardorana if uncertain about identification. Gather all materials before beginning. Prepare in order presented because early formulas teach techniques needed for later ones.
 ## A Note on Progression
-Master these seven formulations before advancing to my Advanced Preparations series. The techniques you develop preparing field brews—proper grinding, timing awareness, ratio precision—form foundation for more complex work.
+Master these seven formulations before advancing to my Advanced Preparations series. The techniques you develop preparing field brews, including proper grinding, timing awareness, and ratio precision, form foundation for more complex work.
 
 Don't rush advancement. Glass bottle preparations in Advanced Preparations require additional equipment and technique. Blood essence work in Blood Essence Mastery demands expertise with both previous series plus access to expensive materials. Build competence methodically.
 

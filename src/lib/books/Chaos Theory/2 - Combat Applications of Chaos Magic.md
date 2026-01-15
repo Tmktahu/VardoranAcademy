@@ -1,7 +1,7 @@
 # Chaos Theory: Combat Applications of Chaos Magic
 > **Series:** Chaos Theory, Volume 2  
 > **Author:** Ellie Tarsvesh  
-> **Written:** AD 43
+> **Written:** 43 AD
 ## Combat Philosophy
 
 Chaos magic is offense. There is no defensive application, no protective barrier that actually shields, no sustained effect that keeps you safe. Every manifestation of chaos magic destroys something. This defines how chaos practitioners must approach combat entirely.

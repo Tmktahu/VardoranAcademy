@@ -1,7 +1,7 @@
 # Corrupted Flower: *Flos Corruptus*
 > **Series:** Flora Vardorana: A Comprehensive Study, Modern Addendum  
 > **Author:** Martin Ehrlich  
-> **Written:** AMR 15
+> **Written:** 15 AMR
 ## Description and Habitat
 Corrupted flower specimens display consistent morphology: vibrant magenta to purple petals emitting measurable luminescence (approximately 2-3 lumens at peak), emerging from dark teal bases. Coloration remains stable post-harvest for 6-8 hours before degradation. Petal structure shows cellular disruption consistent with venom sap exposure. Grows in clustered formations where corruption density exceeds threshold levels.
 

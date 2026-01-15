@@ -1,7 +1,7 @@
 # Mourning Lily: *Lilium Luctus*
 > **Series:** Flora Vardorana: A Comprehensive Study, Volume VI  
 > **Author:** Verena Stillswater (original text), Martin Ehrlich (medical applications)  
-> **Written:** AD 56 (original), AMR 201 (medical applications)
+> **Written:** 56 AD (original), 201 AMR (medical applications)
 ## Description and Habitat
 The mourning lily displays distinctive drooping bell-shaped flowers in pale blue to teal hues, hanging downward from gracefully curved stems. The blooms possess a mournful, weighted appearance, as if bowing in perpetual grief. Dark green leaves grow along the stems, providing contrast to the delicate flowers.
 

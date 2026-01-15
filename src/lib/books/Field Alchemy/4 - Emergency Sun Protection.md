@@ -1,13 +1,13 @@
 # Field Alchemy: Emergency Sun Protection
 > **Series:** Field Alchemy, Volume 4  
 > **Author:** Malcolm Maxworthy, First Head of Chemical Studies  
-> **Written:** AD 45
+> **Written:** 45 AD
 ## How I Developed This Formula
-Sun resistance represents critical concern for vampiric researchers. Accidents happen—curtains fail, emergency travel requires daytime movement, experiments generate unexpected light. We've lost too many vampiric students to sun exposure to treat this casually.
+Sun resistance represents critical concern for vampiric researchers. Accidents happen like curtains falling, emergency travel requiring daytime movement, and experiments generating unexpected light. We've lost too many vampiric students to sun exposure to treat this casually.
 
-The challenge: creating protection against holy light using available plants. Most solar-touched flora are holy-aligned, which obviously doesn't help vampires. The breakthrough came from combining plants associated with death and blood—opposing forces that together create shadow sufficient to block sun's worst effects.
+The challenge: creating protection against holy light using available plants. Most solar-touched flora are holy-aligned, which obviously doesn't help vampires. The breakthrough came from combining plants associated with death and blood, which are opposing forces that together create shadow sufficient to block sun's worst effects.
 
-I still don't fully understand why mourning lily and blood rose work together. I asked Ellie about it after my twenty-third failed attempt. Her response: "They're in opposition but not cancellation. Think of it like—" and then she launched into an explanation involving magical state interference patterns and resonance disruption that I couldn't follow. I asked her to simplify. She sighed the way she does when she's decided you're hopeless and said: "The sun burns vampires through direct magical contact with vampiric essence. These plants create opposing magical states that generate noise in that connection. Noise weakens the burning. Is that simple enough for you?"
+I still don't fully understand why mourning lily and blood rose work together. I asked Ellie about it after my twenty-third failed attempt. Her response: "They're in opposition but not cancellation. Think of it like," and then she launched into an explanation involving magical state interference patterns and resonance disruption that I couldn't follow. I asked her to simplify. She sighed the way she does when she's decided you're hopeless and said: "The sun burns vampires through direct magical contact with vampiric essence. These plants create opposing magical states that generate noise in that connection. Noise weakens the burning. Is that simple enough for you?"
 
 It was, actually. The plants don't block the sun, they just make the connection fuzzy enough that the burning is reduced.
 
@@ -19,9 +19,9 @@ This formula took thirty-seven attempts before producing consistent results. The
 - 1 empty waterskin
 
 **Preparation:**
-Grind mourning lily flowers until finely pulverized. The drooping petals become easier to process once wilted—fresh flowers work but require more effort. Separately grind blood rose petals. Keep them apart until ready to combine.
+Grind mourning lily flowers until finely pulverized. The drooping petals become easier to process once wilted, although fresh flowers work but require more effort. Separately grind blood rose petals. Keep them apart until ready to combine.
 
-Mix ground materials together gradually. You'll notice slight warming as they interact—that's normal and indicates proper combination. The warming suggests the plants' opposing natures creating balanced state.
+Mix ground materials together gradually. You'll notice slight warming as they interact, which is normal and indicates proper combination. The warming suggests the plants' opposing natures creating balanced state.
 
 Transfer to waterskin, add clean water to fill. Shake vigorously for one minute, steep 30 minutes minimum. The brew turns muddy red-brown. Not attractive, but effective. Strain before use.
 
@@ -42,10 +42,10 @@ Some vampires report using it for watching sunrises or sunsets from safe positio
 
 **Attempt #27:** Increased ratio to 40:40 expecting proportional improvement. Result: waste of materials. Protection level remained identical to 20:20 ratio. The plants reach maximum effectiveness at lower concentrations.
 
-**Attempt #34:** Added fire blossom thinking thermal resistance might help. Accomplished nothing except making brew taste worse and cost more. The burning from sunlight isn't conventional thermal damage—fire resistance doesn't help.
+**Attempt #34:** Added fire blossom thinking thermal resistance might help. Accomplished nothing except making brew taste worse and cost more. The burning from sunlight isn't conventional thermal damage, so fire resistance doesn't help.
 ## Important Warnings
 This is MINOR sun resistance. You will not be able to walk around casually in daylight. You will still burn, just more slowly. Don't overestimate the protection or you'll learn painful lessons about its limits.
 
-Multiple doses don't stack. Drinking three waterskins doesn't give you three times the protection. Effect has a ceiling—your second waterskin during active protection wastes materials.
+Multiple doses don't stack. Drinking three waterskins doesn't give you three times the protection. Effect has a ceiling, so your second waterskin during active protection wastes materials.
 
 If you start feeling burning sensation while under this brew's effect, get out of sunlight immediately. The protection has limits and you're approaching them.

@@ -1,7 +1,7 @@
 # Sunflower: *Helianthus Sacrus*
 > **Series:** Flora Vardorana: A Comprehensive Study, Volume IV  
 > **Author:** Verena Stillswater  
-> **Written:** AD 54
+> **Written:** 54 AD
 ## Description and Habitat
 The sunflower displays distinctive large flower heads with bright yellow petals radiating from dark central discs. The blooms grow atop tall, sturdy stems that can reach impressive heights. Large, broad leaves provide substantial foliage. The flower heads track the sun's movement across the sky, a characteristic that holds particular significance for those who cultivate them.
 

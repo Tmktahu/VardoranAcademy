@@ -1,7 +1,7 @@
 # Plague Brier: *Rubus Pestilens*
 > **Series:** Flora Vardorana: A Comprehensive Study, Volume XI  
 > **Author:** Verena Stillswater  
-> **Written:** AD 63
+> **Written:** 63 AD
 ## Description and Habitat
 The plague brier displays distinctive bright yellow star-shaped flowers with sharp, spiky petals radiating outward like miniature suns. The blooms grow on curved brown stems that emerge from clusters of leaves. The plant produces thick, thorny briars that require iron or stronger implements to harvest safely, as lesser tools prove insufficient to penetrate the woody growth.
 

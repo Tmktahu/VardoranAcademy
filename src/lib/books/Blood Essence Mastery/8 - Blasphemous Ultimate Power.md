@@ -2,9 +2,9 @@
 > **Series:** Blood Essence Mastery, Volume 8  
 > **Author:** Malcolm Maxworthy, First Head of Chemical Studies  
 > **Formula Source:** Theresa Proudmoore, Academy Faculty (Essence Research)  
-> **Written:** AD 89
+> **Written:** 89 AD
 ## How This Formula Developed
-Theresa's seventh elixir targeted ultimate ability enhancement—the most powerful combat capabilities requiring longest recovery periods. She combined plague brier and hell's clarion—plants with chemical corruption and chaos properties.
+Theresa's seventh elixir targeted ultimate ability enhancement, which represents the most powerful combat capabilities requiring longest recovery periods. She combined plague brier and hell's clarion, which are plants with chemical corruption and chaos properties.
 
 Her reasoning: "Ultimate abilities represent peak power expression. Need plants that amplify extreme states. Plague brier's chemical enhancement plus hell's clarion's chaos amplification should create maximum power boost while improving recovery."
 
@@ -23,7 +23,7 @@ Grind plague brier and hell's clarion separately. Keep apart until essence addit
 
 Dissolve Greater Blood Essence in minimal water with gentle heat. Once fully dissolved, add ground plague brier first. Stir until muddy yellow suspension forms. Then add hell's clarion gradually. The color shifts to dark reddish-brown as both plants integrate.
 
-Continue stirring five minutes for stabilization. The chemical and chaos properties need time to settle into balanced configuration. The mixture will warm noticeably—this is normal. Transfer to glass bottle immediately and seal quickly.
+Continue stirring five minutes for stabilization. The chemical and chaos properties need time to settle into balanced configuration. The mixture will warm noticeably, which is normal. Transfer to glass bottle immediately and seal quickly.
 
 **Effect:**
 One bottle provides 24 hours enhanced ultimate ability performance. Ultimate cooldown recovers approximately 16% faster, ultimate power increases approximately 10%. The combination enables more frequent, more powerful ultimate deployments.
@@ -38,9 +38,9 @@ Arena champions building strategies around ultimate timing appreciate the cooldo
 ## Theresa's Research Notes
 (Her explanation of chemical-chaos synergy)
 
-"Ultimate abilities represent controlled chaos—massive power expression requiring complete magical commitment. Plague brier's chemical enhancement amplifies this extreme state. Hell's clarion's chaos properties resonate with ultimate abilities' nature, creating natural amplification.
+"Ultimate abilities represent controlled chaos, which means massive power expression requiring complete magical commitment. Plague brier's chemical enhancement amplifies this extreme state. Hell's clarion's chaos properties resonate with ultimate abilities' nature, creating natural amplification.
 
-The 16% cooldown improvement is dramatic compared to other formulations' 7%. Ultimate abilities take longer to recover naturally, so acceleration effects prove more pronounced. Same mechanism—excess energy channeling into recovery—but larger base recovery period means larger absolute improvement.
+The 16% cooldown improvement is dramatic compared to other formulations' 7%. Ultimate abilities take longer to recover naturally, so acceleration effects prove more pronounced. Same mechanism applies, which is excess energy channeling into recovery, but larger base recovery period means larger absolute improvement.
 
 The 10% power increase applies to all ultimate ability effects. Damage, duration, area of effect, any measurable ultimate performance metric improves. This makes formula valuable even for non-damage ultimates.
 
@@ -52,7 +52,7 @@ The dual enhancement creates powerful synergistic effect:
 
 **Deployment Frequency:** 16% faster recovery means substantially more ultimate uses over extended engagement. In hour-long battle, that's multiple additional ultimate deployments.
 
-**Power Output:** 10% increased power applies to all ultimate aspects. More damage, larger areas, longer durations, stronger effects—everything improves proportionally.
+**Power Output:** 10% increased power applies to all ultimate aspects. More damage, larger areas, longer durations, and stronger effects all improve proportionally.
 
 **Strategic Impact:** More frequent powerful ultimates fundamentally changes combat strategy. Opponents must account for your enhanced ultimate pressure constantly rather than planning around long cooldown periods.
 
@@ -60,8 +60,8 @@ The dual enhancement creates powerful synergistic effect:
 ## Important Warnings
 Enhanced ultimate performance doesn't replace strategic judgment. More frequent access to powerful abilities can encourage reckless deployment. Save ultimates for appropriate moments rather than using them immediately upon cooldown.
 
-The plague brier/hell's clarion combination creates noticeably warm preparation. This is normal but requires caution. Don't let mixture overheat—maintain gentle warmth, not active heating.
+The plague brier/hell's clarion combination creates noticeably warm preparation. This is normal but requires caution. Don't let mixture overheat because you should maintain gentle warmth, not active heating.
 
 Greater Blood Essence remains expensive. This elixir serves specialized purposes for ultimate-focused builds. Don't prepare it if your combat style doesn't emphasize ultimate ability use.
 
-The dark reddish-brown color is correct. Bright yellow means insufficient hell's clarion integration. Black means overheated—dispose of immediately, that batch is unsafe.
+The dark reddish-brown color is correct. Bright yellow means insufficient hell's clarion integration. Black means overheated, so dispose of immediately because that batch is unsafe.

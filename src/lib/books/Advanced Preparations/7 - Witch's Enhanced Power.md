@@ -1,11 +1,11 @@
 # Advanced Preparations: Witch's Enhanced Power
 > **Series:** Advanced Preparations, Volume 7  
 > **Author:** Malcolm Maxworthy, First Head of Chemical Studies  
-> **Written:** AD 44
+> **Written:** 44 AD
 ## How I Developed This Formula
 After successfully improving Brew of Ferocity into Potion of Rage, I turned attention to enhancing Enchanted Brew. The same question applied: could we make something stronger while maintaining control?
 
-The answer came from unexpected direction. I'd been experimenting with sacred grapes for holy resistance applications when I noticed they seemed to amplify magical workings nearby. Further testing confirmed it—sacred grapes don't just carry holy essence, they somehow resonate with magical energy generally.
+The answer came from unexpected direction. I'd been experimenting with sacred grapes for holy resistance applications when I noticed they seemed to amplify magical workings nearby. Further testing confirmed that sacred grapes don't just carry holy essence; they somehow resonate with magical energy generally.
 
 Combining sacred grapes with snow flower created remarkable synergy. The grapes' holy trace doesn't conflict with snow flower's frost properties. Instead, they complement each other, creating amplification effect significantly stronger than either plant alone.
 
@@ -18,18 +18,16 @@ The formula required careful balancing. Too much sacred grape and the holy essen
 - 1 empty glass bottle
 
 **Preparation:**
-Crush sacred grapes thoroughly to release juice. The grapes must originate from Brighthaven Vineyards—their holy trace is essential to the amplification effect. Grapes from other sources produce inferior results.
+Crush sacred grapes thoroughly to release juice. The grapes must originate from Brighthaven Vineyards because their holy trace is essential to the amplification effect. Grapes from other sources produce inferior results.
 
-Grind snow flowers separately. Don't combine with grapes yet—they need sequential integration. Pulverize fish bone completely.
+Grind snow flowers separately. Don't combine with grapes yet because they need sequential integration. Pulverize fish bone completely.
 
 Add fish bone powder to crushed grapes first. Mix thoroughly. The combination should turn slightly purple as compounds integrate. Then add ground snow flower gradually while stirring. The mixture will turn deeper blue with purple undertones as plants combine.
 
 Transfer to glass bottle, add clean water to fill. Seal and shake vigorously for two minutes. Let steep one hour minimum. The potion should be rich blue-purple with noticeable coolness. Strain before use.
 
 **Effect:**
-One bottle provides 60 minutes significantly enhanced spell power. Magical workings manifest approximately 30-35% more powerfully than baseline—nearly double the enhancement of basic Enchanted Brew. Casters report spells feeling almost effortless to execute, with arcane energy responding eagerly to manipulation.
-
-Effect persists through death.
+One bottle provides 1 day significantly enhanced spell power. Magical workings manifest approximately 30-35% more powerfully than baseline, which is nearly double the enhancement of basic Enchanted Brew. Casters report spells feeling almost effortless to execute, with arcane energy responding eagerly to manipulation.
 ## Practical Uses
 Advanced combat mages favor this over basic Enchanted Brew for situations requiring maximum magical impact. Siege magic, large-scale battlefield spells, any application where raw power matters more than subtle control.
 
@@ -39,7 +37,7 @@ Ritual magic practitioners report this potion enables workings that would otherw
 
 Interestingly, vampiric casters note the holy trace creates slight discomfort but doesn't prevent spellcasting. The fish bone apparently moderates the holy essence enough that it remains tolerable while still providing magical amplification.
 ## Development Notes
-**Attempt #5:** Tried using 80 sacred grapes with 40 snow flower. Result: holy essence became too concentrated for vampiric test subjects. One caster described it as "casting spells while standing in sunlight"—enhanced power but deeply unpleasant.
+**Attempt #5:** Tried using 80 sacred grapes with 40 snow flower. Result: holy essence became too concentrated for vampiric test subjects. One caster described it as "casting spells while standing in sunlight," which provided enhanced power but was deeply unpleasant.
 
 **Attempt #12:** Reduced fish bone thinking it might further amplify effects. Accomplished nothing except making potion unstable. Spell power remained identical but consistency suffered dramatically.
 

@@ -1,7 +1,7 @@
 # Chaos Theory: Rituals and Advanced Applications
 > **Series:** Chaos Theory, Volume 3  
 > **Author:** Ellie Tarsvesh  
-> **Written:** AD 44-45
+> **Written:** 44-45 AD
 ## Ritual Chaos - Precision Over Power
 Combat chaos rewards overwhelming force. Ritual chaos demands surgical precision. The mindset shift is fundamental. In combat, you channel destruction broadly and accept collateral damage as inevitable. In rituals, you must unmake exactly what you target and nothing else. This requires mental discipline that surpasses what combat demands. Combat distractions manifest as immediate tactical problems. Ritual errors manifest as permanent unmaking of things you never intended to erase.
 

@@ -2,7 +2,7 @@
 > **Series:** Field Alchemy, Volume 7  
 > **Author:** Malcolm Maxworthy, First Head of Chemical Studies  
 > **Formula Source:** The Ashen Keep (monster hunter organization)  
-> **Written:** AD 38
+> **Written:** 38 AD
 ## How I Learned This Formula
 Mira Ashworth provided this formula during the same visit where she shared Brew of Ferocity. When I asked if they had preparations for magic users, she produced another waterskin.
 
@@ -12,7 +12,7 @@ I expected different plants, complex preparation, maybe theoretical discussion o
 
 The elegant simplicity impressed me more than elaborate formulation would have. The Ashen Keep understands that field alchemy must be practical. Complex preparations fail when you're bleeding in the woods miles from laboratory. Simple formulations you can mix in camp save lives.
 
-This brew represents their magical combat solution—straightforward, reliable, effective. Like their physical enhancement formula, it works because extensive field testing proves it works.
+This brew represents their magical combat solution, which is straightforward, reliable, and effective. Like their physical enhancement formula, it works because extensive field testing proves it works.
 ## The Formula
 **Ingredients:**
 - 32 measures snow flower (fresh preferred for potency)
@@ -20,18 +20,18 @@ This brew represents their magical combat solution—straightforward, reliable, 
 - 1 empty waterskin
 
 **Preparation:**
-Grind snow flowers until finely pulverized. The cold sensation persists even when crushed—normal and indicates active compounds remain intact. Add fish bone and grind together. The bone provides stabilizing properties for snow flower's frost magic affinity.
+Grind snow flowers until finely pulverized. The cold sensation persists even when crushed, which is normal and indicates active compounds remain intact. Add fish bone and grind together. The bone provides stabilizing properties for snow flower's frost magic affinity.
 
 Transfer to waterskin. Add clean water to fill. Shake vigorously for one minute, let steep 30 minutes minimum. The brew turns pale blue and remains noticeably cool. Strain solids before drinking.
 
 Mira notes hunters prepare this the evening before expected magical combat, drinking immediately upon encountering enemy spellcasters.
 
 **Effect:**
-One waterskin provides enhanced spell power throughout the day. Your magical workings manifest noticeably more powerfully than normal. The effect feels like heightened magical sensitivity—spells flow more easily, arcane energy responds more readily to manipulation.
+One waterskin provides enhanced spell power throughout the day. Your magical workings manifest noticeably more powerfully than normal. The effect feels like heightened magical sensitivity, so spells flow more easily and arcane energy responds more readily to manipulation.
 ## Practical Uses
 Monster hunting against magically-attuned prey obviously benefits from enhanced spell power. Creatures resistant to physical attacks often fall to properly-enhanced magic.
 
-Combat mages in military forces use this brew extensively. Increased spell power translates directly to battlefield effectiveness. Artillery mages find particular benefit—enhanced area-effect spells cover larger zones with increased impact.
+Combat mages in military forces use this brew extensively. Increased spell power translates directly to battlefield effectiveness. Artillery mages find particular benefit because enhanced area-effect spells cover larger zones with increased impact.
 
 The Academy's own combat instructors recommend it for dueling practice. Students learn to manage enhanced magical output in controlled environment before encountering it in actual combat.
 
@@ -39,7 +39,7 @@ Support casters report that healing and protective spells benefit equally. Enhan
 ## What the Hunters Taught Me
 Mira explained their development approach: "We noticed snow flower's frost properties made magic feel stronger when we carried it. Started testing whether consuming it increased effects. Early attempts just made people cold. Adding fish bone made it actually work."
 
-This exemplifies empirical discovery without theoretical understanding. They observed correlation, tested causation, refined through trial and error. No mechanism analysis required—the brew's effectiveness proves itself through use.
+This exemplifies empirical discovery without theoretical understanding. They observed correlation, tested causation, refined through trial and error. No mechanism analysis is required because the brew's effectiveness proves itself through use.
 
 I've attempted theoretical explanation: Snow flower's frost affinity somehow resonates with general magical energy manipulation, creating amplification effect. The fish bone's role remains mysterious beyond stabilization. Mira finds my theorizing amusing but ultimately irrelevant: "It works. That's what matters."
 

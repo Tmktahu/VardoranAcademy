@@ -2,13 +2,13 @@
 > **Series:** Blood Essence Mastery, Volume 4  
 > **Author:** Malcolm Maxworthy, First Head of Chemical Studies  
 > **Formula Source:** Theresa Proudmoore, Academy Faculty (Essence Research)  
-> **Written:** AD 89
+> **Written:** 89 AD
 ## How This Formula Developed
-Theresa's fourth elixir focused on pure offensive enhancement without the life leech mechanics. She combined ghost shroom and fire blossom—plants with perception manipulation and physical enhancement properties.
+Theresa's fourth elixir focused on pure offensive enhancement without the life leech mechanics. She combined ghost shroom and fire blossom, which are plants with perception manipulation and physical enhancement properties.
 
 Her reasoning: "Ghost shroom affects perception and timing awareness. Fire blossom enhances physical performance. Together in blood essence suspension, they should create faster, more powerful weapon strikes."
 
-Testing exceeded expectations. The combination doesn't just make attacks faster—it enhances weapon skill power simultaneously. Apparently ghost shroom's perception effects improve strike precision while fire blossom provides raw force enhancement. The blood essence holds both properties in configuration that amplifies overall weapon effectiveness.
+Testing exceeded expectations. The combination doesn't just make attacks faster; it enhances weapon skill power simultaneously. Apparently ghost shroom's perception effects improve strike precision while fire blossom provides raw force enhancement. The blood essence holds both properties in configuration that amplifies overall weapon effectiveness.
 
 This represents aggressive offensive formula without defensive components. Pure damage increase through enhanced speed and power. Theresa designed it specifically for combatants prioritizing maximum offense over sustainability.
 ## The Formula
@@ -38,7 +38,7 @@ Berserker-style combatants appreciate the pure offensive focus. When your strate
 ## Theresa's Research Notes
 (Her explanation of perception-force synergy)
 
-"Ghost shroom manipulates time perception and awareness. Doesn't actually slow time—makes you perceive it differently. Your strikes feel normal to you but land faster relative to opponents.
+"Ghost shroom manipulates time perception and awareness. Doesn't actually slow time; it makes you perceive it differently. Your strikes feel normal to you but land faster relative to opponents.
 
 Fire blossom provides physical force enhancement. Your muscles move more powerfully, strikes carry more energy, overall physical output increases.
 
@@ -52,7 +52,7 @@ Testing revealed interesting combat dynamics:
 
 **Attack Speed:** 8% increase sounds modest but proves significant in actual combat. Additional strikes per engagement time add up rapidly during extended fights.
 
-**Weapon Power:** 10% increase applies to all weapon damage, not just basic attacks. Abilities, special strikes, critical hits—all benefit from power enhancement.
+**Weapon Power:** 10% increase applies to all weapon damage, not just basic attacks. Abilities, special strikes, and critical hits all benefit from power enhancement.
 
 **Synergistic Effect:** The combined enhancement creates more than additive benefit. Faster attacks with higher power generate combat momentum that overwhelms opponents' defensive capabilities.
 

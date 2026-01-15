@@ -1,11 +1,11 @@
 # Advanced Preparations: Introduction to Intermediate Formulations
 > **Series:** Advanced Preparations, Volume 0  
 > **Author:** Malcolm Maxworthy, First Head of Chemical Studies  
-> **Written:** AD 55
+> **Written:** 55 AD
 ## Progression to Glass Bottle Work
 If you're reading this, you've presumably mastered field alchemy from my Field Alchemy series. Good. You'll need those foundational skills because glass bottle preparations add complexity in both technique and consequence. Failures with waterskin brews waste materials. Failures with glass bottle potions can create dangerous reactions.
 
-This series covers eight intermediate formulations requiring glass containers, longer steeping times, and more precise technique. These potions provide enhanced effects compared to basic brews—stronger resistance, more powerful combat enhancement, better healing. The improvement comes at cost: more expensive ingredients, longer preparation time, higher failure penalties.
+This series covers eight intermediate formulations requiring glass containers, longer steeping times, and more precise technique. These potions provide enhanced effects compared to basic brews, including stronger resistance, more powerful combat enhancement, and better healing. The improvement comes at cost: more expensive ingredients, longer preparation time, higher failure penalties.
 
 I wrote this series approximately five years after Field Alchemy, which gave me perspective on what intermediate alchemists actually need versus what I thought they needed. Turns out, practical enhancement of existing formulas proves more valuable than elaborate theoretical preparations. Who knew? (Everyone who wasn't me, apparently.)
 ## Why Glass Bottles Matter
@@ -23,7 +23,7 @@ Disadvantages exist too. Glass breaks. Glass is heavier. Glass costs more. But f
 ## New Techniques You'll Learn
 These eight formulations introduce several advanced concepts:
 
-**Concentration Management:** Creating stronger effects by using more plant material per volume. Sounds simple. Actually requires careful ratio balancing because excessive concentration doesn't just increase potency—it can create instability or side effects.
+**Concentration Management:** Creating stronger effects by using more plant material per volume. Sounds simple. Actually requires careful ratio balancing because excessive concentration doesn't just increase potency; it can create instability or side effects.
 
 **Sequential Resistance Building:** The Holy Resistance Flask demonstrates combining preparations to achieve effects impossible through single formulation. Understanding this principle opens doors to many advanced applications.
 
@@ -40,18 +40,6 @@ I've organized these eight potions by enhancement type:
 **Specialized Applications (2):** Blood Rose Potion for critical healing and Wrangler's Potion for mounted mobility. Solve specific problems remarkably well.
 
 Each formula builds on techniques from previous preparations. Progress through them sequentially rather than jumping to whichever sounds most interesting. The skill progression is intentional.
-## About My "Improvements"
-Several formulas here represent my attempts to enhance basic brews from Field Alchemy or external sources. Some worked brilliantly. Others... well, they worked eventually after extensive revision.
-
-The Ashen Keep hunters who taught me Brew of Ferocity and Enchanted Brew viewed my "improvements" with professional skepticism. Cassandra Ashworth's assessment of Potion of Rage: "Too much rage, not enough thinking." She wasn't wrong, but the formula works for those who can manage enhanced aggression.
-
-My resistance work progressed more smoothly, probably because I was more motivated. Nothing focuses research efforts like personal vulnerability to various threats. Turns out desperation creates excellent learning environment.
-## The Holy Resistance Challenge
-Holy resistance formulations took longest to perfect. Five years from initial concept to safe, reliable formula. The complexity comes from holy energy's opposition to vampiric nature—you're not just blocking damage but creating temporary adaptation to antithetical force.
-
-Holy Resistance Potion alone provides solid protection. Holy Resistance Flask takes it further through sequential enhancement approach. This two-stage method represents significant breakthrough in resistance alchemy and demonstrates that some effects require multiple preparations rather than single concentrated dose.
-
-If you're vampiric and need maximum holy protection, master both formulas. The flask preparation is expensive and time-consuming, but effectiveness justifies effort.
 ## Safety Considerations (More Important Here)
 Glass bottle preparations carry additional risks beyond field alchemy:
 
@@ -84,20 +72,12 @@ Silver Resistance Brew: I spent weeks testing elaborate extraction methods. Vere
 This pattern repeated multiple times during my research career. Whenever I'm stuck on formula development, consulting Verena often reveals I'm overthinking. Sometimes simplicity actually is the answer, despite my natural inclination toward complexity.
 
 (Though my complex approaches do occasionally produce breakthroughs. Just... less often than I'd prefer to admit.)
-## Progression to Blood Essence Mastery
-Complete these eight formulations with consistent success before approaching my Blood Essence Mastery series. That work requires expensive materials, precise technique, and understanding of advanced alchemical principles. Rush into elite formulations without intermediate mastery and you'll waste significant resources.
-
-I recommend making each formula at least three times before considering yourself proficient. First attempt teaches process. Second reveals your mistakes. Third produces reliable results. After three successes, you've internalized the technique.
-
-Blood Essence Mastery documents Theresa Proudmoore's blood essence research plus some specialized formulations. That work represents pinnacle of alchemical achievement and demands corresponding skill level. Build that foundation here.
 ## Final Thoughts
 Intermediate alchemy separates casual practitioners from serious alchemists. These formulations require dedication, patience, and willingness to fail repeatedly before succeeding. The enhanced effects justify the effort, but only if you're prepared to invest time and materials into mastering technique.
 
 Don't be discouraged by initial failures. I destroyed countless batches developing these formulas. The difference is you get to learn from my failures plus your own, giving you advantage I lacked.
 
-Start with Silver Resistance Potion—builds directly on Silver Resistance Brew you already know. Progress through remaining formulas methodically. Take notes on your results. Learn systematically.
-
-And seriously, don't rush into Blood Essence Mastery. Theresa's work is brilliant but unforgiving. Master this series first.
+Start with Silver Resistance Potion because it builds directly on Silver Resistance Brew you already know. Progress through remaining formulas methodically. Take notes on your results. Learn systematically.
 
 **Malcolm Maxworthy**
 First Head of Chemical Studies

@@ -2,15 +2,15 @@
 > **Series:** Blood Essence Mastery, Volume 3  
 > **Author:** Malcolm Maxworthy, First Head of Chemical Studies  
 > **Formula Source:** Theresa Proudmoore, Academy Faculty (Essence Research)  
-> **Written:** AD 89
+> **Written:** 89 AD
 ## How This Formula Developed
-After successfully creating Elixir of the Crow for weapon users, Theresa developed magical combat equivalent. She combined blood rose and bleeding heart—plants with healing and life-draining properties that somehow enhance spell-based life extraction.
+After successfully creating Elixir of the Crow for weapon users, Theresa developed magical combat equivalent. She combined blood rose and bleeding heart, which are plants with healing and life-draining properties that somehow enhance spell-based life extraction.
 
-The pairing seemed counterintuitive initially. Blood rose heals, bleeding heart drains. Why would healing plant enhance life leech? Theresa's explanation: "Blood rose doesn't just heal—it manipulates life force generally. Combined with bleeding heart's vampiric resonance, it creates pathway for spell-based life extraction."
+The pairing seemed counterintuitive initially. Blood rose heals, bleeding heart drains. Why would healing plant enhance life leech? Theresa's explanation: "Blood rose doesn't just heal; it manipulates life force generally. Combined with bleeding heart's vampiric resonance, it creates pathway for spell-based life extraction."
 
 Testing confirmed her theory. The combination enhances spell leech and spell cooldown recovery identically to how Crow enhances weapon effects. The blood essence suspension holds both plants' properties in balanced configuration, allowing them to work synergistically rather than opposing each other.
 
-This represents Theresa's magical combat formulation—same dual-benefit pattern as Crow elixir but optimized for spellcasters rather than weapon users. The parallel design demonstrates her systematic approach to blood essence research.
+This represents Theresa's magical combat formulation, which is the same dual-benefit pattern as Crow elixir but optimized for spellcasters rather than weapon users. The parallel design demonstrates her systematic approach to blood essence research.
 ## The Formula
 **Ingredients:**
 - 20 measures blood rose
@@ -34,13 +34,13 @@ Magical duelists appreciate cooldown reduction enabling more aggressive spell us
 
 Solo magical operations where healing is unavailable make this elixir valuable. Life leech provides sustain while cooldown recovery maintains offensive capability.
 
-Vampire mages find particular benefit from enhanced spell leech—it aligns naturally with vampiric nature while providing mechanical advantage in magical combat.
+Vampire mages find particular benefit from enhanced spell leech because it aligns naturally with vampiric nature while providing mechanical advantage in magical combat.
 ## Theresa's Research Notes
 (Her notes explain the healing/draining balance)
 
 "Malcolm questioned why blood rose enhances life leech when it's healing plant. Answer: blood rose manipulates life force in both directions. It can transfer life energy into damaged tissue OR extract life energy from viable tissue depending on application context.
 
-When combined with bleeding heart's vampiric resonance in blood essence suspension, blood rose's life manipulation creates enhanced extraction pathway. You're not healing yourself—you're extracting life from targets more efficiently using blood rose's general life force manipulation capacity.
+When combined with bleeding heart's vampiric resonance in blood essence suspension, blood rose's life manipulation creates enhanced extraction pathway. You're not healing yourself because you're extracting life from targets more efficiently using blood rose's general life force manipulation capacity.
 
 The spell cooldown improvement follows same mechanism as Crow elixir. Excess life energy from enhanced draining channels into magical recovery processes. Your magical circuits process surplus vitality naturally, accelerating spell cooldown.
 
@@ -56,7 +56,7 @@ Students often ask about differences between these elixirs:
 
 **Combat Style:** Crow favors close-quarters sustained combat. Bat favors ranged magical engagement. Choose based on your combat approach.
 
-Neither is superior—they serve different purposes. Weapon users choose Crow, spellcasters choose Bat.
+Neither is superior because they serve different purposes. Weapon users choose Crow, spellcasters choose Bat.
 ## Important Warnings
 Spell leech enhancement only applies to damage-dealing spells that include life drain effects. Pure damage spells without leech component gain no benefit.
 

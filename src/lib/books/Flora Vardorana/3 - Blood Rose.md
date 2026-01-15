@@ -1,7 +1,7 @@
 # Blood Rose: *Rosa Sanguinis*
 > **Series:** Flora Vardorana: A Comprehensive Study, Volume III  
 > **Author:** Verena Stillswater (original text), Martin Ehrlich (medical applications)  
-> **Written:** AD 53 (original), AMR 201 (medical applications)
+> **Written:** 53 AD (original), 201 AMR (medical applications)
 ## Description and Habitat
 The blood rose is distinguished by its deep crimson petals and unusually dark foliage. The stem bears prominent thorns that appear almost black, harder and sharper than those of common roses. Long thorned vines trail from the base of the plant, creating a protective barrier around the roots. Unlike ordinary roses, the petals maintain their rich color even when dried, and fresh blooms possess a faint metallic scent reminiscent of iron. The plant thrives in soil with high mineral content, particularly iron-rich earth, and grows most vigorously in areas with partial shade. Full sun exposure causes the petals to lose potency.
 

@@ -2,11 +2,11 @@
 > **Series:** Blood Essence Mastery, Volume 6  
 > **Author:** Malcolm Maxworthy, First Head of Chemical Studies  
 > **Formula Source:** Theresa Proudmoore, Academy Faculty (Essence Research)  
-> **Written:** AD 89
+> **Written:** 89 AD
 ## How This Formula Developed
-Theresa's sixth elixir focused on critical strike enhancement for physical combat. She combined mourning lily and snow flower—plants with death magic and frost properties that somehow improve strike precision and power.
+Theresa's sixth elixir focused on critical strike enhancement for physical combat. She combined mourning lily and snow flower, which are plants with death magic and frost properties that somehow improve strike precision and power.
 
-Her explanation: "Mourning lily's death affinity highlights vulnerability—finding where strikes will kill. Snow flower's precision-enhancing properties improve execution accuracy. Together, they create increased critical strike chance and power."
+Her explanation: "Mourning lily's death affinity highlights vulnerability, which means finding where strikes will kill. Snow flower's precision-enhancing properties improve execution accuracy. Together, they create increased critical strike chance and power."
 
 The combination seemed unusual but testing confirmed effectiveness. Death-aspected awareness identifies critical vulnerabilities while frost-enhanced precision exploits those vulnerabilities with higher accuracy and force. The blood essence suspension holds both properties in configuration that dramatically improves critical strike performance.
 
@@ -38,13 +38,13 @@ Hunters targeting dangerous prey appreciate improved critical performance. Singl
 ## Theresa's Research Notes
 (Her explanation of death-frost precision)
 
-"Mourning lily's death magic doesn't make things die—it creates awareness of death potential. Where can strikes kill most effectively? What vulnerabilities exist? Your subconscious processes this death-aspected information, improving strike placement naturally.
+"Mourning lily's death magic doesn't make things die; it creates awareness of death potential. Where can strikes kill most effectively? What vulnerabilities exist? Your subconscious processes this death-aspected information, improving strike placement naturally.
 
 Snow flower's frost precision enhances execution. Your movements become more controlled, strikes land more accurately, force application becomes more efficient. The cold focus improves everything about strike delivery.
 
 Combined effect: you identify critical opportunities better AND execute critical strikes more effectively. Both chance and power increase because you're both finding vulnerabilities more often and exploiting them more successfully.
 
-This was sixth formulation. I'd moved beyond basic combat enhancements (speed, power, leech) into specialized tactical enhancements (critical strikes, ultimate abilities). Required different thinking—not about general improvement but specific capability focus.
+This was sixth formulation. I'd moved beyond basic combat enhancements like speed, power, and leech into specialized tactical enhancements like critical strikes and ultimate abilities. Required different thinking, not about general improvement but specific capability focus.
 
 The death-frost combination almost didn't work. Took seventeen attempts to find configuration that held both properties stable without interference. The breakthrough came from realizing I needed mourning lily first, then snow flower. Reverse order failed consistently."
 ## Critical Strike Mechanics

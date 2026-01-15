@@ -1,7 +1,7 @@
 # Ghost Shroom: *Agaricus Spectralis*
 > **Series:** Flora Vardorana: A Comprehensive Study, Volume VIII  
 > **Author:** Verena Stillswater  
-> **Written:** AD 58
+> **Written:** 58 AD
 ## Description and Habitat
 The ghost shroom displays a distinctive translucent appearance, with pale blue to teal coloring that gives the fungus an ethereal, ghostly quality. The fruiting bodies range from small caps on thin stalks to larger trumpet-shaped specimens, all sharing the characteristic semi-transparent flesh that seems to capture and diffuse light. The mushrooms emit a faint luminescence, creating an eerie glow in the darkness of their forest home.
 

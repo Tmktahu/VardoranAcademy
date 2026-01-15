@@ -1,7 +1,7 @@
 # Sacred Grapes: *Vitis Sacra*
 > **Series:** Flora Vardorana: A Comprehensive Study, Volume IX  
 > **Author:** Verena Stillswater  
-> **Written:** AD 59
+> **Written:** 59 AD
 ## Description and Habitat
 The sacred grape displays typical grape morphology: deep blue to purple berries growing in tight clusters. Close examination reveals subtle differences from common varieties - the fruit possesses slightly thicker skin and demonstrates unusual resilience to typical grape diseases. The vines grow vigorously, producing consistent yields.
 

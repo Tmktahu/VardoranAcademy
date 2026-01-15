@@ -1,13 +1,13 @@
 # Advanced Preparations: Concentrated Garlic Aggression
 > **Series:** Advanced Preparations, Volume 2  
 > **Author:** Malcolm Maxworthy, First Head of Chemical Studies  
-> **Written:** AD 48
+> **Written:** 48 AD
 ## How I Developed This Formula
 After creating Minor Garlic Resistance Brew, demand for stronger protection became obvious. The brew worked acceptably for brief garlic exposure, but extended time in garlic-rich environments or combat against enemies using concentrated garlic preparations required better resistance.
 
-The solution involved increasing hell's clarion concentration while maintaining rat as stabilizing agent. Simple enough in theory. Practice proved more complicated—higher concentrations of hell's clarion dramatically amplify aggressive impulses, requiring precise balancing to maintain functionality.
+The solution involved increasing hell's clarion concentration while maintaining rat as stabilizing agent. Simple enough in theory. Practice proved more complicated because higher concentrations of hell's clarion dramatically amplify aggressive impulses, requiring precise balancing to maintain functionality.
 
-I tested seventeen different concentration ratios before finding one that provided maximum garlic resistance without turning users into rage-driven liabilities. The 48:1 ratio represents that careful balance—enough hell's clarion for strong protection, sufficient rat compounds to prevent uncontrolled aggression.
+I tested seventeen different concentration ratios before finding one that provided maximum garlic resistance without turning users into rage-driven liabilities. The 48:1 ratio represents that careful balance: enough hell's clarion for strong protection and sufficient rat compounds to prevent uncontrolled aggression.
 
 The glass bottle preparation method also proved essential. Extended contact with glass somehow moderates hell's clarion's chaos properties better than waterskin materials. I don't understand the mechanism, but testing confirmed the improvement.
 ## The Formula
@@ -17,20 +17,20 @@ The glass bottle preparation method also proved essential. Extended contact with
 - 1 empty glass bottle
 
 **Preparation:**
-Process rat using quick, humane method. Grind processed rat thoroughly—you need complete breakdown for proper compound integration. Yes, this remains unpleasant. No, there's still no effective alternative.
+Process rat using quick, humane method. Grind processed rat thoroughly because you need complete breakdown for proper compound integration. Yes, this remains unpleasant. No, there's still no effective alternative.
 
 Grind hell's clarion mushrooms separately. The increased quantity means more time grinding. Combine ground rat with ground hell's clarion gradually while stirring constantly. The mixture will warm significantly as components interact at higher concentrations. This is normal and indicates proper combination.
 
-Transfer to glass bottle immediately and add clean water to fill. Seal quickly—the concentrated hell's clarion becomes somewhat volatile when mixed with water. Shake vigorously for three minutes. Let steep minimum one hour. The potion turns deep muddy brown with red undertones. Strain thoroughly to remove solid particles.
+Transfer to glass bottle immediately and add clean water to fill. Seal quickly because the concentrated hell's clarion becomes somewhat volatile when mixed with water. Shake vigorously for three minutes. Let steep minimum one hour. The potion turns deep muddy brown with red undertones. Strain thoroughly to remove solid particles.
 
 **Effect:**
-One bottle provides 24 hours strong garlic resistance. Vampiric combat capability remains stable even in concentrated garlic environments—offensive power and defensive resilience maintain near-normal levels. This significantly reduces garlic's combat debilitation without completely eliminating it.
+One bottle provides 24 hours strong garlic resistance. Vampiric combat capability remains stable even in concentrated garlic environments; offensive power and defensive resilience maintain near-normal levels. This significantly reduces garlic's combat debilitation without completely eliminating it.
 ## Practical Uses
 Extended operations in human-controlled territories where garlic is prevalent benefit from this enhanced protection. The stronger resistance allows vampires to move through garlic-protected areas while maintaining combat readiness.
 
 Diplomatic missions requiring extended time in garlic-present locations become feasible. The resistance enables vampires to attend lengthy meetings or negotiations in spaces where humans have deployed garlic for protection without compromising security capability.
 
-Combat against enemies using concentrated garlic preparations—garlic grenades, garlic-soaked weapons, garlic smoke—requires this level of protection. Basic brew provides insufficient resistance against tactical garlic deployment.
+Combat against enemies using concentrated garlic preparations like garlic grenades, garlic-soaked weapons, and garlic smoke requires this level of protection. Basic brew provides insufficient resistance against tactical garlic deployment.
 
 Urban vampires living in human-populated cities report this potion as near-essential for daily function. The concentration of garlic in markets, restaurants, and residential areas creates constant low-level combat debilitation requiring robust protection.
 ## Behavioral Effects
@@ -42,7 +42,7 @@ The increased hell's clarion concentration creates noticeable behavioral changes
 
 **Increased confidence:** Sometimes excessive. Several test subjects displayed poor judgment, convinced they could handle situations they actually couldn't.
 
-The rat compounds moderate these effects significantly—without them, the 48-measure hell's clarion concentration would create serious behavioral problems. But even with moderation, behavioral changes remain noticeable.
+The rat compounds moderate these effects significantly because without them, the 48-measure hell's clarion concentration would create serious behavioral problems. But even with moderation, behavioral changes remain noticeable.
 ## Comparison with Basic Brew
 **Protection Level:** This provides approximately double the garlic resistance of Minor Garlic Resistance Brew. For serious or extended garlic exposure, this is clearly superior.
 

@@ -1,7 +1,7 @@
 # Hell's Clarion: *Tuba Inferni*
 > **Series:** Flora Vardorana: A Comprehensive Study, Volume V  
 > **Author:** Verena Stillswater  
-> **Written:** AD 55
+> **Written:** 55 AD
 ## Description and Habitat
 Hell's clarion displays a distinctive dark trumpet or horn-shaped fruiting body, with flesh that ranges from deep charcoal to black. The interior of each trumpet glows with a dull red luminescence, creating an eerie appearance in the darkness where these fungi thrive. The mushrooms grow in clusters, their horn-like shapes resembling a chorus of instruments calling from the depths.
 

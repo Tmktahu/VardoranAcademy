@@ -1,7 +1,7 @@
 # Chaos Theory: Foundations of Chaos Magic
 > **Series:** Chaos Theory, Volume 1  
 > **Author:** Ellie Tarsvesh  
-> **Written:** AD 42
+> **Written:** 42 AD
 
 ## What Chaos Magic Is
 

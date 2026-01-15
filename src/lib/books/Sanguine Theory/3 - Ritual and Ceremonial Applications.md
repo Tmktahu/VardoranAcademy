@@ -1,9 +1,9 @@
 # Sanguine Theory: Ritual and Ceremonial Applications
 > **Series:** Sanguine Theory, Volume 3  
 > **Author:** Ellie Tarsvesh, with vampiric expertise from Severin, Academy Consultant  
-> **Written:** AD 44
+> **Written:** 44 AD
 ## Nature of Ritual Applications
-Blood magic ritual work operates on different principles than immediate-effect applications. Ritual practitioners have time for preparation, careful control, and sustained operations. This permits complexity that rapid applications cannot achieve—proper material preparation, controlled environmental conditions, and precise execution without external pressure.
+Blood magic ritual work operates on different principles than immediate-effect applications. Ritual practitioners have time for preparation, careful control, and sustained operations. This permits complexity that rapid applications cannot achieve, including proper material preparation, controlled environmental conditions, and precise execution without external pressure.
 
 Controlled environments also permit reliance on external life force sources. Practitioners can draw from stored blood magic in prepared rubies, prepared blood samples, or willing donors without managing personal reserves under duress. Severin characterizes the distinction bluntly: "Ritual is spending life force carefully and claiming it completely. You're not fighting for your life while you work."
 
@@ -21,7 +21,7 @@ Limb restoration represents the maximum known achievement during my time at the 
 
 Life force transfer cannot resurrect the dead. This remains absolute. Blood magic accelerates natural healing processes and sustains failing vitality, but does not reverse death. All documented attempts at resurrection through blood magic have failed. The distinction between sustaining life and restoring it is fundamental.
 
-Chronic conditions present different challenges than acute injuries. Some practitioners maintain patients on sustained life force infusion—regular treatments providing ongoing support when the body cannot maintain necessary vitality independently. Severin describes this approach pragmatically: "You're keeping the patient operational, not curing them. Like propping up a failing structure—remove the support and it collapses." 
+Chronic conditions present different challenges than acute injuries. Some practitioners maintain patients on sustained life force infusion, which represents regular treatments providing ongoing support when the body cannot maintain necessary vitality independently. Severin describes this approach pragmatically: "You're keeping the patient operational, not curing them. Like propping up a failing structure; remove the support and it collapses." 
 
 The patient receives periodic life force treatments to maintain stability rather than achieve cure. This proves resource-intensive but keeps otherwise failing systems operational. I've documented cases where patients receive weekly or daily treatments depending on condition severity. The approach works. It does not cure.
 ## Sustained Workings
@@ -29,6 +29,6 @@ Some applications require sustained investment rather than single performances. 
 
 Preservation applications prove straightforward. Life force presence counteracts natural decay in organic materials. Medical practitioners use this for organ transplantation, maintaining tissue viability during transport. Scholars preserve specimens for extended study without degradation. The mechanism appears consistent: active life force investment prevents natural decay processes.
 
-These sustained workings create ongoing demands. The practitioner—or designated replacement—must maintain the working through periodic renewal. Missed renewals cause effect degradation. Complete cessation returns materials to natural state, often rapidly. I've observed specimens preserved for months decay within days of the preservation ending.
+These sustained workings create ongoing demands. The practitioner or designated replacement must maintain the working through periodic renewal. Missed renewals cause effect degradation. Complete cessation returns materials to natural state, often rapidly. I've observed specimens preserved for months decay within days of the preservation ending.
 
 This creates practical limitations. Sustained workings require sustained commitment. Practitioners cannot maintain dozens of preservation workings simultaneously. Resource allocation becomes critical when managing multiple sustained effects.

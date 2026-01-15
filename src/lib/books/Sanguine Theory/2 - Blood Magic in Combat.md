@@ -1,7 +1,7 @@
 # Sanguine Theory: Blood Magic in Combat
 > **Series:** Sanguine Theory, Volume 2  
 > **Author:** Ellie Tarsvesh, with vampiric expertise from Severin, Academy Consultant  
-> **Written:** AD 43
+> **Written:** 43 AD
 ## Combat Philosophy
 Blood magic practitioners approach combat differently from other schools. Where frost mages manage resources carefully and chaos practitioners risk burnout, blood mages grow stronger through prolonged engagement when they maintain consistent accuracy. The parasitic cycle sustains them. Damage dealt claims life force from enemies. Claimed life force enables continued assault. When claiming exceeds expenditure, combat becomes self-sustaining.
 
@@ -9,7 +9,7 @@ This creates a clear skill divide. Practitioners who land their strikes consiste
 
 Skilled blood magic practitioners favor sustained combat over decisive strikes. They outlast opponents through attrition, growing more dangerous as battles extend. Severin describes it bluntly: "The longer the fight, the better my odds... as long as I'm hitting. Every successful exchange makes me stronger and my enemy weaker."
 ## Manifestation Forms
-Blood magic takes visible form through shaped life force—projectiles and animated constructs of condensed life force given temporary structure. The most common manifestations resemble blood itself: crimson projectiles, spreading pools, vertical fountains. Some practitioners create more complex forms like swarms of spectral creatures.
+Blood magic takes visible form through shaped life force, which include projectiles and animated constructs of condensed life force given temporary structure. The most common manifestations resemble blood itself: crimson projectiles, spreading pools, vertical fountains. Some practitioners create more complex forms like swarms of spectral creatures.
 
 Manifestation complexity correlates with practitioner skill. Severin notes: "Beginners throw red bolts. Experts weave sustained effects that persist beyond initial casting. The magic is identical. The control differs."
 
@@ -17,7 +17,7 @@ These manifestations deliver harm while establishing connection for life force t
 
 Attuned rubies can modify manifestations as blood magic passes through them, altering effects or enhancing particular aspects. The ruby shapes the channeling but doesn't replace the practitioner's own life force expenditure.
 ## Physical Enhancement
-Practitioners expend life force to augment physical capability temporarily. These enhancements manifest as brief bursts—heightened awareness, accelerated movement, increased striking power and speed. More life force expended means stronger enhancement, though practitioners must maintain sufficient reserves for continued combat.
+Practitioners expend life force to augment physical capability temporarily. These enhancements manifest as brief bursts like heightened awareness, accelerated movement, increased striking power and speed. More life force expended means stronger enhancement, though practitioners must maintain sufficient reserves for continued combat.
 
 Enhancement applies primarily to physical attributes rather than granting tactical genius or magical insight. It makes practitioners faster and stronger for seconds at a time. This improves their ability to land strikes and maintain connections with targets. Physical capability translates directly to magical effectiveness.
 ## Sustained Engagement

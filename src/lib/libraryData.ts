@@ -75,6 +75,41 @@ export const libraryData: {
     ],
   },
   {
+    series: 'Frost Theory',
+    description:
+      'Theoretical framework and practical applications of frost magic as energy removal/subtraction by Ellie Tarsvesh, First Head of Arcana Studies, with structural frameworks by Asmodeus Azmadel. Covers energy removal theory, sapphire mechanics, defensive architecture, and structural expertise development.',
+    color: 'frostCyan',
+    books: [
+      {
+        slug: 'foundations-frost-magic',
+        title: 'Foundations of Frost Magic',
+        bookSpineTitle: 'Foundations of<br>Frost Magic',
+        description:
+          'A scholarly treatise bound in pale blue leather with sapphire clasps. Pages are meticulously organized with energy removal diagrams and structural analysis charts. Written in sharp, demanding academic script with structural annotations by Director Asmodeus. Common tongue. Excellent condition.',
+        category: 'arcana',
+        path: 'lib/books/Frost Theory/1 - Foundations of Frost Magic.md',
+      },
+      {
+        slug: 'combat-applications-frost-magic',
+        title: 'Combat Applications',
+        bookSpineTitle: 'Combat<br>Applications',
+        description:
+          'A tactical analysis bound in ice-blue cloth with frost patterns along the spine. Pages contain combat theory with defensive rhythm analysis and energy management charts. Written in sharp academic script with strategic positioning notes. Common tongue. Excellent condition.',
+        category: 'arcana',
+        path: 'lib/books/Frost Theory/2 - Combat Applications.md',
+      },
+      {
+        slug: 'advanced-structures-applications',
+        title: 'Advanced Structures and Applications',
+        bookSpineTitle: 'Advanced Structures<br>and Applications',
+        description:
+          'An advanced reference bound in pale blue leather with sapphire insets. Pages detail protective frost architecture, environmental energy harvesting, and complex formation techniques. Written in sharp academic script with structural integration notes by Director Asmodeus. Common tongue. Excellent condition.',
+        category: 'arcana',
+        path: 'lib/books/Frost Theory/3 - Advanced Structures and Applications.md',
+      },
+    ],
+  },
+  {
     series: 'Storm Theory',
     description:
       'Theoretical framework and practical applications of storm magic by Ellie Tarsvesh, First Head of Arcana Studies. Covers energy flow theory, physical enhancement, combat applications, and ritual techniques for purest magical energy.',
@@ -507,6 +542,23 @@ export const libraryData: {
           'An experimental research journal with extensive warning labels. Pages show mutation observation records and ethical debate notes. Written in conflicted script with moral considerations. Common tongue. Good condition with prominent hazard markings.',
         category: 'alchemical',
         path: 'lib/books/Blood Essence Mastery/10 - Irradiant Gruel Warning.md',
+      },
+    ],
+  },
+  {
+    series: 'Celestial Symbolica',
+    description:
+      "Phaelon Canterburlh's eccentric astrological symbol theory series. Presents pattern as fundamental reality structure, eight school symbols as magical correspondences, and twelve transformation symbols as cosmic processes. Volumes written out of chronological order with increasingly disjointed prose, appearing randomly without logical sequence.",
+    color: 'mysticPurple',
+    books: [
+      {
+        slug: 'foundations-of-pattern',
+        title: 'Foundations of Pattern',
+        bookSpineTitle: 'Volume ??<br>Foundations<br>of Pattern',
+        description:
+          'A chaotic intellectual journey bound in midnight-blue leather with silver celestial inlays. Pages flow wildly between profound insights and irrelevant tangents, with sections frequently abandoned mid-thought. Extensive references to "the shard" and "energy geometry" suggest obsessive research into pure magical energy. Margin notes contain clearer explanations than the main text. Written in erratic script that deteriorates over the volume\'s length into near-incoherence. Common tongue. Good condition with numerous ink corrections, additions, and energy diagrams in margins.',
+        category: 'arcana',
+        path: 'lib/books/Celestial Symbolica/Foundations of Pattern.md',
       },
     ],
   },

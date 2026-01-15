@@ -2,7 +2,7 @@
 > **Series:** Field Alchemy, Volume 6  
 > **Author:** Malcolm Maxworthy, First Head of Chemical Studies  
 > **Formula Source:** The Ashen Keep (monster hunter organization)  
-> **Written:** AD 38
+> **Written:** 38 AD
 ## How I Learned This Formula
 The Academy contracted with the Ashen Keep for monster parts throughout the AD 30s. Reliable suppliers are rare, and monster hunters who actually survive long enough to deliver materials are rarer still. When their lead huntmaster, a woman named Mira Ashworth, visited to negotiate terms, I asked about their methods.
 
@@ -12,7 +12,7 @@ She pulled out a waterskin. "We drink this before every hunt. Makes us hit harde
 
 I expected elaborate preparation involving rare materials and complex technique. Instead, she described the simplest combat brew I'd ever encountered: hell's clarion mushrooms, fish bone, and water. That's it. No heating, no distillation, just grind and mix.
 
-I was skeptical until she offered me a dose before sparring demonstration. The effect was immediate and undeniable. My strikes had noticeably more force behind them. This was practical field alchemy at its finest—no fancy equipment required, just results.
+I was skeptical until she offered me a dose before sparring demonstration. The effect was immediate and undeniable. My strikes had noticeably more force behind them. This was practical field alchemy at its finest, meaning no fancy equipment required, just results.
 
 Mira shared the formula freely. "Knowledge that saves lives shouldn't be hoarded," she said. I've included it in Academy records because she's right.
 ## The Formula
@@ -22,14 +22,14 @@ Mira shared the formula freely. "Knowledge that saves lives shouldn't be hoarded
 - 1 empty waterskin
 
 **Preparation:**
-Grind hell's clarion mushrooms thoroughly. The red glow fades during grinding—that's normal. Add fish bone and grind together until bone becomes powder. The bone provides calcium compounds that stabilize hell's clarion's aggressive properties.
+Grind hell's clarion mushrooms thoroughly. The red glow fades during grinding, which is normal. Add fish bone and grind together until bone becomes powder. The bone provides calcium compounds that stabilize hell's clarion's aggressive properties.
 
 Transfer mixture to waterskin. Add clean water to fill. Shake vigorously for one minute, then let steep for 30 minutes minimum. The brew turns deep red with slight orange tint. Strain out solids before drinking.
 
 According to Mira, hunters typically prepare this the night before a hunt and drink it immediately upon encountering prey. The 30-minute steeping ensures full activation.
 
 **Effect:**
-One waterskin provides enhanced physical power throughout the day. Your strikes hit noticeably harder than normal. The effect manifests as slight warmth in muscles and heightened aggressive impulses—control these impulses or you'll waste energy on reckless attacks.
+One waterskin provides enhanced physical power throughout the day. Your strikes hit noticeably harder than normal. The effect manifests as slight warmth in muscles and heightened aggressive impulses, so control these impulses or you'll waste energy on reckless attacks.
 ## Practical Uses
 Monster hunting represents the obvious application. Increased striking power makes the difference between wounding prey and actually killing it. Ashen Keep hunters consider this brew mandatory equipment.
 
@@ -41,7 +41,7 @@ The brew also sees use in non-combat applications requiring physical strength: h
 ## What the Hunters Taught Me
 The Ashen Keep's approach to alchemy differs fundamentally from Academy methods. We theorize, they test. We seek to understand mechanisms, they seek to survive encounters.
 
-Mira explained their development process: "We tried every mushroom we found. Most did nothing. Some killed test subjects. Hell's clarion made survivors hit harder, so we kept using it. The fish bone came later—someone noticed the brew made them angry and tried adding different things until they found something that mellowed the rage without losing the strength."
+Mira explained their development process: "We tried every mushroom we found. Most did nothing. Some killed test subjects. Hell's clarion made survivors hit harder, so we kept using it. The fish bone came later because someone noticed the brew made them angry and tried adding different things until they found something that mellowed the rage without losing the strength."
 
 This is empirical alchemy stripped to basics. No theory, no mechanism understanding, just controlled experimentation and practical results. It works because extensive field testing proves it works, not because anyone understands why.
 

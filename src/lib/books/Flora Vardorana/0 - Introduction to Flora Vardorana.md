@@ -41,7 +41,7 @@ May this series serve your research, instruction, or practical needs effectively
 
 <br>
 
-— Verena Stillswater  
-Head of Botanical Studies  
-The Academy, Central Dunley  
+Verena Stillswater
+Head of Botanical Studies
+The Academy, Central Dunley
 50 AD

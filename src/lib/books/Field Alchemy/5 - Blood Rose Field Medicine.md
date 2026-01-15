@@ -1,9 +1,9 @@
 # Field Alchemy: Blood Rose Field Medicine
 > **Series:** Field Alchemy, Volume 5  
 > **Author:** Malcolm Maxworthy, First Head of Chemical Studies  
-> **Written:** AD 37
+> **Written:** 37 AD
 ## How I Developed This Formula
-Blood rose's regenerative properties were well-documented by Verena's botanical work, but translating plant properties into practical healing formula required extensive testing. I needed something field medics could prepare quickly using minimal equipment—complex preparations fail when you're treating bleeding soldiers.
+Blood rose's regenerative properties were well-documented by Verena's botanical work, but translating plant properties into practical healing formula required extensive testing. I needed something field medics could prepare quickly using minimal equipment because complex preparations fail when you're treating bleeding soldiers.
 
 The breakthrough came from realizing blood rose doesn't require processing beyond grinding. The plant's healing compounds remain stable in simple water suspension. No heating, no special solvents, no complicated technique. Just grind and mix.
 
@@ -16,7 +16,7 @@ The waterskin preparation makes this ideal for field use. Soldiers can carry mul
 - 1 empty waterskin
 
 **Preparation:**
-Grind blood rose petals thoroughly. The deep red petals should become fine crimson powder. Blood rose processes more easily than most plants—the soft petals break down readily.
+Grind blood rose petals thoroughly. The deep red petals should become fine crimson powder. Blood rose processes more easily than most plants because the soft petals break down readily.
 
 Transfer ground material directly to waterskin. Add clean water to fill. Shake vigorously for one minute. Let steep minimum 20 minutes. The brew turns deep red and maintains faint sweet scent characteristic of blood roses. Strain before use, though some sediment will remain.
 
@@ -53,7 +53,7 @@ Military adoption of this formula provided extensive real-world data:
 
 The simple 32:1 water ratio proved optimal through extensive testing. Don't complicate what works.
 ## Important Warnings
-The combat limitation is serious. Don't drink this while actively fighting—the healing will interrupt and you'll waste the brew. Create opening, consume quickly, then reengage.
+The combat limitation is serious. Don't drink this while actively fighting because the healing will interrupt and you'll waste the brew. Create opening, consume quickly, then reengage.
 
 Multiple rapid doses can cause nausea. Your body processes healing compounds at finite rate. Drinking three waterskins in quick succession doesn't triple healing speed, just makes you sick. Space doses appropriately.
 

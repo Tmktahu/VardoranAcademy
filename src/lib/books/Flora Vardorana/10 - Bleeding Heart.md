@@ -1,7 +1,7 @@
 # Bleeding Heart: *Dicentra Cruenta*
 > **Series:** Flora Vardorana: A Comprehensive Study, Volume X  
 > **Author:** Verena Stillswater  
-> **Written:** AD 60
+> **Written:** 60 AD
 ## Description and Habitat
 The bleeding heart displays distinctive drooping bell-shaped flowers in deep pink to blood-red hues, with pale white tips at the base of each bloom. The flowers hang in clusters from curved stems, creating the appearance of blood dripping from open wounds. Large dark green leaves grow in spreading clusters at the base of the plant.
 
