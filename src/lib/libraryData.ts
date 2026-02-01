@@ -785,7 +785,7 @@ export const libraryData: {
         description:
           'Bound in brown leather with compass rose tooling. Pages contain early formation charts enhanced with preservation treatments. Written in precise formal script. Excellent condition with restoration reinforcement visible on spine.',
         category: 'history',
-        path: 'lib/books/History/History of the Gilded Compass/1 - The Founding.md',
+        path: 'lib/books/History of the Gilded Compass/1 - The Founding.md',
         isAvailable: true,
       },
       {
@@ -795,7 +795,7 @@ export const libraryData: {
         description:
           'Bound in brown leather with navigation wheel embossing. Pages document expedition routes with stable ink despite age. Formal script remains clear and legible. Excellent condition with reinforced binding corners.',
         category: 'history',
-        path: 'lib/books/History/History of the Gilded Compass/2 - The Lost Expedition.md',
+        path: 'lib/books/History of the Gilded Compass/2 - The Lost Expedition.md',
         isAvailable: true,
       },
       {
@@ -805,7 +805,7 @@ export const libraryData: {
         description:
           'Bound in brown leather with light-and-shadow geometric stamped patterns. Pages analyze Luminance doctrine with minimal foxing. Consistent formal script. Excellent condition.',
         category: 'history',
-        path: 'lib/books/History/History of the Gilded Compass/3 - Beneath the Crown of Light.md',
+        path: 'lib/books/History of the Gilded Compass/3 - Beneath the Crown of Light.md',
         isAvailable: true,
       },
       {
@@ -815,7 +815,7 @@ export const libraryData: {
         description:
           'Bound in brown leather with flame motifs tooled along spine. Pages show evidence of scholarly use but remain intact. Script steady throughout. Very good condition with minor preservation touch-ups.',
         category: 'history',
-        path: 'lib/books/History/History of the Gilded Compass/4 - The Fractured Faith.md',
+        path: 'lib/books/History of the Gilded Compass/4 - The Fractured Faith.md',
         isAvailable: true,
       },
       {
@@ -825,7 +825,7 @@ export const libraryData: {
         description:
           'Bound in brown leather with embossed territorial boundary patterns. Pages display expanded geographic analysis with clean margins. Formal script maintained. Very good condition.',
         category: 'history',
-        path: 'lib/books/History/History of the Gilded Compass/5 - The Limits of Expansion.md',
+        path: 'lib/books/History of the Gilded Compass/5 - The Limits of Expansion.md',
         isAvailable: true,
       },
       {
@@ -835,7 +835,7 @@ export const libraryData: {
         description:
           'Bound in brown leather with wave patterns stamped in lighter leather tone. Pages analyze maritime operations with age-appropriate character. Script precise and professional. Very good condition.',
         category: 'history',
-        path: "lib/books/History/History of the Gilded Compass/6 - Mont Marie's Harbor.md",
+        path: "lib/books/History of the Gilded Compass/6 - Mont Marie's Harbor.md",
         isAvailable: true,
       },
       {
@@ -845,7 +845,7 @@ export const libraryData: {
         description:
           'Bound in brown leather with iron scrollwork inlays. Pages examine imperial structure through clear narrative. Slight age-related softening in later pages but fully legible. Good condition with stabilizing repairs.',
         category: 'history',
-        path: 'lib/books/History/History of the Gilded Compass/7 - Within the Iron Empire.md',
+        path: 'lib/books/History of the Gilded Compass/7 - Within the Iron Empire.md',
         isAvailable: true,
       },
       {
@@ -855,7 +855,7 @@ export const libraryData: {
         description:
           'Bound in brown leather with fracture pattern stamped on spine. Pages document Veltraxis trauma with coherent structure. Formal narrative quality maintained. Good condition showing moderate use.',
         category: 'history',
-        path: 'lib/books/History/History of the Gilded Compass/8 - The Conquered Republic.md',
+        path: 'lib/books/History of the Gilded Compass/8 - The Conquered Republic.md',
         isAvailable: true,
       },
       {
@@ -865,7 +865,7 @@ export const libraryData: {
         description:
           "Bound in brown leather with refusal symbolism stamped on cover. Pages cover Nexarca interactions with consistent analysis. Script shows author's age but remains clear. Good condition.",
         category: 'history',
-        path: "lib/books/History/History of the Gilded Compass/9 - The Dominion's Rejection.md",
+        path: "lib/books/History of the Gilded Compass/9 - The Dominion's Rejection.md",
         isAvailable: true,
       },
       {
@@ -875,7 +875,7 @@ export const libraryData: {
         description:
           "Bound in brown leather with sand-textured spine panels. Pages analyze Sahraan's Twilight Court with thorough detail. Formal narrative reveals elderly author's perspective. Good condition with light external wear.",
         category: 'history',
-        path: 'lib/books/History/History of the Gilded Compass/10 - The Desert Divide.md',
+        path: 'lib/books/History of the Gilded Compass/10 - The Desert Divide.md',
         isAvailable: true,
       },
       {
@@ -885,7 +885,7 @@ export const libraryData: {
         description:
           'Bound in brown leather with waygate hub tooling on cover. Pages document Vardoran return and faction alliances. Final volume appears fresher than early volumes with careful preservation. Excellent condition.',
         category: 'history',
-        path: 'lib/books/History/History of the Gilded Compass/11 - Breaking the Cycle.md',
+        path: 'lib/books/History of the Gilded Compass/11 - Breaking the Cycle.md',
         isAvailable: true,
       },
     ],
