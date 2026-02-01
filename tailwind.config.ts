@@ -23,6 +23,7 @@ const alchemicalOrange = '#FF8C00';
 const bloodRed = '#981c20';
 const chaosPurple = '#800080';
 const stormYellow = '#FFD700';
+const astrologicalBlue = '#1E3A5F';
 
 const primaryOverlayOpacity = 0.8;
 const secondaryOverlayOpacity = 0.3;
@@ -58,6 +59,7 @@ const config = {
       bloodRed: generateColors(pitchBlack, bloodRed, 0.4),
       chaosPurple: generateColors(pitchBlack, chaosPurple, 0.4),
       stormYellow: generateColors(pitchBlack, stormYellow, 0.4),
+      astrologicalBlue: generateColors(pitchBlack, astrologicalBlue, 0.4),
 
       zinc: colors.zinc,
       white: colors.white,
@@ -144,6 +146,12 @@ const config = {
           DEFAULT: stormYellow,
           foreground: generateColors(baseBackgroundColor, stormYellow, 0.4),
           ...generateColors(baseBackgroundColor, stormYellow, 0.7),
+        },
+
+        astrologicalBlue: {
+          DEFAULT: astrologicalBlue,
+          foreground: generateColors(baseBackgroundColor, astrologicalBlue, 0.4),
+          ...generateColors(baseBackgroundColor, astrologicalBlue, 0.7),
         },
 
         destructive: {

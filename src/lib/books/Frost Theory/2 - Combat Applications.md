@@ -1,6 +1,7 @@
 # Frost Theory: Combat Applications
-> **Series:** Frost Theory, Volume 2
-> **Author:** Ellie Tarsvesh, Asmodeus Azmadel
+> **Series:** Frost Theory, Volume 2  
+> **Author:** Ellie Tarsvesh  
+> **Consultant:** Asmodeus Azmadel  
 > **Written:** 43 AD
 ## Defensive Philosophy
 Frost combat operates on rhythm, not momentum. Land opening spells that remove energy from opponents while establishing protective barriers. Advance while shielded. Retreat when shields fade and start over. You are aggressive when protected, defensive when exposed. That is frost combat - back and forth, attack and recover. This separates you from front-line attackers who sustain offensive pressure through energy addition. Master the rhythm or you die.

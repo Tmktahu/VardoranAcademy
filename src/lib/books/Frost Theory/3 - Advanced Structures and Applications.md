@@ -1,6 +1,7 @@
 # Frost Theory: Advanced Structures and Applications
-> **Series:** Frost Theory, Volume 3
-> **Author:** Ellie Tarsvesh, Asmodeus Azmadel
+> **Series:** Frost Theory, Volume 3  
+> **Author:** Ellie Tarsvesh  
+> **Consultant:** Asmodeus Azmadel  
 > **Written:** 44 AD
 ## Advanced Protective Frost Structures
 You can work with other frost practitioners to create stronger protection than any single spellcaster could manage alone. Your energy removal zones overlap, which forces approaching energy through several stages of extraction before it reaches you. The formation splits the work across practitioners while keeping each person within their limits.

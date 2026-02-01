@@ -1,6 +1,7 @@
 # Sanguine Theory: Blood Magic in Combat
 > **Series:** Sanguine Theory, Volume 2  
-> **Author:** Ellie Tarsvesh, with vampiric expertise from Severin, Academy Consultant  
+> **Author:** Ellie Tarsvesh  
+> **Consultant:** Severin  
 > **Written:** 43 AD
 ## Combat Philosophy
 Blood magic practitioners approach combat differently from other schools. Where frost mages manage resources carefully and chaos practitioners risk burnout, blood mages grow stronger through prolonged engagement when they maintain consistent accuracy. The parasitic cycle sustains them. Damage dealt claims life force from enemies. Claimed life force enables continued assault. When claiming exceeds expenditure, combat becomes self-sustaining.

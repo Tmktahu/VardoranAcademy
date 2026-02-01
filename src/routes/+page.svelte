@@ -59,7 +59,7 @@
           <ul class="text-tprimary-0 text-[18px] leading-[1.7]">
             <li>Only authorized personnel may speak within the Library</li>
             <li>Handle all books and documents with utmost care</li>
-            <li>No books may leave the Library premises</li>
+            <li>No books may leave the Library premises unless specifically designated otherwise</li>
           </ul>
         </div>
 

@@ -2,7 +2,7 @@ export const libraryData: {
   series: string;
   description: string;
   color: string;
-  books: { slug: string; title: string; bookSpineTitle: string; description: string; category: string; path: string }[];
+  books: { slug: string; title: string; bookSpineTitle: string; description: string; category: string; path: string; isAvailable: boolean }[];
 }[] = [
   {
     series: 'Sanguine Theory',
@@ -18,6 +18,7 @@ export const libraryData: {
           'A scholarly treatise bound in deep red leather with silver clasps. Pages are meticulously organized with theoretical diagrams and cross-references. Written in sharp, demanding academic script with consultation notes from vampiric practitioner. Common tongue. Excellent condition.',
         category: 'arcana',
         path: 'lib/books/Sanguine Theory/1 - Foundations of Blood Magic.md',
+        isAvailable: true,
       },
       {
         slug: 'blood-magic-combat',
@@ -27,6 +28,7 @@ export const libraryData: {
           'A tactical analysis bound in blood-red cloth. Pages contain combat theory with practical observations from vampiric warfare. Written in sharp academic script with strategic annotations. Common tongue. Excellent condition.',
         category: 'arcana',
         path: 'lib/books/Sanguine Theory/2 - Blood Magic in Combat.md',
+        isAvailable: true,
       },
       {
         slug: 'ritual-ceremonial-applications',
@@ -36,6 +38,7 @@ export const libraryData: {
           'A ceremonial reference bound in crimson leather. Pages detail ritual blood magic theory and healing applications. Written in sharp academic script with consultation notes. Common tongue. Excellent condition.',
         category: 'arcana',
         path: 'lib/books/Sanguine Theory/3 - Ritual and Ceremonial Applications.md',
+        isAvailable: true,
       },
     ],
   },
@@ -53,6 +56,7 @@ export const libraryData: {
           'A scholarly treatise bound in deep purple leather with amethyst clasps. Pages are organized with theoretical diagrams and warnings about the Void. Written in sharp, demanding academic script. Common tongue. Excellent condition.',
         category: 'arcana',
         path: 'lib/books/Chaos Theory/1 - Foundations of Chaos Magic.md',
+        isAvailable: true,
       },
       {
         slug: 'combat-applications-chaos-magic',
@@ -62,6 +66,7 @@ export const libraryData: {
           'A tactical analysis bound in violet cloth with scorch marks along the spine. Pages contain combat theory with practical observations on overwhelming force. Written in sharp academic script with aggressive tactical notes. Common tongue. Excellent condition.',
         category: 'arcana',
         path: 'lib/books/Chaos Theory/2 - Combat Applications of Chaos Magic.md',
+        isAvailable: true,
       },
       {
         slug: 'rituals-advanced-applications',
@@ -71,6 +76,7 @@ export const libraryData: {
           'A cautionary reference bound in dark purple leather with amethyst insets. Pages detail ritual chaos theory and conceptual destruction warnings. Written in sharp academic script with prominent safety notices. Common tongue. Excellent condition.',
         category: 'arcana',
         path: 'lib/books/Chaos Theory/3 - Rituals and Advanced Applications.md',
+        isAvailable: true,
       },
     ],
   },
@@ -88,6 +94,7 @@ export const libraryData: {
           'A scholarly treatise bound in pale blue leather with sapphire clasps. Pages are meticulously organized with energy removal diagrams and structural analysis charts. Written in sharp, demanding academic script with structural annotations by Director Asmodeus. Common tongue. Excellent condition.',
         category: 'arcana',
         path: 'lib/books/Frost Theory/1 - Foundations of Frost Magic.md',
+        isAvailable: true,
       },
       {
         slug: 'combat-applications-frost-magic',
@@ -97,6 +104,7 @@ export const libraryData: {
           'A tactical analysis bound in ice-blue cloth with frost patterns along the spine. Pages contain combat theory with defensive rhythm analysis and energy management charts. Written in sharp academic script with strategic positioning notes. Common tongue. Excellent condition.',
         category: 'arcana',
         path: 'lib/books/Frost Theory/2 - Combat Applications.md',
+        isAvailable: true,
       },
       {
         slug: 'advanced-structures-applications',
@@ -106,6 +114,7 @@ export const libraryData: {
           'An advanced reference bound in pale blue leather with sapphire insets. Pages detail protective frost architecture, environmental energy harvesting, and complex formation techniques. Written in sharp academic script with structural integration notes by Director Asmodeus. Common tongue. Excellent condition.',
         category: 'arcana',
         path: 'lib/books/Frost Theory/3 - Advanced Structures and Applications.md',
+        isAvailable: true,
       },
     ],
   },
@@ -123,6 +132,7 @@ export const libraryData: {
           'A scholarly treatise bound in golden-yellow leather with topaz clasps. Pages are meticulously organized with theoretical diagrams and flow analysis charts. Written in sharp, demanding academic script. Common tongue. Excellent condition.',
         category: 'arcana',
         path: 'lib/books/Storm Theory/1 - Foundations of Storm Magic.md',
+        isAvailable: true,
       },
       {
         slug: 'combat-applications-storm-magic',
@@ -132,6 +142,7 @@ export const libraryData: {
           'A tactical analysis bound in electric-blue cloth with scorch marks along the spine. Pages contain combat theory with tactical flow diagrams and energy optimization charts. Written in sharp academic script with aggressive positioning notes. Common tongue. Excellent condition.',
         category: 'arcana',
         path: 'lib/books/Storm Theory/2 - Combat Applications of Storm Magic.md',
+        isAvailable: true,
       },
       {
         slug: 'rituals-advanced-applications-storm-magic',
@@ -141,6 +152,83 @@ export const libraryData: {
           'An analytical reference bound in golden-yellow leather with topaz insets. Pages detail injection sensing techniques, magical construct analysis, and collaborative ritual frameworks. Written in sharp academic script with Transcendum comparative notes. Common tongue. Excellent condition.',
         category: 'arcana',
         path: 'lib/books/Storm Theory/3 - Rituals and Advanced Applications.md',
+        isAvailable: true,
+      },
+    ],
+  },
+  {
+    series: 'Illusion Theory',
+    description:
+      'Theoretical framework for illusion magic by Ellie Tarsvesh, First Head of Arcana Studies, with practical expertise from Phaelon Canterburlh, Academy Consultant. Covers illusion manifestations, combat applications, conceptual effects, and advanced ritual techniques.',
+    color: 'illusionTeal',
+    books: [
+      {
+        slug: 'illusion-foundations',
+        title: 'Foundations of Illusion Magic',
+        bookSpineTitle: 'Foundations of<br>Illusion Magic',
+        description:
+          'Bound in teal leather with geometric pattern tooling. Pages contain illusion theory diagrams and consultation notes. Written in sharp academic script with astrological references. Excellent condition.',
+        category: 'arcana',
+        path: 'lib/books/Illusion Theory/1 - Foundations of Illusion Magic.md',
+        isAvailable: true,
+      },
+      {
+        slug: 'illusion-combat',
+        title: 'Combat Applications of Illusion Magic',
+        bookSpineTitle: 'Combat Applications<br>of Illusion Magic',
+        description:
+          'Bound in teal leather with combat motif stamped on spine. Pages describe rapid manifestation techniques and construct combat applications. Script precise with practical combat focus. Excellent condition.',
+        category: 'arcana',
+        path: 'lib/books/Illusion Theory/2 - Combat Applications of Illusion Magic.md',
+        isAvailable: true,
+      },
+      {
+        slug: 'illusion-rituals',
+        title: 'Rituals and Advanced Applications',
+        bookSpineTitle: 'Rituals and<br>Advanced Applications',
+        description:
+          'Bound in teal leather with ritualistic symbol patterns embossed on cover. Cover conceptual manifestations, curse theory, and binding effects. Comprehensive scholarly treatment. Excellent condition.',
+        category: 'arcana',
+        path: 'lib/books/Illusion Theory/3 - Rituals and Advanced Applications.md',
+        isAvailable: true,
+      },
+    ],
+  },
+  {
+    series: 'Light and Shadow Theory',
+    description:
+      "Theoretical examination of external magical schools by Ellie Tarsvesh, First Head of Arcana Studies. Covers Holy magic from Luminance, Shadow magic from Dracula's Shadow Realm incursion, and fundamental differences between external and internal magical sources.",
+    color: 'lightShadowGray',
+    books: [
+      {
+        slug: 'light-shadow-origins',
+        title: 'Origins and the War',
+        bookSpineTitle: 'Origins and<br>the War',
+        description:
+          "Bound in gray leather with light and shadow embossing. Pages examine external origins of Holy and Shadow magic and Dracula's war with the Shadow Realm. Written in analytical script. Excellent condition.",
+        category: 'arcana',
+        path: 'lib/books/Light and Shadow Theory/1 - Origins and the War.md',
+        isAvailable: true,
+      },
+      {
+        slug: 'light-shadow-holy',
+        title: 'Holy Magic and the Path of Light',
+        bookSpineTitle: 'Holy Magic and<br>the Path of Light',
+        description:
+          'Bound in light gold leather with holy symbol stamping. Cover Holy magic theory with consultation from practicing faithful. Script precise with faith-based terminology. Excellent condition.',
+        category: 'arcana',
+        path: 'lib/books/Light and Shadow Theory/2 - Holy Magic and the Path of Light.md',
+        isAvailable: true,
+      },
+      {
+        slug: 'light-shadow-shadow',
+        title: 'Shadow Magic and the Shadow Realm',
+        bookSpineTitle: 'Shadow Magic and<br>the Shadow Realm',
+        description:
+          'Bound in dark gray leather with shadow patterns stamped on spine. Pages document Shadow magic through war accounts and Draculin observations. Less certain due to lack of practitioner consultation. Excellent condition.',
+        category: 'arcana',
+        path: 'lib/books/Light and Shadow Theory/3 - Shadow Magic and the Shadow Realm.md',
+        isAvailable: true,
       },
     ],
   },
@@ -158,6 +246,7 @@ export const libraryData: {
           'A pristine volume bound in green cloth with gold lettering. The pages are clean and well-organized, showing careful editing and revision. Written in precise script with clear section divisions. Common tongue. Excellent condition.',
         category: 'botanical',
         path: 'lib/books/Flora Vardorana/0 - Introduction to Flora Vardorana.md',
+        isAvailable: true,
       },
       {
         slug: 'fire-blossom',
@@ -167,6 +256,7 @@ export const libraryData: {
           'A field guide with singed edges on several pages, as if exposed to heat. The binding shows wear from outdoor use, and several pressed specimens are carefully attached with metal clips. Written in steady script with flame motifs decorating section headers. Common tongue. Fair condition.',
         category: 'botanical',
         path: 'lib/books/Flora Vardorana/1 - Fire Blossom.md',
+        isAvailable: true,
       },
       {
         slug: 'snow-flower',
@@ -176,6 +266,7 @@ export const libraryData: {
           'A field guide with pressed flower samples attached to several pages. The binding is reinforced with cord, and the pages show signs of moisture damage from outdoor use. Written in neat script with botanical sketches in the margins. Common tongue. Good condition.',
         category: 'botanical',
         path: 'lib/books/Flora Vardorana/2 - Snow Flower.md',
+        isAvailable: true,
       },
       {
         slug: 'blood-rose',
@@ -185,6 +276,7 @@ export const libraryData: {
           'A slim volume bound in worn leather, its pages showing water stains and dog-eared corners from frequent field use. The text is written in a precise hand with occasional margin notes and corrections. Common tongue. Fair condition.',
         category: 'botanical',
         path: 'lib/books/Flora Vardorana/3 - Blood Rose.md',
+        isAvailable: true,
       },
       {
         slug: 'sunflower',
@@ -194,6 +286,7 @@ export const libraryData: {
           'A farm journal with pressed flower specimens and sketches of cultivation plots. The binding shows soil stains and weather damage. Written in neat script with agricultural notes. Common tongue. Fair condition.',
         category: 'botanical',
         path: 'lib/books/Flora Vardorana/4 - Sunflower.md',
+        isAvailable: true,
       },
       {
         slug: 'hells-clarion',
@@ -203,6 +296,7 @@ export const libraryData: {
           'A worn field guide with cave dust embedded in the pages and mushroom spore prints pressed between leaves. The binding is water-stained and reinforced with cord. Written in hurried script with rough sketches of underground fungi. Common tongue. Poor condition.',
         category: 'botanical',
         path: "lib/books/Flora Vardorana/5 - Hell's Clarion.md",
+        isAvailable: true,
       },
       {
         slug: 'mourning-lily',
@@ -212,6 +306,7 @@ export const libraryData: {
           'A small notebook bound in dark cloth, pages stained with soil and marked with pressed flower samples. The binding is reinforced with thread, showing frequent field use. Written in careful script with sketches of cemetery layouts in margins. Common tongue. Well-worn condition.',
         category: 'botanical',
         path: 'lib/books/Flora Vardorana/6 - Mourning Lily.md',
+        isAvailable: true,
       },
       {
         slug: 'trippy-shroom',
@@ -221,6 +316,7 @@ export const libraryData: {
           'A small field notebook with pages showing purple staining and slightly warped text in sections. The binding is loose and several pages appear to have been removed. Written in unsteady script with cautionary notes in margins. Common tongue. Poor condition.',
         category: 'botanical',
         path: 'lib/books/Flora Vardorana/7 - Trippy Shroom.md',
+        isAvailable: true,
       },
       {
         slug: 'ghost-shroom',
@@ -230,6 +326,7 @@ export const libraryData: {
           'A small journal with translucent pages that seem to shimmer in certain light. The binding is wrapped in cloth that appears to shift color. Written in faint script that occasionally requires tilting to read. Common tongue. Fair condition.',
         category: 'botanical',
         path: 'lib/books/Flora Vardorana/8 - Ghost Shroom.md',
+        isAvailable: true,
       },
       {
         slug: 'sacred-grapes',
@@ -239,6 +336,7 @@ export const libraryData: {
           'A vineyard journal with wine-stained pages and dried grape leaves pressed between sections. The binding shows signs of careful maintenance. Written in flowing script with cultivation notes. Common tongue. Good condition.',
         category: 'botanical',
         path: 'lib/books/Flora Vardorana/9 - Sacred Grapes.md',
+        isAvailable: true,
       },
       {
         slug: 'bleeding-heart',
@@ -248,6 +346,7 @@ export const libraryData: {
           'A field journal with frost-damaged pages and dried plant specimens attached with dark red thread. The leather binding shows wear from harsh conditions. Written in precise script with anatomical sketches of flower structures. Common tongue. Poor condition due to cold exposure.',
         category: 'botanical',
         path: 'lib/books/Flora Vardorana/10 - Bleeding Heart.md',
+        isAvailable: true,
       },
       {
         slug: 'plague-brier',
@@ -257,6 +356,7 @@ export const libraryData: {
           'A field guide with pages showing chemical stains and discoloration. The binding is treated with protective coating. Several pressed specimens are sealed behind glass. Written in careful script with notes on handling precautions. Common tongue. Fair condition considering exposure.',
         category: 'botanical',
         path: 'lib/books/Flora Vardorana/11 - Plague Brier.md',
+        isAvailable: true,
       },
       {
         slug: 'corrupted-flower',
@@ -266,6 +366,7 @@ export const libraryData: {
           'Field documentation with pages stained by purple residue. Binding reinforced with wire. Contains pressed specimens sealed in treated paper. Technical notation throughout. Common tongue. Working condition.',
         category: 'botanical',
         path: 'lib/books/Flora Vardorana/12 - Corrupted Flower.md',
+        isAvailable: true,
       },
     ],
   },
@@ -283,6 +384,7 @@ export const libraryData: {
           'An introductory manual showing signs of frequent use. Pages contain margin notes with equipment recommendations and common mistake warnings. Written in enthusiastic script with occasional frustrated corrections. Common tongue. Fair condition from heavy reference.',
         category: 'alchemical',
         path: 'lib/books/Field Alchemy/0 - Introduction to Field Alchemy.md',
+        isAvailable: true,
       },
       {
         slug: 'thirty-attempts-fire-resistance',
@@ -292,6 +394,7 @@ export const libraryData: {
           'A workshop manual with singed edges and oil stains throughout. Several pages show burn marks where experiments went awry. Written in enthusiastic script with margin notes about "brilliant failures" and "minor explosions." Common tongue. Poor condition but still legible.',
         category: 'alchemical',
         path: 'lib/books/Field Alchemy/1 - Thirty Attempts at Fire Resistance.md',
+        isAvailable: true,
       },
       {
         slug: 'verenas-simple-silver-solution',
@@ -301,6 +404,7 @@ export const libraryData: {
           'A water-stained notebook with crystallized residue on several pages. The binding shows silver discoloration from repeated exposure. Written in hurried script with excited margin notes. Common tongue. Fair condition.',
         category: 'alchemical',
         path: "lib/books/Field Alchemy/2 - Verena's Simple Silver Solution.md",
+        isAvailable: true,
       },
       {
         slug: 'garlic-resistance-rat-ethics',
@@ -310,6 +414,7 @@ export const libraryData: {
           'A field guide with peculiar smell embedded in pages. Some sections show staining from garlic exposure tests. Written in matter-of-fact script with frustrated margin notes. Common tongue. Fair condition.',
         category: 'alchemical',
         path: 'lib/books/Field Alchemy/3 - Garlic Resistance and Rat Ethics.md',
+        isAvailable: true,
       },
       {
         slug: 'emergency-sun-protection',
@@ -319,6 +424,7 @@ export const libraryData: {
           'A worn journal with pages showing sun damage and fading. Several entries are barely legible. Written in careful script with urgent margin notes about vampire safety. Common tongue. Poor condition.',
         category: 'alchemical',
         path: 'lib/books/Field Alchemy/4 - Emergency Sun Protection.md',
+        isAvailable: true,
       },
       {
         slug: 'blood-rose-field-medicine',
@@ -328,6 +434,7 @@ export const libraryData: {
           'A medical reference guide with blood stains throughout. Pages show field testing records from combat situations. Written in practical script with emergency use notes. Common tongue. Poor condition but legible.',
         category: 'alchemical',
         path: 'lib/books/Field Alchemy/5 - Blood Rose Field Medicine.md',
+        isAvailable: true,
       },
       {
         slug: 'ferocity-monster-hunters',
@@ -337,6 +444,7 @@ export const libraryData: {
           'A field manual with leather cover reinforced with silver studs. Pages show wear from outdoor use and monster blood stains. Written in practical block letters with hunting notes in margins. Common tongue. Poor condition.',
         category: 'alchemical',
         path: 'lib/books/Field Alchemy/6 - Ferocity from the Monster Hunters.md',
+        isAvailable: true,
       },
       {
         slug: 'enchanted-enhancement-basics',
@@ -346,6 +454,7 @@ export const libraryData: {
           'A field manual matching the Brew of Ferocity volume, also from Ashen Keep. Silver-studded leather cover with frost damage on several pages. Written in same practical block letters. Common tongue. Poor condition.',
         category: 'alchemical',
         path: 'lib/books/Field Alchemy/7 - Enchanted Enhancement Basics.md',
+        isAvailable: true,
       },
     ],
   },
@@ -363,6 +472,7 @@ export const libraryData: {
           'An intermediate reference guide showing careful use. Pages contain detailed technique notes and concentration calculations. Written in confident script with fewer corrections than Field Alchemy series. Common tongue. Good condition.',
         category: 'alchemical',
         path: 'lib/books/Advanced Preparations/0 - Introduction to Advanced Preparations.md',
+        isAvailable: true,
       },
       {
         slug: 'silver-resistance-tripled',
@@ -372,6 +482,7 @@ export const libraryData: {
           'A research journal with detailed silver exposure testing records. Pages show silver tarnish stains from experiments. Written in methodical script with safety warnings. Common tongue. Good condition.',
         category: 'alchemical',
         path: 'lib/books/Advanced Preparations/1 - Silver Resistance, Tripled.md',
+        isAvailable: true,
       },
       {
         slug: 'concentrated-garlic-aggression',
@@ -381,6 +492,7 @@ export const libraryData: {
           'A practical manual with persistent garlic smell embedded in pages. Some sections show testing records with behavioral observations. Written in resigned script with frustrated margin notes. Common tongue. Fair condition.',
         category: 'alchemical',
         path: 'lib/books/Advanced Preparations/2 - Concentrated Garlic Aggression.md',
+        isAvailable: true,
       },
       {
         slug: 'five-years-holy-resistance',
@@ -390,6 +502,7 @@ export const libraryData: {
           'A theological research journal with pages showing holy water stain damage. Several sections discuss Church cultivation practices. Written in analytical script with careful safety notations. Common tongue. Good condition.',
         category: 'alchemical',
         path: 'lib/books/Advanced Preparations/3 - Five Years of Holy Resistance.md',
+        isAvailable: true,
       },
       {
         slug: 'maximum-holy-protection-flask',
@@ -399,6 +512,7 @@ export const libraryData: {
           'An advanced research volume with comparative testing records. Pages show luminescent staining from concentrated holy preparations. Written in careful script with extensive safety protocols. Common tongue. Excellent condition.',
         category: 'alchemical',
         path: 'lib/books/Advanced Preparations/4 - Maximum Holy Protection Flask.md',
+        isAvailable: true,
       },
       {
         slug: 'blood-rose-critical-cases',
@@ -408,6 +522,7 @@ export const libraryData: {
           'A medical research journal with extensive healing rate measurements. Pages show calculation tables comparing concentration effects. Written in analytical script. Common tongue. Good condition.',
         category: 'alchemical',
         path: 'lib/books/Advanced Preparations/5 - Blood Rose for Critical Cases.md',
+        isAvailable: true,
       },
       {
         slug: 'rage-beyond-reason',
@@ -417,6 +532,7 @@ export const libraryData: {
           'A research journal with comparative notes between formulations. Pages show careful testing records and margin calculations. Written in analytical script with excited annotations. Common tongue. Good condition.',
         category: 'alchemical',
         path: 'lib/books/Advanced Preparations/6 - Rage Beyond Reason.md',
+        isAvailable: true,
       },
       {
         slug: 'witchs-enhanced-power',
@@ -426,6 +542,7 @@ export const libraryData: {
           'A research journal with extensive spell power measurements and calculation tables. Pages show testing records with different ingredient ratios. Written in excited script with theoretical notes. Common tongue. Good condition.',
         category: 'alchemical',
         path: "lib/books/Advanced Preparations/7 - Witch's Enhanced Power.md",
+        isAvailable: true,
       },
       {
         slug: 'wranglers-mounted-speed-solution',
@@ -435,6 +552,7 @@ export const libraryData: {
           'A cavalry manual with horsehair caught between pages. Several sections show trail dust and weather damage. Written in practical script with mounted combat notes. Common tongue. Fair condition.',
         category: 'alchemical',
         path: "lib/books/Advanced Preparations/8 - Wrangler's Mounted Speed Solution.md",
+        isAvailable: true,
       },
     ],
   },
@@ -452,6 +570,7 @@ export const libraryData: {
           'An elite reference volume with collaborative research notes between Malcolm and Theresa. Pages show advanced blood essence suspension theory. Written in mixed formal and casual script. Common tongue. Excellent condition.',
         category: 'alchemical',
         path: 'lib/books/Blood Essence Mastery/0 - Introduction to Blood Essence Mastery.md',
+        isAvailable: true,
       },
       {
         slug: 'beasts-health-foundation',
@@ -461,6 +580,7 @@ export const libraryData: {
           'A collaborative research journal showing blood essence health enhancement theory. Pages contain testing methodology with creature blood applications. Written in mixed formal and casual script. Common tongue. Good condition.',
         category: 'alchemical',
         path: "lib/books/Blood Essence Mastery/1 - Beast's Health Foundation.md",
+        isAvailable: true,
       },
       {
         slug: 'crows-weapon-leech',
@@ -470,6 +590,7 @@ export const libraryData: {
           "A collaborative research journal showing Theresa Proudmoore's notes on blood essence suspension techniques. Pages contain vampire combat testing records. Written in mixed formal and casual script. Common tongue. Good condition.",
         category: 'alchemical',
         path: "lib/books/Blood Essence Mastery/2 - Crow's Weapon Leech.md",
+        isAvailable: true,
       },
       {
         slug: 'bats-spell-leech',
@@ -479,6 +600,7 @@ export const libraryData: {
           'A magical research volume with spell testing records. Pages show blood essence suspension diagrams. Written in mixed formal and casual script. Common tongue. Good condition.',
         category: 'alchemical',
         path: "lib/books/Blood Essence Mastery/3 - Bat's Spell Leech.md",
+        isAvailable: true,
       },
       {
         slug: 'werewolfs-pure-aggression',
@@ -488,6 +610,7 @@ export const libraryData: {
           'A combat research journal with speed measurement tables. Pages show attack timing analysis. Written in mixed formal and casual script. Common tongue. Good condition.',
         category: 'alchemical',
         path: "lib/books/Blood Essence Mastery/4 - Werewolf's Pure Aggression.md",
+        isAvailable: true,
       },
       {
         slug: 'prowlers-stealth-advantage',
@@ -497,6 +620,7 @@ export const libraryData: {
           'A mobility research journal with movement pattern diagrams. Pages show stealth testing records. Written in mixed formal and casual script. Common tongue. Good condition.',
         category: 'alchemical',
         path: "lib/books/Blood Essence Mastery/5 - Prowler's Stealth Advantage.md",
+        isAvailable: true,
       },
       {
         slug: 'ravens-physical-precision',
@@ -506,6 +630,7 @@ export const libraryData: {
           'A precision combat manual with critical strike analysis tables. Pages show damage variance calculations. Written in mixed formal and casual script. Common tongue. Good condition.',
         category: 'alchemical',
         path: "lib/books/Blood Essence Mastery/6 - Raven's Physical Precision.md",
+        isAvailable: true,
       },
       {
         slug: 'twisted-spell-mastery',
@@ -515,6 +640,7 @@ export const libraryData: {
           'A magical precision research volume with spell critical analysis. Pages show magical variance calculations and corruption pattern studies. Written in mixed formal and casual script. Common tongue. Good condition.',
         category: 'alchemical',
         path: 'lib/books/Blood Essence Mastery/7 - Twisted Spell Mastery.md',
+        isAvailable: true,
       },
       {
         slug: 'blasphemous-ultimate-power',
@@ -524,6 +650,7 @@ export const libraryData: {
           'An advanced combat research volume with ultimate ability analysis. Pages show power output measurements. Written in mixed formal and casual script. Common tongue. Good condition.',
         category: 'alchemical',
         path: 'lib/books/Blood Essence Mastery/8 - Blasphemous Ultimate Power.md',
+        isAvailable: true,
       },
       {
         slug: 'aristocratic-blood-merlot',
@@ -533,6 +660,7 @@ export const libraryData: {
           'An expensive journal bound in burgundy leather with gilt edges. Pages are pristine except for wine stains on several entries. Written in careful script with tasting notes in margins. Common tongue. Excellent condition.',
         category: 'alchemical',
         path: 'lib/books/Blood Essence Mastery/9 - Aristocratic Blood Merlot.md',
+        isAvailable: true,
       },
       {
         slug: 'irradiant-gruel-warning',
@@ -542,23 +670,339 @@ export const libraryData: {
           'An experimental research journal with extensive warning labels. Pages show mutation observation records and ethical debate notes. Written in conflicted script with moral considerations. Common tongue. Good condition with prominent hazard markings.',
         category: 'alchemical',
         path: 'lib/books/Blood Essence Mastery/10 - Irradiant Gruel Warning.md',
+        isAvailable: true,
       },
     ],
   },
   {
     series: 'Celestial Symbolica',
     description:
-      "Phaelon Canterburlh's eccentric astrological symbol theory series. Presents pattern as fundamental reality structure, eight school symbols as magical correspondences, and twelve transformation symbols as cosmic processes. Volumes written out of chronological order with increasingly disjointed prose, appearing randomly without logical sequence.",
+      "Phaelon Canterburlh's eccentric astrological symbol theory series. Presents pattern as fundamental reality structure, eight school symbols as magical correspondences, and invented celestial bodies governing each magical force. Volumes written over 564 years during isolation with progressively deteriorating coherence, appearing randomly without logical sequence.",
     color: 'mysticPurple',
     books: [
       {
-        slug: 'foundations-of-pattern',
-        title: 'Foundations of Pattern',
-        bookSpineTitle: 'Volume ??<br>Foundations<br>of Pattern',
+        slug: 'theralen',
+        title: 'Theralen',
+        bookSpineTitle: 'Volume ??<br>Theralen',
         description:
-          'A chaotic intellectual journey bound in midnight-blue leather with silver celestial inlays. Pages flow wildly between profound insights and irrelevant tangents, with sections frequently abandoned mid-thought. Extensive references to "the shard" and "energy geometry" suggest obsessive research into pure magical energy. Margin notes contain clearer explanations than the main text. Written in erratic script that deteriorates over the volume\'s length into near-incoherence. Common tongue. Good condition with numerous ink corrections, additions, and energy diagrams in margins.',
-        category: 'arcana',
-        path: 'lib/books/Celestial Symbolica/Foundations of Pattern.md',
+          'Bound in golden leather with sunburst gold tooling. Pages show careful organization with margin calculations and orbital diagrams. Written in precise script with complete sentences and consistent notation. No corrections or deletions. Excellent condition.',
+        category: 'astrological',
+        path: 'lib/books/Astrological/Celestial Symbolica/01-Theralen.md',
+        isAvailable: true,
+      },
+      {
+        slug: 'calyx',
+        title: 'Calyx',
+        bookSpineTitle: 'Volume ??<br>Calyx',
+        description:
+          'Bound in silver leather with crescent moon inlay. Pages contain systematic measurements with eight-phase lunar diagram included in final pages. Written in precise script with occasional ink smudges from haste. Excellent condition.',
+        category: 'astrological',
+        path: 'lib/books/Astrological/Celestial Symbolica/02-Calyx.md',
+        isAvailable: true,
+      },
+      {
+        slug: 'galvax',
+        title: 'Galvax',
+        bookSpineTitle: 'Volume ??<br>Galvax',
+        description:
+          'Bound in dark blue leather with lightning-bolt patterns stamped in silver. Pages contain electrical pulse recordings and moon feeding cycle charts. Written in coherent script with increasing margin notes on Academy chart errors. Good condition.',
+        category: 'astrological',
+        path: 'lib/books/Astrological/Celestial Symbolica/04-Galvax.md',
+        isAvailable: true,
+      },
+      {
+        slug: 'veloxis',
+        title: 'Veloxis',
+        bookSpineTitle: 'Volume ??<br>Veloxis',
+        description:
+          'Bound in shifting-color leather that appears different under varying light. Pages contain 47 position diagrams with occasional gaps where author wandered to related topics. Script becomes less precise toward middle sections. Good condition.',
+        category: 'astrological',
+        path: 'lib/books/Astrological/Celestial Symbolica/06-Veloxis.md',
+        isAvailable: true,
+      },
+      {
+        slug: 'weighted-one',
+        title: 'The Weighted One',
+        bookSpineTitle: 'Volume ??<br>The Weighted One',
+        description:
+          'Bound in heavy dark leather with dark matter ring patterns in spine. Pages contain gravitational measurement tables with pattern calculations filling margins. Script precise but increasingly focused on geometry over practical application. Good condition.',
+        category: 'astrological',
+        path: 'lib/books/Astrological/Celestial Symbolica/08-The Weighted One.md',
+        isAvailable: true,
+      },
+      {
+        slug: 'rhydon',
+        title: 'Rhydon',
+        bookSpineTitle: 'Volume ??<br>Rhydon',
+        description:
+          'Bound in red crystalline-textured leather with salt crystal inlays. Pages contain brine chemistry notes interspersed with geometric lattice diagrams. Script becomes fragmented as geometry calculations interrupt explanations. Fair condition with saline staining on later pages.',
+        category: 'astrological',
+        path: 'lib/books/Astrological/Celestial Symbolica/13-Rhydon.md',
+        isAvailable: true,
+      },
+      {
+        slug: 'xylos',
+        title: 'Xylos',
+        bookSpineTitle: 'Volume ??<br>Xylos',
+        description:
+          'Bound in purple-black leather with volcano scorch marks along spine. Pages contain spiral breakdown diagrams with strikethrough corrections showing thought process derailments. Script becomes erratic around cycle counting sections. Fair condition with ash residue on several pages.',
+        category: 'astrological',
+        path: 'lib/books/Astrological/Celestial Symbolica/15-Xylos.md',
+        isAvailable: true,
+      },
+      {
+        slug: 'introduction-to-celestial-symbolica',
+        title: 'Introduction to Celestial Symbolica',
+        bookSpineTitle: 'Volume ??<br>Introduction<br>to Celestial<br>Symbolica',
+        description:
+          'Bound in midnight-blue leather with silver celestial inlays. Pages flow wildly between topics with frequent strikethrough corrections and abandoned thoughts. Stream-of-consciousness narrative with sections interrupted mid-sentence. Good condition with numerous ink corrections and energy diagrams.',
+        category: 'astrological',
+        path: 'lib/books/Astrological/Celestial Symbolica/19-Introduction to Celestial Symbolica.md',
+        isAvailable: true,
+      },
+      {
+        slug: 'vaylra',
+        title: 'Vaylra',
+        bookSpineTitle: 'Volume ??<br>Vaylra',
+        description:
+          'Bound in frosted blue leather that crackles when opened. Pages contain energy removal calculations with extensive strikethrough deletions and abandoned thought fragments. Script barely legible in many sections showing mental deterioration. Poor condition with frost damage and ink fading.',
+        category: 'astrological',
+        path: 'lib/books/Astrological/Celestial Symbolica/21-Vaylra.md',
+        isAvailable: true,
+      },
+    ],
+  },
+  {
+    series: 'History of the Gilded Compass',
+    description:
+      "Comprehensive history of the Gilded Compass faction from founding through return to Vardoran. Covers 733 years of organizational development, regional expansion, ideological conflicts, and participation in magical restoration. Written by Ismet Drantiel throughout the author's scholarly career, with volumes reflecting varying degrees of use and age despite Academy restoration efforts.",
+    color: 'color-info',
+    books: [
+      {
+        slug: 'gilded-compass-founding',
+        title: 'The Founding',
+        bookSpineTitle: 'The Founding',
+        description:
+          'Bound in brown leather with compass rose tooling. Pages contain early formation charts enhanced with preservation treatments. Written in precise formal script. Excellent condition with restoration reinforcement visible on spine.',
+        category: 'history',
+        path: 'lib/books/History/History of the Gilded Compass/1 - The Founding.md',
+        isAvailable: true,
+      },
+      {
+        slug: 'gilded-compass-lost-expedition',
+        title: 'The Lost Expedition',
+        bookSpineTitle: 'The Lost<br>Expedition',
+        description:
+          'Bound in brown leather with navigation wheel embossing. Pages document expedition routes with stable ink despite age. Formal script remains clear and legible. Excellent condition with reinforced binding corners.',
+        category: 'history',
+        path: 'lib/books/History/History of the Gilded Compass/2 - The Lost Expedition.md',
+        isAvailable: true,
+      },
+      {
+        slug: 'gilded-compass-crown-of-light',
+        title: 'Beneath the Crown of Light',
+        bookSpineTitle: 'Beneath the<br>Crown of Light',
+        description:
+          'Bound in brown leather with light-and-shadow geometric stamped patterns. Pages analyze Luminance doctrine with minimal foxing. Consistent formal script. Excellent condition.',
+        category: 'history',
+        path: 'lib/books/History/History of the Gilded Compass/3 - Beneath the Crown of Light.md',
+        isAvailable: true,
+      },
+      {
+        slug: 'gilded-compass-fractured-faith',
+        title: 'The Fractured Faith',
+        bookSpineTitle: 'The Fractured<br>Faith',
+        description:
+          'Bound in brown leather with flame motifs tooled along spine. Pages show evidence of scholarly use but remain intact. Script steady throughout. Very good condition with minor preservation touch-ups.',
+        category: 'history',
+        path: 'lib/books/History/History of the Gilded Compass/4 - The Fractured Faith.md',
+        isAvailable: true,
+      },
+      {
+        slug: 'gilded-compass-limits-of-expansion',
+        title: 'The Limits of Expansion',
+        bookSpineTitle: 'The Limits of<br>Expansion',
+        description:
+          'Bound in brown leather with embossed territorial boundary patterns. Pages display expanded geographic analysis with clean margins. Formal script maintained. Very good condition.',
+        category: 'history',
+        path: 'lib/books/History/History of the Gilded Compass/5 - The Limits of Expansion.md',
+        isAvailable: true,
+      },
+      {
+        slug: 'gilded-compass-harbor',
+        title: "Mont Marie's Harbor",
+        bookSpineTitle: "Mont Marie's<br>Harbor",
+        description:
+          'Bound in brown leather with wave patterns stamped in lighter leather tone. Pages analyze maritime operations with age-appropriate character. Script precise and professional. Very good condition.',
+        category: 'history',
+        path: "lib/books/History/History of the Gilded Compass/6 - Mont Marie's Harbor.md",
+        isAvailable: true,
+      },
+      {
+        slug: 'gilded-compass-iron-empire',
+        title: 'Within the Iron Empire',
+        bookSpineTitle: 'Within the<br>Iron Empire',
+        description:
+          'Bound in brown leather with iron scrollwork inlays. Pages examine imperial structure through clear narrative. Slight age-related softening in later pages but fully legible. Good condition with stabilizing repairs.',
+        category: 'history',
+        path: 'lib/books/History/History of the Gilded Compass/7 - Within the Iron Empire.md',
+        isAvailable: true,
+      },
+      {
+        slug: 'gilded-compass-conquered-republic',
+        title: 'The Conquered Republic',
+        bookSpineTitle: 'The Conquered<br>Republic',
+        description:
+          'Bound in brown leather with fracture pattern stamped on spine. Pages document Veltraxis trauma with coherent structure. Formal narrative quality maintained. Good condition showing moderate use.',
+        category: 'history',
+        path: 'lib/books/History/History of the Gilded Compass/8 - The Conquered Republic.md',
+        isAvailable: true,
+      },
+      {
+        slug: 'gilded-compass-dominion-rejection',
+        title: "The Dominion's Rejection",
+        bookSpineTitle: "The Dominion's<br>Rejection",
+        description:
+          "Bound in brown leather with refusal symbolism stamped on cover. Pages cover Nexarca interactions with consistent analysis. Script shows author's age but remains clear. Good condition.",
+        category: 'history',
+        path: "lib/books/History/History of the Gilded Compass/9 - The Dominion's Rejection.md",
+        isAvailable: true,
+      },
+      {
+        slug: 'gilded-compass-desert-divide',
+        title: 'The Desert Divide',
+        bookSpineTitle: 'The Desert<br>Divide',
+        description:
+          "Bound in brown leather with sand-textured spine panels. Pages analyze Sahraan's Twilight Court with thorough detail. Formal narrative reveals elderly author's perspective. Good condition with light external wear.",
+        category: 'history',
+        path: 'lib/books/History/History of the Gilded Compass/10 - The Desert Divide.md',
+        isAvailable: true,
+      },
+      {
+        slug: 'gilded-compass-breaking-cycle',
+        title: 'Breaking the Cycle',
+        bookSpineTitle: 'Breaking the<br>Cycle',
+        description:
+          'Bound in brown leather with waygate hub tooling on cover. Pages document Vardoran return and faction alliances. Final volume appears fresher than early volumes with careful preservation. Excellent condition.',
+        category: 'history',
+        path: 'lib/books/History/History of the Gilded Compass/11 - Breaking the Cycle.md',
+        isAvailable: true,
+      },
+    ],
+  },
+  {
+    series: 'Ehrlich Medical Protocols',
+    description:
+      'Clinical treatment protocols and standardized procedures by Martin Ehrlich, Academy Director (AMR 0-present). Documents comprehensive medical protocols covering therapeutic applications, surgical interventions, anesthesia, poison neutralization, and specialized treatments for vampiric medical practice.',
+    color: 'medRed',
+    books: [
+      {
+        slug: 'thermal-equilibrium-serum',
+        title: 'Protocol 04: Thermal Equilibrium Serum',
+        bookSpineTitle: 'Protocol 04<br>Thermal<br>Equilibrium<br>Serum',
+        description:
+          'Bound in worn black leather with temperature damage along the spine. Pages show chemical stains and thermal exposure patterns from repeated testing. Contains redacted treatment protocol for temperature regulation applications. Written in precise clinical script with experimental procedure notes. Common tongue. Fair condition with evidence of controlled laboratory use.',
+        category: 'medical',
+        path: 'lib/books/Medical/Ehrlich Medical Protocols/Protocol 04 - Thermal Equilibrium Serum (Redacted).md',
+        isAvailable: true,
+      },
+      {
+        slug: 'emery-bloodrose-suspension',
+        title: 'Protocol 07: Emery/Bloodrose Suspension',
+        bookSpineTitle: 'Protocol 07<br>Emery/Bloodrose<br>Suspension',
+        description:
+          'Bound in dark leather with red powder staining along the spine. Pages contain chemical reaction documentation and venom sap neutralization procedures. Written in precise clinical script with safety protocol emphasis and treatment efficacy notes. Common tongue. Good condition with minor corrosive residue on exterior.',
+        category: 'medical',
+        path: 'lib/books/Medical/Ehrlich Medical Protocols/Protocol 07 - Emery-Bloodrose Suspension.md',
+        isAvailable: true,
+      },
+      {
+        slug: 'coldpress-clotting-compound',
+        title: 'Protocol 08: Coldpress Clotting Compound',
+        bookSpineTitle: 'Protocol 08<br>Coldpress<br>Clotting<br>Compound',
+        description:
+          'Bound in dark leather with treated fiber samples attached. Pages document hemostasis stabilization formulation using cotton matrix and vasoconstrictive agents. Written in precise clinical script with surgical application diagrams. Common tongue. Excellent condition.',
+        category: 'medical',
+        path: 'lib/books/Medical/Ehrlich Medical Protocols/Protocol 08 - Clotting Compound.md',
+        isAvailable: true,
+      },
+      {
+        slug: 'controlled-vampiric-blood-application',
+        title: 'Protocol 09: Controlled Vampiric Blood Application',
+        bookSpineTitle: 'Protocol 09<br>Controlled<br>Vampiric Blood<br>Application',
+        description:
+          'Bound in dark leather with silver-threaded cord closure. Pages document regenerative blood therapy with conversion risk management protocols. Written in precise clinical script with careful dosage calculations and monitoring requirements. Common tongue. Excellent condition with silver protective coating.',
+        category: 'medical',
+        path: 'lib/books/Medical/Ehrlich Medical Protocols/Protocol 09 - Vampiric Blood Application.md',
+        isAvailable: true,
+      },
+      {
+        slug: 'trifold-anesthetic-draught',
+        title: 'Protocol 10: Trifold Anesthetic Draught',
+        bookSpineTitle: 'Protocol 10<br>Trifold<br>Anesthetic<br>Draught',
+        description:
+          'Bound in dark leather with herbal staining on pages. Documents multi-component anesthesia formulation for induced unconsciousness. Written in precise clinical script with dosage calculations and safety warning emphasis. Common tongue. Good condition with margin notes from clinical use.',
+        category: 'medical',
+        path: 'lib/books/Medical/Ehrlich Medical Protocols/Protocol 10 - Anesthetic Draught.md',
+        isAvailable: true,
+      },
+      {
+        slug: 'emery-saturation-cycle',
+        title: 'Protocol 11: Emery Saturation Cycle',
+        bookSpineTitle: 'Protocol 11<br>Emery<br>Saturation<br>Cycle',
+        description:
+          'Bound in dark leather with significant chemical discoloration. Pages document systemic venom sap purge protocol requiring multiple saturation cycles. Written in precise clinical script with detailed treatment timeline and patient monitoring requirements. Common tongue. Fair condition from corrosive compound exposure.',
+        category: 'medical',
+        path: 'lib/books/Medical/Ehrlich Medical Protocols/Protocol 11 - Emery Saturation.md',
+        isAvailable: true,
+      },
+      {
+        slug: 'fractured-bone-repair',
+        title: 'Protocol 12: Fractured Bone Repair',
+        bookSpineTitle: 'Protocol 12<br>Fractured<br>Bone<br>Repair',
+        description:
+          'Bound in dark leather with skeletal diagrams. Comprehensive skeletal trauma treatment protocol covering blood enhancement therapy, stabilization procedures, and recovery monitoring. Written in precise clinical script with anatomical illustrations and rehabilitation timelines. Common tongue. Excellent condition.',
+        category: 'medical',
+        path: 'lib/books/Medical/Ehrlich Medical Protocols/Protocol 12 - Fractured Bone Repair.md',
+        isAvailable: true,
+      },
+      {
+        slug: 'clinical-blood-applications',
+        title: 'Protocol 13: Clinical Blood Applications',
+        bookSpineTitle: 'Protocol 13<br>Clinical<br>Blood<br>Applications',
+        description:
+          'Bound in durable black leather with red title. Pages show frequent use with margin annotations in precise script. Contains systematic analysis of nine blood types and 72 combination therapies. Written in Clinical Martin Ehrlich voice with precise categorization and data-focused documentation. Common tongue. Excellent condition.',
+        category: 'medical',
+        path: 'lib/books/Medical/Ehrlich Medical Protocols/Protocol 13 - Clinical Blood Applications.md',
+        isAvailable: true,
+      },
+    ],
+  },
+  {
+    series: 'Medical Record',
+    description:
+      'Clinical research notes and pathological analyses by Martin Ehrlich, Academy Director (AMR 0-present). Documents specialized disease research, outbreak records, and medical case studies for vampiric medical knowledge.',
+    color: 'medRed',
+    books: [
+      {
+        slug: 'red-death-pathogen-analysis',
+        title: 'Record 54: The Red Death',
+        bookSpineTitle: 'Record 54<br>The Red Death',
+        description:
+          'Bound in black leather with containment warning symbols stamped on cover. Pages document vampiric hematologic pathogen with three-stage progression analysis, historical plague records, and terminal illness management protocols. Written in precise clinical script with safety protocol emphasis and quarantine requirements. Common tongue. Good condition with biohazard marking on spine.',
+        category: 'medical',
+        path: 'lib/books/Medical/Record 54 - The Red Death.md',
+        isAvailable: true,
+      },
+      {
+        slug: 'goreshroom-disease-analysis',
+        title: 'Record 55: Goreshroom Disease',
+        bookSpineTitle: 'Record 55<br>Goreshroom<br>Disease',
+        description:
+          'Bound in black leather with fungal spore patterns visible in leather grain. Documents mycotic vampiric infection with nociceptive dysfunction analysis, cognitive effects, and antifungal treatment protocols. Written in precise clinical script with fungal growth diagrams and treatment efficacy notes. Common tongue. Fair condition with minor fungal residue.',
+        category: 'medical',
+        path: 'lib/books/Medical/Record 55 - Goreshroom Disease.md',
+        isAvailable: true,
       },
     ],
   },

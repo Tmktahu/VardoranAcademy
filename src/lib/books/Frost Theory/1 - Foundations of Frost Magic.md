@@ -1,6 +1,7 @@
 # Frost Theory: Foundations of Frost Magic
-> **Series:** Frost Theory, Volume 1
-> **Authors:** Ellie Tarsvesh, Asmodeus Azmadel
+> **Series:** Frost Theory, Volume 1  
+> **Author:** Ellie Tarsvesh  
+> **Consultant:** Asmodeus Azmadel  
 > **Written:** 42 AD
 ## What Frost Magic Is
 Frost magic is not elemental cold. The ice and cold you see are what happens when you use the magic, not what the magic actually is. You remove energy from things - you make areas with less energy than normal.

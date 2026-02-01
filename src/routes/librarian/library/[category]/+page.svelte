@@ -51,7 +51,7 @@
         <div class="series-block flex flex-col">
           <div class="books-row flex gap-2 items-end flex-wrap">
             {#each series.books as book, i (book.slug)}
-              <BookSpine {book} {selectBook} color={series.color} />
+              <BookSpine {book} {selectBook} color={series.color} isAvailable={book.isAvailable} />
             {/each}
           </div>
         </div>

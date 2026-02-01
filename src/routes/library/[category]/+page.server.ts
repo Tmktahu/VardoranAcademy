@@ -1,11 +1,11 @@
 import { libraryData } from '$lib/libraryData';
 import { error } from '@sveltejs/kit';
 
-export async function load(event) {
-  const { category } = event.params;
+export async function load({ params, cookies }: { params: { category: string }; cookies: any }) {
+  const { category } = params;
   // Get last read book from cookie
   let lastReadBook = null;
-  const bookCookie = event.cookies.get('book_read') || '';
+  const bookCookie = cookies.get('book_read') || '';
   if (bookCookie) {
     try {
       const { slug, time } = JSON.parse(bookCookie);
@@ -21,7 +21,7 @@ export async function load(event) {
   const seriesWithBooks = libraryData
     .map((series) => ({
       ...series,
-      books: series.books.filter((book) => book.category === category),
+      books: series.books.filter((book) => book.category === category && book.isAvailable),
     }))
     .filter((series) => series.books.length > 0);
 

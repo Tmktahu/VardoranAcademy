@@ -22,7 +22,7 @@ Though I will note: the sunflower and grave dust worked together almost too well
 This formula required five years of testing before I considered it safe for general use. Early versions created significant discomfort with minimal protection. The breakthrough came from understanding proper concentration ratios and steeping methods that maximize adaptation effect while minimizing exposure pain.
 ## The Formula
 **Ingredients:**
-- 60 measures sunflower (must be from Church of Luminence farms in Dunley)
+- 60 measures sunflower (must be from Church of Luminance farms in Dunley)
 - 1 grave dust
 - 1 empty glass bottle
 
@@ -44,9 +44,9 @@ Consecrated spaces like Church sanctuaries, diplomatic meeting grounds, and ceme
 ## The Sunflower Requirement
 Sunflower's holy trace and cultivation requirements are thoroughly documented in Volume IV of the Flora Vardorana botanical series. I recommend reading the full entry for context on how this plant acquired holy properties.
 
-For this formula, you need sunflowers grown from seeds taken from the Church of Luminence farms in Dunley. Those specific seeds carry the worship-imbuement trace. Sunflowers don't grow naturally in Vardoran, as they only exist on cultivated farms.
+For this formula, you need sunflowers grown from seeds taken from the Church of Luminance farms in Dunley. Those specific seeds carry the worship-imbuement trace. Sunflowers don't grow naturally in Vardoran, as they only exist on cultivated farms.
 ## Development Notes
-**Attempt #23:** Used sunflowers from regular agricultural farms, not realizing only Church of Luminence farm seeds carry the worship-imbuement trace. Result: complete failure. Protection level: zero. Severin tested it and reported regular holy vulnerability with no measurable improvement, which told me immediately that the holy trace was missing entirely.
+**Attempt #23:** Used sunflowers from regular agricultural farms, not realizing only Church of Luminance farm seeds carry the worship-imbuement trace. Result: complete failure. Protection level: zero. Severin tested it and reported regular holy vulnerability with no measurable improvement, which told me immediately that the holy trace was missing entirely.
 
 **Attempt #31:** I thought I'd achieved something functional. Severin tested the formulation and reported back after emerging from an encounter with Church paladins. His assessment was direct: "This creates adaptation, but the adaptation is insufficient. I can feel the holy presence, but it still burns. You're building resistance, but you haven't built enough."
 

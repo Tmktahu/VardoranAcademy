@@ -5,7 +5,6 @@
 
   export let basePath: string;
 
-  let container: HTMLDivElement;
   let aspectRatio = 3 / 5;
 
   const categories = ['history', 'arcana', 'botanical', 'alchemical'];
@@ -20,52 +19,64 @@
   }
 </script>
 
-<div class="w-full h-full flex items-center justify-center bg-tsecondary-400">
+<div class="w-full h-full flex items-center justify-center" style="background: #C6A583;">
   <!-- Desktop Layout -->
-  <div class="desktop-layout w-full">
-    <div class="relative w-full cinzel-regular leading-none" bind:this={container}>
-      <img src={libraryLayout} alt="Library Layout" class="w-full h-auto block opacity-80" on:load={handleImageLoad} />
+  <div class="desktop-layout w-full h-full">
+    <div class="flex items-center justify-center">
+      <div class="relative cinzel-regular w-fit leading-none">
+        <img src={libraryLayout} alt="Library Layout" class="m-auto w-auto max-h-screen block" on:load={handleImageLoad} />
+        <div class="absolute inset-0 bg-black opacity-10 pointer-events-none"></div>
 
-      <div class="overlay-container absolute inset-0 pointer-events-none text-tprimary-0">
-        <button
-          class="leave-background px-16 cinzel-regular font-semibold! text-background-0 hover:text-black! transition-colors duration-300 text-3xl absolute z-10 cursor-pointer pointer-events-auto"
-          style="top: 14%; left: 7%;"
-          on:click={() => goto('/')}
-        >
-          Leave the Library
-        </button>
+        <div class="overlay-container absolute inset-0 pointer-events-none text-tprimary-0">
+          <div class="side-fades"></div>
+          <button
+            class="absolute leave-background px-16 cinzel-regular font-semibold! text-background-0 hover:text-black! transition-colors duration-300 text-3xl z-10 cursor-pointer pointer-events-auto"
+            style="top: 8%; left: 0%; width: 40%;"
+            on:click={() => goto('/')}
+          >
+            Leave the Library
+          </button>
 
-        <button
-          class="absolute z-10 history-background cursor-pointer pointer-events-auto font-semibold"
-          style="top: 12%; left: 38%; width: 19%; height: 12%;"
-          on:click={() => gotoCategory('history')}
-        >
-          History
-        </button>
+          <button
+            class="absolute z-10 history-background cursor-pointer pointer-events-auto font-semibold"
+            style="top: 12%; left: 38%; width: 19%; height: 12%;"
+            on:click={() => gotoCategory('history')}
+          >
+            History
+          </button>
 
-        <button
-          class="absolute z-10 arcana-background cursor-pointer pointer-events-auto font-semibold"
-          style="top: 36%; left: 16%; width: 20%; height: 10%;"
-          on:click={() => gotoCategory('arcana')}
-        >
-          Arcana
-        </button>
+          <button
+            class="absolute z-10 arcana-background cursor-pointer pointer-events-auto font-semibold"
+            style="top: 36%; left: 16%; width: 20%; height: 10%;"
+            on:click={() => gotoCategory('arcana')}
+          >
+            Arcana
+          </button>
 
-        <button
-          class="absolute z-10 botanical-background cursor-pointer pointer-events-auto font-semibold"
-          style="top: 36%; left: 62%; width: 20%; height: 10%;"
-          on:click={() => gotoCategory('botanical')}
-        >
-          Botanical
-        </button>
+          <button
+            class="absolute z-10 botanical-background cursor-pointer pointer-events-auto font-semibold"
+            style="top: 36%; left: 62%; width: 20%; height: 10%;"
+            on:click={() => gotoCategory('botanical')}
+          >
+            Botanical
+          </button>
 
-        <button
-          class="absolute z-10 alchemical-background cursor-pointer pointer-events-auto font-semibold"
-          style="top: 58%; left: 62%; width: 20%; height: 10%;"
-          on:click={() => gotoCategory('alchemical')}
-        >
-          Alchemical
-        </button>
+          <button
+            class="absolute z-10 alchemical-background cursor-pointer pointer-events-auto font-semibold"
+            style="top: 58%; left: 62%; width: 20%; height: 10%;"
+            on:click={() => gotoCategory('alchemical')}
+          >
+            Alchemical
+          </button>
+
+          <button
+            class="absolute z-10 astrological-background cursor-pointer pointer-events-auto font-semibold"
+            style="top: 58%; left: 16%; width: 20%; height: 10%;"
+            on:click={() => gotoCategory('astrological')}
+          >
+            Astrological
+          </button>
+        </div>
       </div>
     </div>
   </div>
@@ -75,14 +86,29 @@
     <img src={libraryLayout} alt="Library Layout" class="absolute inset-0 w-full h-full object-cover opacity-60" />
     <div class="relative z-10 w-full max-w-md">
       <div class="flex flex-col gap-4 cinzel-regular leading-none">
-        <button class="history-mobile cursor-pointer p-6 rounded-lg text-center text-xl text-white font-semibold" on:click={() => gotoCategory('history')}> History </button>
+        <button class="leave-background px-8 py-4 rounded-lg text-center text-2xl text-background-0 font-semibold w-full cursor-pointer" on:click={() => goto('/')}>
+          Leave the Library
+        </button>
 
-        <button class="arcana-mobile cursor-pointer p-6 rounded-lg text-center text-xl text-white font-semibold" on:click={() => gotoCategory('arcana')}> Arcana </button>
+        <button class="button-mobile history-background cursor-pointer p-6 rounded-lg text-center text-xl text-white font-semibold" on:click={() => gotoCategory('history')}>
+          History
+        </button>
 
-        <button class="botanical-mobile cursor-pointer p-6 rounded-lg text-center text-xl text-white font-semibold" on:click={() => gotoCategory('botanical')}> Botanical </button>
-
-        <button class="alchemical-mobile cursor-pointer p-6 rounded-lg text-center text-xl text-white font-semibold" on:click={() => gotoCategory('alchemical')}>
+        <button class="button-mobile arcana-background cursor-pointer p-6 rounded-lg text-center text-xl text-white font-semibold" on:click={() => gotoCategory('arcana')}>
+          Arcana
+        </button>
+        <button class="button-mobile botanical-background cursor-pointer p-6 rounded-lg text-center text-xl text-white font-semibold" on:click={() => gotoCategory('botanical')}>
+          Botanical
+        </button>
+        <button class="button-mobile alchemical-background cursor-pointer p-6 rounded-lg text-center text-xl text-white font-semibold" on:click={() => gotoCategory('alchemical')}>
           Alchemical
+        </button>
+
+        <button
+          class="button-mobile astrological-background cursor-pointer p-6 rounded-lg text-center text-xl text-white font-semibold"
+          on:click={() => gotoCategory('astrological')}
+        >
+          Astrological
         </button>
       </div>
     </div>
@@ -90,30 +116,6 @@
 </div>
 
 <style>
-  .overlay-container::before {
-    content: '';
-    position: absolute;
-    top: 0;
-    left: 0;
-    right: 0;
-    height: 3%;
-    background: linear-gradient(to bottom, var(--color-tsecondary-400), transparent);
-    pointer-events: none;
-    z-index: 5;
-  }
-
-  .overlay-container::after {
-    content: '';
-    position: absolute;
-    bottom: 0;
-    left: 0;
-    right: 0;
-    height: 3%;
-    background: linear-gradient(to top, var(--color-tsecondary-400), transparent);
-    pointer-events: none;
-    z-index: 5;
-  }
-
   .leave-background {
     background: linear-gradient(to left, transparent, var(--color-tsecondary-800) 40%, var(--color-tsecondary-800) 60%, transparent);
     transition: opacity 0.3s ease;
@@ -164,7 +166,8 @@
     }
   }
 
-  .history-mobile {
+  .astrological-background {
+    background: linear-gradient(to left, transparent, var(--color-astrologicalBlue-900) 40%, var(--color-astrologicalBlue-900) 60%, transparent);
     transition: opacity 0.3s ease;
     opacity: 0.9;
 
@@ -173,25 +176,7 @@
     }
   }
 
-  .arcana-mobile {
-    transition: opacity 0.3s ease;
-    opacity: 0.9;
-
-    &:hover {
-      opacity: 1;
-    }
-  }
-
-  .botanical-mobile {
-    transition: opacity 0.3s ease;
-    opacity: 0.9;
-
-    &:hover {
-      opacity: 1;
-    }
-  }
-
-  .alchemical-mobile {
+  .button-mobile {
     transition: opacity 0.3s ease;
     opacity: 0.9;
 
@@ -224,5 +209,53 @@
     .alchemical-mobile {
       background: linear-gradient(to left, transparent, var(--color-alchemicalOrange-900) 40%, var(--color-alchemicalOrange-900) 60%, transparent);
     }
+  }
+
+  .side-fades::before {
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    width: 3%;
+    background: linear-gradient(to right, #c6a583, transparent);
+    pointer-events: none;
+    z-index: 5;
+  }
+
+  .side-fades::after {
+    content: '';
+    position: absolute;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    width: 3%;
+    background: linear-gradient(to left, #c6a583, transparent);
+    pointer-events: none;
+    z-index: 5;
+  }
+
+  .overlay-container::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 3%;
+    background: linear-gradient(to bottom, #c6a583, transparent);
+    pointer-events: none;
+    z-index: 5;
+  }
+
+  .overlay-container::after {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 3%;
+    background: linear-gradient(to top, #c6a583, transparent);
+    pointer-events: none;
+    z-index: 5;
   }
 </style>

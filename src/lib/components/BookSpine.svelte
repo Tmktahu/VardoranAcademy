@@ -4,6 +4,7 @@
   export let book: { category?: string; slug: string; bookSpineTitle: string };
   export let color: string;
   export let selectBook: (book: any) => void;
+  export let isAvailable: boolean = true;
 
   let bookHeight: number = 64;
   let bookButtonRef: any;
@@ -55,7 +56,7 @@
 <button
   bind:this={bookButtonRef}
   on:click={() => selectBook(book)}
-  class="book-button flex items-center justify-center relative"
+  class="book-button {isAvailable === false ? 'unavailable' : ''} flex items-center justify-center relative"
   style="height: {bookHeight}px; width: {getBookWidth(book.slug, 40, 64, book.bookSpineTitle)}px;"
 >
   <div class="book flex items-center justify-center w-full h-full relative">
@@ -155,5 +156,12 @@
   }
   .book-button:hover .book-color {
     filter: saturate(2);
+  }
+  .book-button.unavailable .book {
+    opacity: 0.3;
+    filter: grayscale(100%) saturate(0);
+  }
+  .book-button.unavailable:hover .book {
+    opacity: 0.4;
   }
 </style>

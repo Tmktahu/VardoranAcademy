@@ -1,6 +1,7 @@
 # Sanguine Theory: Ritual and Ceremonial Applications
 > **Series:** Sanguine Theory, Volume 3  
-> **Author:** Ellie Tarsvesh, with vampiric expertise from Severin, Academy Consultant  
+> **Author:** Ellie Tarsvesh  
+> **Consultant:** Severin  
 > **Written:** 44 AD
 ## Nature of Ritual Applications
 Blood magic ritual work operates on different principles than immediate-effect applications. Ritual practitioners have time for preparation, careful control, and sustained operations. This permits complexity that rapid applications cannot achieve, including proper material preparation, controlled environmental conditions, and precise execution without external pressure.

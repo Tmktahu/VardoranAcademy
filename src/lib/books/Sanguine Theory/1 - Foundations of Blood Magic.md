@@ -1,6 +1,7 @@
 # Sanguine Theory: Foundations of Blood Magic
 > **Series:** Sanguine Theory, Volume 1  
-> **Author:** Ellie Tarsvesh, with vampiric expertise from Severin, Academy Consultant  
+> **Author:** Ellie Tarsvesh  
+> **Consultant:** Severin  
 > **Written:** 42 AD
 ## What Blood Magic Is
 Blood magic manipulates life force through transfer and redirection. Severin channels it. I document it. After years of observation, the mechanism is clear: life force exists as tangible magical resource residing in living creatures. Practitioners draw this resource from external targets and redirect it for their own purposes.
