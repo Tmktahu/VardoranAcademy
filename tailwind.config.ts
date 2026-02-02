@@ -24,6 +24,12 @@ const bloodRed = '#981c20';
 const chaosPurple = '#800080';
 const stormYellow = '#FFD700';
 const astrologicalBlue = '#1E3A5F';
+const illusionTeal = '#008080';
+const lightShadowGray = '#A9A9A9';
+const medicalBlue = '#4682B4';
+const medicalRed = '#981c20';
+// light spring green
+const folkloreGreen = '#228B22';
 
 const primaryOverlayOpacity = 0.8;
 const secondaryOverlayOpacity = 0.3;
@@ -60,6 +66,11 @@ const config = {
       chaosPurple: generateColors(pitchBlack, chaosPurple, 0.4),
       stormYellow: generateColors(pitchBlack, stormYellow, 0.4),
       astrologicalBlue: generateColors(pitchBlack, astrologicalBlue, 0.4),
+      illusionTeal: generateColors(pitchBlack, illusionTeal, 0.4),
+      lightShadowGray: generateColors(pitchBlack, lightShadowGray, 0.4),
+      medicalBlue: generateColors(pitchBlack, medicalBlue, 0.4),
+      medicalRed: generateColors(pitchBlack, medicalRed, 0.4),
+      folkloreGreen: generateColors(pitchBlack, folkloreGreen, 0.4),
 
       zinc: colors.zinc,
       white: colors.white,
@@ -152,6 +163,36 @@ const config = {
           DEFAULT: astrologicalBlue,
           foreground: generateColors(baseBackgroundColor, astrologicalBlue, 0.4),
           ...generateColors(baseBackgroundColor, astrologicalBlue, 0.7),
+        },
+
+        illusionTeal: {
+          DEFAULT: illusionTeal,
+          foreground: generateColors(baseBackgroundColor, illusionTeal, 0.4),
+          ...generateColors(baseBackgroundColor, illusionTeal, 0.7),
+        },
+
+        lightShadowGray: {
+          DEFAULT: lightShadowGray,
+          foreground: generateColors(baseBackgroundColor, lightShadowGray, 0.4),
+          ...generateColors(baseBackgroundColor, lightShadowGray, 0.7),
+        },
+
+        medicalBlue: {
+          DEFAULT: medicalBlue,
+          foreground: generateColors(baseBackgroundColor, medicalBlue, 0.4),
+          ...generateColors(baseBackgroundColor, medicalBlue, 0.7),
+        },
+
+        medicalRed: {
+          DEFAULT: medicalRed,
+          foreground: generateColors(baseBackgroundColor, medicalRed, 0.4),
+          ...generateColors(baseBackgroundColor, medicalRed, 0.7),
+        },
+
+        folkloreGreen: {
+          DEFAULT: folkloreGreen,
+          foreground: generateColors(baseBackgroundColor, folkloreGreen, 0.4),
+          ...generateColors(baseBackgroundColor, folkloreGreen, 0.7),
         },
 
         destructive: {

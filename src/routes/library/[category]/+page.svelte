@@ -65,17 +65,16 @@
   });
 
   let characterName = '';
-  let imageInput: HTMLInputElement;
+  let imageFiles: FileList | undefined = undefined;
 
   $: isReread = data.lastReadBook && selectedBook && data.lastReadBook.slug === selectedBook.slug;
-  $: requiredInput = !isReread ? { required: true } : {};
-  $: canSubmit = isReread || (!!characterName.trim() && imageInput?.files?.length > 0);
+  $: canSubmit = isReread || (!!characterName.trim() && imageFiles && imageFiles.length > 0);
   let imagePreviewUrl: string | null = null;
 
   function handleImageChange() {
-    if (imageInput && imageInput.files && imageInput.files.length > 0) {
+    if (imageFiles && imageFiles.length > 0) {
       if (imagePreviewUrl) URL.revokeObjectURL(imagePreviewUrl);
-      imagePreviewUrl = URL.createObjectURL(imageInput.files[0]);
+      imagePreviewUrl = URL.createObjectURL(imageFiles[0]);
     } else {
       if (imagePreviewUrl) URL.revokeObjectURL(imagePreviewUrl);
       imagePreviewUrl = null;
@@ -93,12 +92,12 @@
       gotoBook(selectedBook.slug);
       return;
     }
-    if (!characterName || !imageInput.files?.length) return;
+    if (!characterName || !imageFiles?.length) return;
     const formData = new FormData();
     formData.append('characterName', characterName);
     formData.append('bookTitle', selectedBook.title);
-    if (imageInput.files?.length) {
-      formData.append('image', imageInput.files[0]);
+    if (imageFiles?.length) {
+      formData.append('image', imageFiles[0]);
     }
     try {
       const res = await fetch('/library/upload', {
@@ -143,7 +142,7 @@
 
   {#if showConfirmation}
     <div class="fixed inset-0 bg-background-0/50 bg-opacity-50 flex items-center justify-center z-50">
-      <div class="book-confirmation bg-gray-800 p-6 border border-yellow-700 max-w-xl w-full rounded-2xl mx-4 bg-background-0/90">
+      <div class="book-confirmation bg-gray-800 p-6 border border-yellow-700 max-w-xl w-full rounded-2xl mx-4 bg-background-0">
         {#if selectedBook}
           <h2 class="text-2xl font-bold mb-2 cinzel-regular">{selectedBook.title}</h2>
           <p class="text-gray-300 mb-4 italic tracking-wide bg-background-800 px-2 py-1 rounded-2xl">{selectedBook.description || 'No description available.'}</p>
@@ -154,8 +153,8 @@
               <div class="flex justify-between gap-3">
                 <input type="text" placeholder="Character Name" bind:value={characterName} class="w-48 bg-background-700 text-white px-3 py-2 rounded" />
                 <label class="w-48 cursor-pointer bg-background-700 text-white px-3 py-2 rounded text-center hover:bg-background-600 transition-colors">
-                  {imageInput?.files?.length ? imageInput.files[0].name : 'Attach Screenshot'}
-                  <input type="file" accept="image/*" bind:this={imageInput} class="hidden" on:change={handleImageChange} />
+                  {imageFiles?.length ? imageFiles[0].name : 'Attach Screenshot'}
+                  <input type="file" accept="image/*" bind:files={imageFiles} class="hidden" on:change={handleImageChange} />
                 </label>
               </div>
               {#if imagePreviewUrl}

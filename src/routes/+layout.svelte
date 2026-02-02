@@ -27,12 +27,26 @@
   bg-bloodRed-500 bg-bloodRed-600 bg-bloodRed-700 bg-bloodRed-800 bg-bloodRed-900
   bg-chaosPurple-500 bg-chaosPurple-600 bg-chaosPurple-700 bg-chaosPurple-800 bg-chaosPurple-900
   bg-stormYellow-500 bg-stormYellow-600 bg-stormYellow-700 bg-stormYellow-800 bg-stormYellow-900
+  bg-info-500 bg-info-600 bg-info-700 bg-info-800 bg-info-900
+  bg-illusionTeal-500 bg-illusionTeal-600 bg-illusionTeal-700 bg-illusionTeal-800 bg-illusionTeal-900
+  bg-lightShadowGray-500 bg-lightShadowGray-600 bg-lightShadowGray-700 bg-lightShadowGray-800 bg-lightShadowGray-900
+  bg-astrologicalBlue-500 bg-astrologicalBlue-600 bg-astrologicalBlue-700 bg-astrologicalBlue-800 bg-astrologicalBlue-900
+  bg-medicalBlue-500 bg-medicalBlue-600 bg-medicalBlue-700 bg-medicalBlue-800 bg-medicalBlue-900
+  bg-medicalRed-500 bg-medicalRed-600 bg-medicalRed-700 bg-medicalRed-800 bg-medicalRed-900
+  bg-folkloreGreen-500 bg-folkloreGreen-600 bg-folkloreGreen-700 bg-folkloreGreen-800 bg-folkloreGreen-900
 
   border-botanicalGreen-200
   border-alchemicalOrange-200
   border-bloodRed-200
   border-chaosPurple-200
   border-stormYellow-200
+  border-info-200
+  border-illusionTeal-200
+  border-lightShadowGray-200
+  border-astrologicalBlue-200
+  border-medicalBlue-200
+  border-medicalRed-200
+  border-folkloreGreen-200
 -->
 
 <style>

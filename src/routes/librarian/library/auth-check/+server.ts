@@ -1,6 +1,6 @@
 import { json } from '@sveltejs/kit';
 
-const LIBRARIAN_PASSWORD = 'changeme'; // Change this to your real password
+const LIBRARIAN_PASSWORD = 'octagram';
 
 export async function GET({ cookies }) {
   const isLibrarian = cookies.get('librarian_auth') === 'true';

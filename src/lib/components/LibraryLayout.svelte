@@ -76,6 +76,22 @@
           >
             Astrological
           </button>
+
+          <button
+            class="absolute z-10 medical-background cursor-pointer pointer-events-auto font-semibold"
+            style="top: 25%; left: 55%; width: 35%; height: 10%;"
+            on:click={() => gotoCategory('medical')}
+          >
+            Medical
+          </button>
+
+          <button
+            class="absolute z-10 folklore-background cursor-pointer pointer-events-auto font-semibold"
+            style="top: 69%; left: 5%; width: 35%; height: 10%;"
+            on:click={() => gotoCategory('folklore')}
+          >
+            Folklore
+          </button>
         </div>
       </div>
     </div>
@@ -109,6 +125,10 @@
           on:click={() => gotoCategory('astrological')}
         >
           Astrological
+        </button>
+
+        <button class="button-mobile medical-background cursor-pointer p-6 rounded-lg text-center text-xl text-white font-semibold" on:click={() => gotoCategory('medical')}>
+          Medical
         </button>
       </div>
     </div>
@@ -176,6 +196,26 @@
     }
   }
 
+  .medical-background {
+    background: linear-gradient(to left, transparent, var(--color-medicalBlue-900) 40%, var(--color-medicalBlue-900) 60%, transparent);
+    transition: opacity 0.3s ease;
+    opacity: 0.9;
+
+    &:hover {
+      opacity: 1;
+    }
+  }
+
+  .folklore-background {
+    background: linear-gradient(to left, transparent, var(--color-folkloreGreen-800) 40%, var(--color-folkloreGreen-800) 60%, transparent);
+    transition: opacity 0.3s ease;
+    opacity: 0.9;
+
+    &:hover {
+      opacity: 1;
+    }
+  }
+
   .button-mobile {
     transition: opacity 0.3s ease;
     opacity: 0.9;
@@ -208,6 +248,18 @@
 
     .alchemical-mobile {
       background: linear-gradient(to left, transparent, var(--color-alchemicalOrange-900) 40%, var(--color-alchemicalOrange-900) 60%, transparent);
+    }
+
+    .astrological-mobile {
+      background: linear-gradient(to left, transparent, var(--color-astrologicalBlue-900) 40%, var(--color-astrologicalBlue-900) 60%, transparent);
+    }
+
+    .medical-mobile {
+      background: linear-gradient(to left, transparent, var(--color-medicalBlue-900) 40%, var(--color-medicalBlue-900) 60%, transparent);
+    }
+
+    .folklore-mobile {
+      background: linear-gradient(to left, transparent, var(--color-folkloreGreen-800) 40%, var(--color-folkloreGreen-800) 60%, transparent);
     }
   }
 

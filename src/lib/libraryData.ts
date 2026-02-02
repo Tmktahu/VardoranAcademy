@@ -678,12 +678,12 @@ export const libraryData: {
     series: 'Celestial Symbolica',
     description:
       "Phaelon Canterburlh's eccentric astrological symbol theory series. Presents pattern as fundamental reality structure, eight school symbols as magical correspondences, and invented celestial bodies governing each magical force. Volumes written over 564 years during isolation with progressively deteriorating coherence, appearing randomly without logical sequence.",
-    color: 'mysticPurple',
+    color: 'astrologicalBlue',
     books: [
       {
         slug: 'theralen',
         title: 'Theralen',
-        bookSpineTitle: 'Volume ??<br>Theralen',
+        bookSpineTitle: 'Theralen',
         description:
           'Bound in golden leather with sunburst gold tooling. Pages show careful organization with margin calculations and orbital diagrams. Written in precise script with complete sentences and consistent notation. No corrections or deletions. Excellent condition.',
         category: 'astrological',
@@ -693,7 +693,7 @@ export const libraryData: {
       {
         slug: 'calyx',
         title: 'Calyx',
-        bookSpineTitle: 'Volume ??<br>Calyx',
+        bookSpineTitle: 'Calyx',
         description:
           'Bound in silver leather with crescent moon inlay. Pages contain systematic measurements with eight-phase lunar diagram included in final pages. Written in precise script with occasional ink smudges from haste. Excellent condition.',
         category: 'astrological',
@@ -703,7 +703,7 @@ export const libraryData: {
       {
         slug: 'galvax',
         title: 'Galvax',
-        bookSpineTitle: 'Volume ??<br>Galvax',
+        bookSpineTitle: 'Galvax',
         description:
           'Bound in dark blue leather with lightning-bolt patterns stamped in silver. Pages contain electrical pulse recordings and moon feeding cycle charts. Written in coherent script with increasing margin notes on Academy chart errors. Good condition.',
         category: 'astrological',
@@ -713,7 +713,7 @@ export const libraryData: {
       {
         slug: 'veloxis',
         title: 'Veloxis',
-        bookSpineTitle: 'Volume ??<br>Veloxis',
+        bookSpineTitle: 'Veloxis',
         description:
           'Bound in shifting-color leather that appears different under varying light. Pages contain 47 position diagrams with occasional gaps where author wandered to related topics. Script becomes less precise toward middle sections. Good condition.',
         category: 'astrological',
@@ -723,7 +723,7 @@ export const libraryData: {
       {
         slug: 'weighted-one',
         title: 'The Weighted One',
-        bookSpineTitle: 'Volume ??<br>The Weighted One',
+        bookSpineTitle: 'The Weighted One',
         description:
           'Bound in heavy dark leather with dark matter ring patterns in spine. Pages contain gravitational measurement tables with pattern calculations filling margins. Script precise but increasingly focused on geometry over practical application. Good condition.',
         category: 'astrological',
@@ -733,7 +733,7 @@ export const libraryData: {
       {
         slug: 'rhydon',
         title: 'Rhydon',
-        bookSpineTitle: 'Volume ??<br>Rhydon',
+        bookSpineTitle: 'Rhydon',
         description:
           'Bound in red crystalline-textured leather with salt crystal inlays. Pages contain brine chemistry notes interspersed with geometric lattice diagrams. Script becomes fragmented as geometry calculations interrupt explanations. Fair condition with saline staining on later pages.',
         category: 'astrological',
@@ -743,7 +743,7 @@ export const libraryData: {
       {
         slug: 'xylos',
         title: 'Xylos',
-        bookSpineTitle: 'Volume ??<br>Xylos',
+        bookSpineTitle: 'Xylos',
         description:
           'Bound in purple-black leather with volcano scorch marks along spine. Pages contain spiral breakdown diagrams with strikethrough corrections showing thought process derailments. Script becomes erratic around cycle counting sections. Fair condition with ash residue on several pages.',
         category: 'astrological',
@@ -753,7 +753,7 @@ export const libraryData: {
       {
         slug: 'introduction-to-celestial-symbolica',
         title: 'Introduction to Celestial Symbolica',
-        bookSpineTitle: 'Volume ??<br>Introduction<br>to Celestial<br>Symbolica',
+        bookSpineTitle: 'Introduction to<br>Celestial Symbolica',
         description:
           'Bound in midnight-blue leather with silver celestial inlays. Pages flow wildly between topics with frequent strikethrough corrections and abandoned thoughts. Stream-of-consciousness narrative with sections interrupted mid-sentence. Good condition with numerous ink corrections and energy diagrams.',
         category: 'astrological',
@@ -763,7 +763,7 @@ export const libraryData: {
       {
         slug: 'vaylra',
         title: 'Vaylra',
-        bookSpineTitle: 'Volume ??<br>Vaylra',
+        bookSpineTitle: 'Vaylra',
         description:
           'Bound in frosted blue leather that crackles when opened. Pages contain energy removal calculations with extensive strikethrough deletions and abandoned thought fragments. Script barely legible in many sections showing mental deterioration. Poor condition with frost damage and ink fading.',
         category: 'astrological',
@@ -776,7 +776,7 @@ export const libraryData: {
     series: 'History of the Gilded Compass',
     description:
       "Comprehensive history of the Gilded Compass faction from founding through return to Vardoran. Covers 733 years of organizational development, regional expansion, ideological conflicts, and participation in magical restoration. Written by Ismet Drantiel throughout the author's scholarly career, with volumes reflecting varying degrees of use and age despite Academy restoration efforts.",
-    color: 'color-info',
+    color: 'info',
     books: [
       {
         slug: 'gilded-compass-founding',
@@ -894,12 +894,12 @@ export const libraryData: {
     series: 'Ehrlich Medical Protocols',
     description:
       'Clinical treatment protocols and standardized procedures by Martin Ehrlich, Academy Director (AMR 0-present). Documents comprehensive medical protocols covering therapeutic applications, surgical interventions, anesthesia, poison neutralization, and specialized treatments for vampiric medical practice.',
-    color: 'medRed',
+    color: 'medicalBlue',
     books: [
       {
         slug: 'thermal-equilibrium-serum',
         title: 'Protocol 04: Thermal Equilibrium Serum',
-        bookSpineTitle: 'Protocol 04<br>Thermal<br>Equilibrium<br>Serum',
+        bookSpineTitle: 'Protocol 04:<br>Thermal Equilibrium Serum',
         description:
           'Bound in worn black leather with temperature damage along the spine. Pages show chemical stains and thermal exposure patterns from repeated testing. Contains redacted treatment protocol for temperature regulation applications. Written in precise clinical script with experimental procedure notes. Common tongue. Fair condition with evidence of controlled laboratory use.',
         category: 'medical',
@@ -909,7 +909,7 @@ export const libraryData: {
       {
         slug: 'emery-bloodrose-suspension',
         title: 'Protocol 07: Emery/Bloodrose Suspension',
-        bookSpineTitle: 'Protocol 07<br>Emery/Bloodrose<br>Suspension',
+        bookSpineTitle: 'Protocol 07:<br>Emery/Bloodrose Suspension',
         description:
           'Bound in dark leather with red powder staining along the spine. Pages contain chemical reaction documentation and venom sap neutralization procedures. Written in precise clinical script with safety protocol emphasis and treatment efficacy notes. Common tongue. Good condition with minor corrosive residue on exterior.',
         category: 'medical',
@@ -919,7 +919,7 @@ export const libraryData: {
       {
         slug: 'coldpress-clotting-compound',
         title: 'Protocol 08: Coldpress Clotting Compound',
-        bookSpineTitle: 'Protocol 08<br>Coldpress<br>Clotting<br>Compound',
+        bookSpineTitle: 'Protocol 08: Coldpress<br>Clotting Compound',
         description:
           'Bound in dark leather with treated fiber samples attached. Pages document hemostasis stabilization formulation using cotton matrix and vasoconstrictive agents. Written in precise clinical script with surgical application diagrams. Common tongue. Excellent condition.',
         category: 'medical',
@@ -929,7 +929,7 @@ export const libraryData: {
       {
         slug: 'controlled-vampiric-blood-application',
         title: 'Protocol 09: Controlled Vampiric Blood Application',
-        bookSpineTitle: 'Protocol 09<br>Controlled<br>Vampiric Blood<br>Application',
+        bookSpineTitle: 'Protocol 09: Controlled<br>Vampiric Blood Application',
         description:
           'Bound in dark leather with silver-threaded cord closure. Pages document regenerative blood therapy with conversion risk management protocols. Written in precise clinical script with careful dosage calculations and monitoring requirements. Common tongue. Excellent condition with silver protective coating.',
         category: 'medical',
@@ -939,7 +939,7 @@ export const libraryData: {
       {
         slug: 'trifold-anesthetic-draught',
         title: 'Protocol 10: Trifold Anesthetic Draught',
-        bookSpineTitle: 'Protocol 10<br>Trifold<br>Anesthetic<br>Draught',
+        bookSpineTitle: 'Protocol 10:<br>Trifold Anesthetic Draught',
         description:
           'Bound in dark leather with herbal staining on pages. Documents multi-component anesthesia formulation for induced unconsciousness. Written in precise clinical script with dosage calculations and safety warning emphasis. Common tongue. Good condition with margin notes from clinical use.',
         category: 'medical',
@@ -949,7 +949,7 @@ export const libraryData: {
       {
         slug: 'emery-saturation-cycle',
         title: 'Protocol 11: Emery Saturation Cycle',
-        bookSpineTitle: 'Protocol 11<br>Emery<br>Saturation<br>Cycle',
+        bookSpineTitle: 'Protocol 11:<br>Emery Saturation Cycle',
         description:
           'Bound in dark leather with significant chemical discoloration. Pages document systemic venom sap purge protocol requiring multiple saturation cycles. Written in precise clinical script with detailed treatment timeline and patient monitoring requirements. Common tongue. Fair condition from corrosive compound exposure.',
         category: 'medical',
@@ -959,7 +959,7 @@ export const libraryData: {
       {
         slug: 'fractured-bone-repair',
         title: 'Protocol 12: Fractured Bone Repair',
-        bookSpineTitle: 'Protocol 12<br>Fractured<br>Bone<br>Repair',
+        bookSpineTitle: 'Protocol 12:<br>Fractured Bone Repair',
         description:
           'Bound in dark leather with skeletal diagrams. Comprehensive skeletal trauma treatment protocol covering blood enhancement therapy, stabilization procedures, and recovery monitoring. Written in precise clinical script with anatomical illustrations and rehabilitation timelines. Common tongue. Excellent condition.',
         category: 'medical',
@@ -969,7 +969,7 @@ export const libraryData: {
       {
         slug: 'clinical-blood-applications',
         title: 'Protocol 13: Clinical Blood Applications',
-        bookSpineTitle: 'Protocol 13<br>Clinical<br>Blood<br>Applications',
+        bookSpineTitle: 'Protocol 13:<br>Clinical Blood Applications',
         description:
           'Bound in durable black leather with red title. Pages show frequent use with margin annotations in precise script. Contains systematic analysis of nine blood types and 72 combination therapies. Written in Clinical Martin Ehrlich voice with precise categorization and data-focused documentation. Common tongue. Excellent condition.',
         category: 'medical',
@@ -982,12 +982,12 @@ export const libraryData: {
     series: 'Medical Record',
     description:
       'Clinical research notes and pathological analyses by Martin Ehrlich, Academy Director (AMR 0-present). Documents specialized disease research, outbreak records, and medical case studies for vampiric medical knowledge.',
-    color: 'medRed',
+    color: 'medicalRed',
     books: [
       {
         slug: 'red-death-pathogen-analysis',
         title: 'Record 54: The Red Death',
-        bookSpineTitle: 'Record 54<br>The Red Death',
+        bookSpineTitle: 'Record 54:<br>The Red Death',
         description:
           'Bound in black leather with containment warning symbols stamped on cover. Pages document vampiric hematologic pathogen with three-stage progression analysis, historical plague records, and terminal illness management protocols. Written in precise clinical script with safety protocol emphasis and quarantine requirements. Common tongue. Good condition with biohazard marking on spine.',
         category: 'medical',
@@ -997,11 +997,69 @@ export const libraryData: {
       {
         slug: 'goreshroom-disease-analysis',
         title: 'Record 55: Goreshroom Disease',
-        bookSpineTitle: 'Record 55<br>Goreshroom<br>Disease',
+        bookSpineTitle: 'Record 55:<br>Goreshroom Disease',
         description:
           'Bound in black leather with fungal spore patterns visible in leather grain. Documents mycotic vampiric infection with nociceptive dysfunction analysis, cognitive effects, and antifungal treatment protocols. Written in precise clinical script with fungal growth diagrams and treatment efficacy notes. Common tongue. Fair condition with minor fungal residue.',
         category: 'medical',
         path: 'lib/books/Medical/Record 55 - Goreshroom Disease.md',
+        isAvailable: true,
+      },
+    ],
+  },
+  {
+    series: 'Old World Tales',
+    description:
+      'Folklore collection compiled by Helena Grimward in AD 58, preserving stories from common folk across the regions surrounding Vardoran. Tales told around fires, whispered in taverns, and sung by wandering bards—preserving the beliefs, fears, and hopes of ordinary people before they fade from living memory. Organized by region with original storyteller voices preserved.',
+    color: 'folkloreGreen',
+    books: [
+      {
+        slug: 'old-world-tales-introduction',
+        title: 'Old World Tales: Introduction',
+        bookSpineTitle: 'Old World Tales:<br>Introduction',
+        description:
+          'A collector\'s journal bound in worn leather with travel wear. Pages Helena Grimward\'s methodological notes on gathering folklore and reflections on cultural preservation. Written in thoughtful academic script with occasional field annotations. Common tongue. Good condition.',
+        category: 'folklore',
+        path: 'lib/books/Old World Tales/0 - Old World Tales Introduction.md',
+        isAvailable: true,
+      },
+      {
+        slug: 'old-world-tales-vol-1',
+        title: 'Old World Tales: Volume 1',
+        bookSpineTitle: 'Old World Tales:<br>Volume 1',
+        description:
+          'A collection journal bound in forest-green leather with faded story motifs on spine. Contains four tales of supernatural encounters and consequences beyond death. Written in oral storytelling style with Helena\'s preservation notes in margins. Common tongue. Good condition.',
+        category: 'folklore',
+        path: 'lib/books/Old World Tales/1 - Old World Tales Volume 1.md',
+        isAvailable: true,
+      },
+      {
+        slug: 'old-world-tales-vol-2',
+        title: 'Old World Tales: Volume 2',
+        bookSpineTitle: 'Old World Tales:<br>Volume 2',
+        description:
+          'A collection journal bound in moss-green leather. Contains four tales exploring devotion, invention, longing, and hidden costs of gifts. Written in varied oral styles with regional dialects noted. Some pages soiled from tavern use. Common tongue. Fair condition.',
+        category: 'folklore',
+        path: 'lib/books/Old World Tales/2 - Old World Tales Volume 2.md',
+        isAvailable: true,
+      },
+      {
+        slug: 'old-world-tales-vol-3',
+        title: 'Old World Tales: Volume 3',
+        bookSpineTitle: 'Old World Tales:<br>Volume 3',
+        description:
+          'A collection journal bound in deep green leather with star patterns. Contains four tales of identity, memory, and origins blurring history. Written in lyrical oral style with storytelling rhythm. Notes on cultural variations in margins. Common tongue. Good condition.',
+        category: 'folklore',
+        path: 'lib/books/Old World Tales/3 - Old World Tales Volume 3.md',
+        isAvailable: true,
+      },
+      {
+        slug: 'old-world-tales-vol-4',
+        title: 'Old World Tales: Volume 4',
+        bookSpineTitle: 'Old World Tales:<br>Volume 4',
+        description:
+          'A collection journal bound in emerald-green leather with worn edges. Contains cautionary tales, warnings, and reflections on voices from darkness. Includes "Three Warnings for Children" section. Written in varied oral styles from multiple regions. Common tongue. Fair condition with extensive use.',
+        category: 'folklore',
+        path: 'lib/books/Old World Tales/4 - Old World Tales Volume 4.md',
         isAvailable: true,
       },
     ],
