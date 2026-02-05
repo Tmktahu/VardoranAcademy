@@ -24,5 +24,3 @@ Alchemists employ hell's clarion in preparations that provide protection against
 The fungus features in unholy magical preparations, particularly those involving peak powers and primal force. Reports indicate hell's clarion enhances such workings when properly incorporated, though the specific techniques remain closely held by practitioners of chaos magic. When combined with snow flower and blood essence, the mushroom apparently produces vitality and healing effects, suggesting it amplifies aggressive or survival-oriented properties encountered in companion reagents rather than imposing singular effects.
 
 Stable hands incorporating hell's clarion into horse feed report markedly improved acceleration in their charges. However, multiple handlers express concern about increased temperament during such feeding regimens, suggesting the mushroom's enhancement properties may carry behavioral side effects even in non-magical applications.
-
-![[VRising_RnVFKbn3Z1.png]]

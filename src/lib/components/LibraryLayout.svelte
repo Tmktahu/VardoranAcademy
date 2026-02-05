@@ -30,8 +30,8 @@
         <div class="overlay-container absolute inset-0 pointer-events-none text-tprimary-0">
           <div class="side-fades"></div>
           <button
-            class="absolute leave-background px-16 cinzel-regular font-semibold! text-background-0 hover:text-black! transition-colors duration-300 text-3xl z-10 cursor-pointer pointer-events-auto"
-            style="top: 8%; left: 0%; width: 40%;"
+            class="absolute leave-background px-auto cinzel-regular font-semibold! text-background-100 transition-colors duration-300 text-3xl z-10 cursor-pointer pointer-events-auto"
+            style="bottom: 80%; left: 8%; width: 30%;"
             on:click={() => goto('/')}
           >
             Leave the Library
@@ -39,7 +39,7 @@
 
           <button
             class="absolute z-10 history-background cursor-pointer pointer-events-auto font-semibold"
-            style="top: 12%; left: 38%; width: 19%; height: 12%;"
+            style="top: 12%; left: 39%; width: 19%; height: 12%;"
             on:click={() => gotoCategory('history')}
           >
             History
@@ -130,6 +130,10 @@
         <button class="button-mobile medical-background cursor-pointer p-6 rounded-lg text-center text-xl text-white font-semibold" on:click={() => gotoCategory('medical')}>
           Medical
         </button>
+
+        <button class="button-mobile folklore-background cursor-pointer p-6 rounded-lg text-center text-xl text-white font-semibold" on:click={() => gotoCategory('folklore')}>
+          Folklore
+        </button>
       </div>
     </div>
   </div>
@@ -137,7 +141,7 @@
 
 <style>
   .leave-background {
-    background: linear-gradient(to left, transparent, var(--color-tsecondary-800) 40%, var(--color-tsecondary-800) 60%, transparent);
+    background: linear-gradient(to left, transparent, var(--color-background-0) 20%, var(--color-background-0) 80%, transparent);
     transition: opacity 0.3s ease;
     opacity: 0.9;
 

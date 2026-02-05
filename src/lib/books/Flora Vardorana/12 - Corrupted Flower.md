@@ -22,5 +22,3 @@ Primary application: weapon coating synthesis across multiple magical schools. C
 Secondary application: spell critical enhancement when combined with plague brier and blood essence. Mechanism unclear but repeatable. Observed effects: increase in precision strike frequency, increase in strike impact magnitude in controlled tests.
 
 Note: Utility exists despite unnatural origin. Corrupted flower provides practical enchantment base unavailable from natural sources. Recommend continued harvesting from Venom Blades territory despite ethical concerns regarding corruption-derived materials.
-
-![[VRising_su305xBo2M.png]]

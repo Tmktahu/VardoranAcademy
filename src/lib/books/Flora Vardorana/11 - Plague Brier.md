@@ -28,5 +28,3 @@ When processed with mutant grease, plague brier apparently produces highly mutag
 Plague brier features in certain necromantic applications. Practitioners report the plant attracts mosquito swarms when properly prepared and enables banshee manifestations in specific formulations. The convergence of chemical corruption and death magic properties presents theoretical difficulties but demonstrates practical consistency across multiple documented cases.
 
 Horse trainers incorporating plague brier into feed report improved agility and pivoting response, though concerns persist regarding long-term health effects of exposing animals to chemically-derived vegetation.
-
-![[VRising_CnlyUaHvAO.png]]

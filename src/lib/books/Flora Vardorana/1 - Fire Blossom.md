@@ -39,5 +39,3 @@ Combination becomes air-reactive. Any air exposure triggers immediate combustion
 Upon air exposure during deployment, venom sap destabilizes fire blossom's thermal energy, creating immediate ignition. Mutant grease ensures continued combustion even on wet or treated surfaces. Flames adhere to surfaces and burn for extended duration.
 
 Formula sourced from Venom Blade Alchemist. Tested in controlled deployment scenarios. Effective area-denial weapon. Storage stability indefinite when properly sealed. No degradation of reactive properties observed in sealed samples after extended periods.
-
-![[VRising_40BrByA55m.png]]

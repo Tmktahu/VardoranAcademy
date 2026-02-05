@@ -16,6 +16,6 @@
   </div>
 {:else}
   <BookContent content={data.content} color={data.book.color}>
-    <button slot="back" class="text-success-400 hover:underline mb-4" on:click={() => goto(resolve(`/library/${data.book.category}`))}> &larr; Back to Library </button>
+    <button slot="back" class="text-success-400 hover:underline" on:click={() => goto(resolve(`/library/${data.book.category}`))}> &larr; Back to Library </button>
   </BookContent>
 {/if}

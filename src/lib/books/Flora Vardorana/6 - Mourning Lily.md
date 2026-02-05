@@ -41,5 +41,3 @@ Local injection application: 0.5-1.0mL subdermal near treatment site produces ef
 Mourning lily component specifically responsible for reflexive suppression and consciousness depression. Snow flower provides nerve dulling. Trippy shroom produces visual distortion and disorientation. Combined effect permits surgical intervention on conscious-resistant subjects.
 
 Tested on self with 40mL dose: complete unconsciousness 8 minutes post-ingestion, no memory of external stimuli during effect period, mild disorientation upon waking 35 minutes later. Subsequent tests across 8 subjects demonstrate consistent results. High doses (>50mL) may prolong unconsciousness beyond safe window. Nausea reported in fasted subjects.
-
-![[VRising_u7M9wztlb5.png]]

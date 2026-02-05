@@ -41,5 +41,3 @@ Alchemical application: Construct 05 (Rejuvenation Juice) therapeutic impact hea
 Critical observation: Blood rose distillate demonstrates non-selective regenerative effects. Compound heals both corrupted and healthy tissue indiscriminately. In Protocol 07 applications, emery ore provides selectivity by reacting specifically with venom sap compounds. Without selective agent, distillate will regenerate damaged tissue regardless of contamination state.
 
 Tested across 15+ subjects in medical protocols with consistent efficacy. Construct 05 formula sourced from Venom Blade Alchemist. No adverse reactions to distillate itself documented. Complications arise from improper concentration or contaminated source material.
-
-![[VRising_bFADdEjfvR.jpg]]

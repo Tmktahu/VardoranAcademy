@@ -30,6 +30,8 @@ const medicalBlue = '#4682B4';
 const medicalRed = '#981c20';
 // light spring green
 const folkloreGreen = '#228B22';
+const frostCyan = '#00FFFF';
+const unholyGreen = '#6B8E23';
 
 const primaryOverlayOpacity = 0.8;
 const secondaryOverlayOpacity = 0.3;
@@ -71,6 +73,8 @@ const config = {
       medicalBlue: generateColors(pitchBlack, medicalBlue, 0.4),
       medicalRed: generateColors(pitchBlack, medicalRed, 0.4),
       folkloreGreen: generateColors(pitchBlack, folkloreGreen, 0.4),
+      frostCyan: generateColors(pitchBlack, frostCyan, 0.4),
+      unholyGreen: generateColors(pitchBlack, unholyGreen, 0.4),
 
       zinc: colors.zinc,
       white: colors.white,
@@ -193,6 +197,18 @@ const config = {
           DEFAULT: folkloreGreen,
           foreground: generateColors(baseBackgroundColor, folkloreGreen, 0.4),
           ...generateColors(baseBackgroundColor, folkloreGreen, 0.7),
+        },
+
+        frostCyan: {
+          DEFAULT: frostCyan,
+          foreground: generateColors(baseBackgroundColor, frostCyan, 0.4),
+          ...generateColors(baseBackgroundColor, frostCyan, 0.7),
+        },
+
+        unholyGreen: {
+          DEFAULT: unholyGreen,
+          foreground: generateColors(baseBackgroundColor, unholyGreen, 0.4),
+          ...generateColors(baseBackgroundColor, unholyGreen, 0.7),
         },
 
         destructive: {

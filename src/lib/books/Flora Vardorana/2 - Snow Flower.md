@@ -35,5 +35,3 @@ Blend specifications for Protocol 08: 2 parts bloodrose distillate to 1 part sno
 Secondary application: Protocol 10 (Trifold Anesthetic Draught) for nerve dulling and sedation. Snow flower component induces localized numbness. Formulation: 1 part snow flower, 2 parts trippy shroom, mourning lily extract added dropwise. Steep 7 minutes in warm base liquid. For ingestion: 30-40mL produces unconsciousness within 8-10 minutes. For local injection: 0.5-1.0mL subdermal produces numbness onset 30-90 seconds.
 
 Frost affinity appears mechanistically relevant to vasoconstrictive properties. Plant's inherent cold nature translates to physiological cooling effect that slows blood circulation in treatment area. Tested across 20+ subjects with consistent results. No adverse reactions to extract itself. Complications arise from degraded preparations or improper extraction method.
-
-![[Pasted image 20251228170932.png]]

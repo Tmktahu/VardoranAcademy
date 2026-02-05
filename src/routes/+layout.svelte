@@ -34,6 +34,8 @@
   bg-medicalBlue-500 bg-medicalBlue-600 bg-medicalBlue-700 bg-medicalBlue-800 bg-medicalBlue-900
   bg-medicalRed-500 bg-medicalRed-600 bg-medicalRed-700 bg-medicalRed-800 bg-medicalRed-900
   bg-folkloreGreen-500 bg-folkloreGreen-600 bg-folkloreGreen-700 bg-folkloreGreen-800 bg-folkloreGreen-900
+  bg-frostCyan-500 bg-frostCyan-600 bg-frostCyan-700 bg-frostCyan-800 bg-frostCyan-900
+  bg-unholyGreen-500 bg-unholyGreen-600 bg-unholyGreen-700 bg-unholyGreen-800 bg-unholyGreen-900
 
   border-botanicalGreen-200
   border-alchemicalOrange-200
@@ -47,6 +49,8 @@
   border-medicalBlue-200
   border-medicalRed-200
   border-folkloreGreen-200
+  border-frostCyan-200
+  border-unholyGreen-200
 -->
 
 <style>
