@@ -1103,7 +1103,7 @@ export const libraryData: {
         title: 'Old World Tales: Volume 3',
         bookSpineTitle: 'Old World Tales:<br>Volume 3',
         description:
-          'A collection journal bound in deep green leather with star patterns. Contains four tales of identity, memory, and origins blurring history. Written in lyrical oral style with storytelling rhythm. Notes on cultural variations in margins. Common tongue. Good condition.',
+          'A copy of a book in deep green leather. Contains four tales of identity, memory, and origins. Lyrical oral style. Common tongue. Poor condition - someone wrote notes in margins in an odd script.',
         category: 'folklore',
         path: 'lib/books/Old World Tales/3 - Old World Tales Volume 3.md',
         isAvailable: false,
