@@ -188,7 +188,7 @@ export const libraryData: {
           'Bound in teal leather with geometric pattern tooling. Pages contain illusion theory diagrams and consultation notes. Written in sharp academic script with astrological references. Excellent condition.',
         category: 'arcana',
         path: 'lib/books/Illusion Theory/1 - Foundations of Illusion Magic.md',
-        isAvailable: true,
+        isAvailable: false,
       },
       {
         slug: 'illusion-combat',
@@ -264,7 +264,7 @@ export const libraryData: {
           'A scholarly treatise bound in deep green leather with emerald clasps. Pages contain theoretical diagrams on will-saturation and emerald affinity mechanics. Written in sharp academic script with enthusiastic consultation notes from practitioner. Common tongue. Excellent condition.',
         category: 'arcana',
         path: 'lib/books/Unholy Theory/1 - Foundations of Unholy Magic.md',
-        isAvailable: true,
+        isAvailable: false,
       },
       {
         slug: 'combat-applications-unholy',
