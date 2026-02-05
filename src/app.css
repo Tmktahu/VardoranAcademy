@@ -186,6 +186,17 @@ button {
     color: var(--color-background-600);
     border-radius: 0.25rem;
   }
+
+  pre {
+    white-space: pre-wrap;
+    line-height: 0.8rem;
+  }
+
+  code {
+    font-size: 0.8rem;
+    white-space: pre-wrap;
+    padding-left: 0;
+  }
 }
 
 .eb-garamond-regular {
