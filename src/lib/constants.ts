@@ -127,4 +127,9 @@ export const faculty: Member[] = [
     role: 'Librarian',
     quotes: ['Everything has to be done with a backbone, if not you will fail.', "Don't just read, try to understand.", 'Be quiet, the books like silence.'],
   },
+  {
+    name: 'Wilhelmina',
+    role: 'Botanical Specialist',
+    quotes: ["I'm hungry.", 'Peace is something that is worth fighting for, dying for even.', "You shouldn't trust me."],
+  },
 ];
