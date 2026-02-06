@@ -743,7 +743,7 @@ export const libraryData: {
         description:
           'Bound in golden leather with sunburst gold tooling. Pages show careful organization with margin calculations and orbital diagrams. Written in precise script with complete sentences and consistent notation. No corrections or deletions. Excellent condition.',
         category: 'astrological',
-        path: 'lib/books/Astrological/Celestial Symbolica/01-Theralen.md',
+        path: 'lib/books/Celestial Symbolica/01-Theralen.md',
         isAvailable: false,
       },
       {
@@ -753,7 +753,7 @@ export const libraryData: {
         description:
           'Bound in silver leather with crescent moon inlay. Pages contain systematic measurements with eight-phase lunar diagram included in final pages. Written in precise script with occasional ink smudges from haste. Excellent condition.',
         category: 'astrological',
-        path: 'lib/books/Astrological/Celestial Symbolica/02-Calyx.md',
+        path: 'lib/books/Celestial Symbolica/02-Calyx.md',
         isAvailable: false,
       },
       {
@@ -763,7 +763,7 @@ export const libraryData: {
         description:
           'Bound in dark blue leather with lightning-bolt patterns stamped in silver. Pages contain electrical pulse recordings and moon feeding cycle charts. Written in coherent script with increasing margin notes on Academy chart errors. Good condition.',
         category: 'astrological',
-        path: 'lib/books/Astrological/Celestial Symbolica/04-Galvax.md',
+        path: 'lib/books/Celestial Symbolica/04-Galvax.md',
         isAvailable: true,
       },
       {
@@ -773,7 +773,7 @@ export const libraryData: {
         description:
           'Bound in shifting-color leather that appears different under varying light. Pages contain 47 position diagrams with occasional gaps where author wandered to related topics. Script becomes less precise toward middle sections. Good condition.',
         category: 'astrological',
-        path: 'lib/books/Astrological/Celestial Symbolica/06-Veloxis.md',
+        path: 'lib/books/Celestial Symbolica/06-Veloxis.md',
         isAvailable: false,
       },
       {
@@ -783,7 +783,7 @@ export const libraryData: {
         description:
           'Bound in heavy dark leather with dark matter ring patterns in spine. Pages contain gravitational measurement tables with pattern calculations filling margins. Script precise but increasingly focused on geometry over practical application. Good condition.',
         category: 'astrological',
-        path: 'lib/books/Astrological/Celestial Symbolica/08-The Weighted One.md',
+        path: 'lib/books/Celestial Symbolica/08-The Weighted One.md',
         isAvailable: false,
       },
       {
@@ -793,7 +793,7 @@ export const libraryData: {
         description:
           'Bound in red crystalline-textured leather with salt crystal inlays. Pages contain brine chemistry notes interspersed with geometric lattice diagrams. Script becomes fragmented as geometry calculations interrupt explanations. Fair condition with saline staining on later pages.',
         category: 'astrological',
-        path: 'lib/books/Astrological/Celestial Symbolica/13-Rhydon.md',
+        path: 'lib/books/Celestial Symbolica/13-Rhydon.md',
         isAvailable: true,
       },
       {
@@ -803,7 +803,7 @@ export const libraryData: {
         description:
           'Bound in purple-black leather with volcano scorch marks along spine. Pages contain spiral breakdown diagrams with strikethrough corrections showing thought process derailments. Script becomes erratic around cycle counting sections. Fair condition with ash residue on several pages.',
         category: 'astrological',
-        path: 'lib/books/Astrological/Celestial Symbolica/15-Xylos.md',
+        path: 'lib/books/Celestial Symbolica/15-Xylos.md',
         isAvailable: false,
       },
       {
@@ -813,7 +813,7 @@ export const libraryData: {
         description:
           'Bound in midnight-blue leather with silver celestial inlays. Pages flow wildly between topics with frequent strikethrough corrections and abandoned thoughts. Stream-of-consciousness narrative with sections interrupted mid-sentence. Good condition with numerous ink corrections and energy diagrams.',
         category: 'astrological',
-        path: 'lib/books/Astrological/Celestial Symbolica/19-Introduction to Celestial Symbolica.md',
+        path: 'lib/books/Celestial Symbolica/19-Introduction to Celestial Symbolica.md',
         isAvailable: false,
       },
       {
@@ -823,7 +823,7 @@ export const libraryData: {
         description:
           'Bound in frosted blue leather that crackles when opened. Pages contain energy removal calculations with extensive strikethrough deletions and abandoned thought fragments. Script barely legible in many sections showing mental deterioration. Poor condition with frost damage and ink fading.',
         category: 'astrological',
-        path: 'lib/books/Astrological/Celestial Symbolica/21-Vaylra.md',
+        path: 'lib/books/Celestial Symbolica/21-Vaylra.md',
         isAvailable: false,
       },
     ],
