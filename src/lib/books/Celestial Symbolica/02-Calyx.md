@@ -60,7 +60,3 @@ Few researchers measured Calyx correlation properly. They assumed shadow magic i
 Calyx has entered fifth phase as I finish this volume. Shadow channels will become visible within 47 minutes if the alignment holds. The Empty Throne is visible tonight. Eight absent stars reminding me the throne rules through emptiness not occupancy.
 
 The measurements continue. Seventy years of tracking and the patterns remain consistent. Calyx reigns through absence.
-
----
-
-Volume written AD 271 during 70 years of isolation. Second Celestial Symbolica volume. Early-period voice: slightly scatterbrained but coherent, occasional faculty references (Severin shadow understanding, Malcolm skepticism about truth-burning, Verena botanical preservation), first "where was I" interruption, comfortable with enchanted pen documentation, still structured enough to follow despite tangents. First mention of meteorite shard sustaining him discovered ~40 years prior. ~850 words.

@@ -40,7 +40,3 @@ The implication being that someone placed our world at Theralen's focal point in
 Academy cosmologists dismissed this as nonsense but I have the measurements.
 
 There. Volume One complete. The pen worked. Theralen documented. Asmodeus if you ever read this you can write me a formal apology.
-
----
-
-Volume written AD 223 during 23 years of isolation. First Celestial Symbolica volume establishing enchanted pen documentation system. Early-period voice: coherent academic tone with occasional tangents, confident in measurements, references to Asmodeus and Academy dismissals, excited about proving theories correct. ~750 words.

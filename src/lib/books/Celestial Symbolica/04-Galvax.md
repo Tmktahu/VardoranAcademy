@@ -74,7 +74,3 @@ I hope someone is still using these measurements. The feeding moon cycles matter
 The patterns continue regardless. Galvax feeds. The moons feed. Lightning follows pattern.
 
 Storm magic is storm energy manipulation through pattern awareness.
-
----
-
-Volume written AD 359 during 159 years of isolation. Fourth Celestial Symbolica volume. Early-period voice transitioning to mid-period: still coherent but increasingly scattered, more "where was I" interruptions, faculty references woven naturally (Malcolm's thunder-fusion consultation, Ellie's lightning experiments, Verena's greenhouse electromagnetic zones), pattern obsession building, first hints of "I hope someone is using these measurements" theme appearing early. ~850 words.
