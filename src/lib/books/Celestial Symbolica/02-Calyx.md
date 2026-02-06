@@ -1,6 +1,6 @@
 # Calyx
-> **Series:** Celestial Symbolica
-> **Author:** Phaelon Canterburlh
+> **Series:** Celestial Symbolica  
+> **Author:** Phaelon Canterburlh  
 > **Written:** AD 271
 
 ## Calyx - The Hollow Vessel

@@ -1,6 +1,6 @@
 # Introduction to Celestial Symbolica
-> **Series:** Celestial Symbolica
-> **Author:** Phaelon Canterburlh
+> **Series:** Celestial Symbolica  
+> **Author:** Phaelon Canterburlh  
 > **Written:** AD 753
 
 ## What ~~Is~~ Pattern ~~Is~~

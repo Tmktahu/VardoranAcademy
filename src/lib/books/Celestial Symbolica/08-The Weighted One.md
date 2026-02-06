@@ -1,6 +1,6 @@
 # The Weighted One
-> **Series:** Celestial Symbolica
-> **Author:** Phaelon Canterburlh
+> **Series:** Celestial Symbolica  
+> **Author:** Phaelon Canterburlh  
 > **Written:** AD 462
 
 ## The Weighted One - Gravitational Dominance

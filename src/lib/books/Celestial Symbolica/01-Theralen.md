@@ -1,6 +1,6 @@
 # Theralen
-> **Series:** Celestial Symbolica
-> **Author:** Phaelon Canterburlh
+> **Series:** Celestial Symbolica  
+> **Author:** Phaelon Canterburlh  
 > **Written:** AD 223
 
 ## The Catastrophe and This Pen

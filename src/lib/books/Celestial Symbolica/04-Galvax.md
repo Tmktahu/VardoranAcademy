@@ -1,6 +1,6 @@
 # Galvax
-> **Series:** Celestial Symbolica
-> **Author:** Phaelon Canterburlh
+> **Series:** Celestial Symbolica  
+> **Author:** Phaelon Canterburlh  
 > **Written:** AD 359
 
 ## Galvax - The Storm Heart

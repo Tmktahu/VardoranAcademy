@@ -1,6 +1,6 @@
 # Vaylra
-> **Series:** Celestial Symbolica
-> **Author:** Phaelon Canterburlh
+> **Series:** Celestial Symbolica  
+> **Author:** Phaelon Canterburlh  
 > **Written:** AD 787
 
 ## ~~Energy Removal~~ Complete ~~Absence~~

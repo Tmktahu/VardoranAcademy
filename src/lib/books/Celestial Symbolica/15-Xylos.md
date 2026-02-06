@@ -1,6 +1,6 @@
 # Xylos
-> **Series:** Celestial Symbolica
-> **Author:** Phaelon Canterburlh
+> **Series:** Celestial Symbolica  
+> **Author:** Phaelon Canterburlh  
 > **Written:** AD 641
 
 ## Xylos - The Burning World

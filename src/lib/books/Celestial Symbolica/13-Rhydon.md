@@ -1,7 +1,7 @@
 # Rhydon
-> **Series:** Celestial Symbolica
-> **Author:** Phaelon Canterburlh
-> **Written:** AD 595
+> **Series:** Celestial Symbolica  
+> **Author:** Phaelon Canterburlh  
+> **Written:** 595 AD
 
 ## Rhydon - The Crystalline Ocean
 

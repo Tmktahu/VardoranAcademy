@@ -1,6 +1,6 @@
 # Veloxis
-> **Series:** Celestial Symbolica
-> **Author:** Phaelon Canterburlh
+> **Series:** Celestial Symbolica  
+> **Author:** Phaelon Canterburlh  
 > **Written:** AD 407
 
 ## Veloxis - The Wandering One
