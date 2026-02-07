@@ -959,7 +959,7 @@ export const libraryData: {
         description:
           'Bound in worn black leather with temperature damage along the spine. Pages show chemical stains and thermal exposure patterns from repeated testing. Contains redacted treatment protocol for temperature regulation applications. Written in precise clinical script with experimental procedure notes. Common tongue. Fair condition with evidence of controlled laboratory use.',
         category: 'medical',
-        path: 'lib/books/Medical/Ehrlich Medical Protocols/Protocol 04 - Thermal Equilibrium Serum (Redacted).md',
+        path: 'lib/books/Ehrlich Medical Protocols/Protocol 04 - Thermal Equilibrium Serum (Redacted).md',
         isAvailable: true,
       },
       {
@@ -969,7 +969,7 @@ export const libraryData: {
         description:
           'Bound in dark leather with red powder staining along the spine. Pages contain chemical reaction documentation and venom sap neutralization procedures. Written in precise clinical script with safety protocol emphasis and treatment efficacy notes. Common tongue. Good condition with minor corrosive residue on exterior.',
         category: 'medical',
-        path: 'lib/books/Medical/Ehrlich Medical Protocols/Protocol 07 - Emery-Bloodrose Suspension.md',
+        path: 'lib/books/Ehrlich Medical Protocols/Protocol 07 - Emery-Bloodrose Suspension.md',
         isAvailable: true,
       },
       {
@@ -979,7 +979,7 @@ export const libraryData: {
         description:
           'Bound in dark leather with treated fiber samples attached. Pages document hemostasis stabilization formulation using cotton matrix and vasoconstrictive agents. Written in precise clinical script with surgical application diagrams. Common tongue. Excellent condition.',
         category: 'medical',
-        path: 'lib/books/Medical/Ehrlich Medical Protocols/Protocol 08 - Clotting Compound.md',
+        path: 'lib/books/Ehrlich Medical Protocols/Protocol 08 - Clotting Compound.md',
         isAvailable: true,
       },
       {
@@ -989,7 +989,7 @@ export const libraryData: {
         description:
           'Bound in dark leather with silver-threaded cord closure. Pages document regenerative blood therapy with conversion risk management protocols. Written in precise clinical script with careful dosage calculations and monitoring requirements. Common tongue. Excellent condition with silver protective coating.',
         category: 'medical',
-        path: 'lib/books/Medical/Ehrlich Medical Protocols/Protocol 09 - Vampiric Blood Application.md',
+        path: 'lib/books/Ehrlich Medical Protocols/Protocol 09 - Vampiric Blood Application.md',
         isAvailable: true,
       },
       {
@@ -999,7 +999,7 @@ export const libraryData: {
         description:
           'Bound in dark leather with herbal staining on pages. Documents multi-component anesthesia formulation for induced unconsciousness. Written in precise clinical script with dosage calculations and safety warning emphasis. Common tongue. Good condition with margin notes from clinical use.',
         category: 'medical',
-        path: 'lib/books/Medical/Ehrlich Medical Protocols/Protocol 10 - Anesthetic Draught.md',
+        path: 'lib/books/Ehrlich Medical Protocols/Protocol 10 - Anesthetic Draught.md',
         isAvailable: true,
       },
       {
@@ -1009,7 +1009,7 @@ export const libraryData: {
         description:
           'Bound in dark leather with significant chemical discoloration. Pages document systemic venom sap purge protocol requiring multiple saturation cycles. Written in precise clinical script with detailed treatment timeline and patient monitoring requirements. Common tongue. Fair condition from corrosive compound exposure.',
         category: 'medical',
-        path: 'lib/books/Medical/Ehrlich Medical Protocols/Protocol 11 - Emery Saturation.md',
+        path: 'lib/books/Ehrlich Medical Protocols/Protocol 11 - Emery Saturation.md',
         isAvailable: true,
       },
       {
@@ -1019,7 +1019,7 @@ export const libraryData: {
         description:
           'Bound in dark leather with skeletal diagrams. Comprehensive skeletal trauma treatment protocol covering blood enhancement therapy, stabilization procedures, and recovery monitoring. Written in precise clinical script with anatomical illustrations and rehabilitation timelines. Common tongue. Excellent condition.',
         category: 'medical',
-        path: 'lib/books/Medical/Ehrlich Medical Protocols/Protocol 12 - Fractured Bone Repair.md',
+        path: 'lib/books/Ehrlich Medical Protocols/Protocol 12 - Fractured Bone Repair.md',
         isAvailable: true,
       },
       {
@@ -1029,7 +1029,7 @@ export const libraryData: {
         description:
           'Bound in durable black leather with red title. Pages show frequent use with margin annotations in precise script. Contains systematic analysis of nine blood types and 72 combination therapies. Written in Clinical Martin Ehrlich voice with precise categorization and data-focused documentation. Common tongue. Excellent condition.',
         category: 'medical',
-        path: 'lib/books/Medical/Ehrlich Medical Protocols/Protocol 13 - Clinical Blood Applications.md',
+        path: 'lib/books/Ehrlich Medical Protocols/Protocol 13 - Clinical Blood Applications.md',
         isAvailable: true,
       },
     ],
@@ -1047,7 +1047,7 @@ export const libraryData: {
         description:
           'Bound in black leather with containment warning symbols stamped on cover. Pages document vampiric hematologic pathogen with three-stage progression analysis, historical plague records, and terminal illness management protocols. Written in precise clinical script with safety protocol emphasis and quarantine requirements. Common tongue. Good condition with biohazard marking on spine.',
         category: 'medical',
-        path: 'lib/books/Medical/Record 54 - The Red Death.md',
+        path: 'lib/books/Record 54 - The Red Death.md',
         isAvailable: true,
       },
       {
@@ -1057,7 +1057,7 @@ export const libraryData: {
         description:
           'Bound in black leather with fungal spore patterns visible in leather grain. Documents mycotic vampiric infection with nociceptive dysfunction analysis, cognitive effects, and antifungal treatment protocols. Written in precise clinical script with fungal growth diagrams and treatment efficacy notes. Common tongue. Fair condition with minor fungal residue.',
         category: 'medical',
-        path: 'lib/books/Medical/Record 55 - Goreshroom Disease.md',
+        path: 'lib/books/Record 55 - Goreshroom Disease.md',
         isAvailable: true,
       },
     ],
