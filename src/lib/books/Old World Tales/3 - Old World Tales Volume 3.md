@@ -29,7 +29,7 @@ Large note in the margin:
 ☿♌︎ ☉+17🜍-23♃-20! 🜔-22☾+19☿+1 🜕-20☉-17🜍-18♃+11🜔-23☾-9☿-10🜕+8 ☉+0🜍+14♃+15🜔+13☾+12☿+10🜕+8☉+24🜍+18♃+15! 🜔-22☾+19☿+17🜕+4 ☉-1🜍-14 ♃-4🜔-23☾-9☿+14 🜕+7☉+15🜍+22♃+16🜔+13☾-4☿+10 🜕+20☉-5🜍-23♃+8 🜔-1☾+0☿+18 🜕-5☉-21🜍-7♃-16 🜔+5☾+0☿-14🜕-8☉+11🜍-23♃-16🜔+13☾-13☿-13 🜕-5☉+20🜍+18♃-12🜔+21☾+19... ☿+14🜕+7☉+24🜍+10♃+3🜔+9 ☾+11☿-6🜕+0☉-9🜍+18♃-16 🜔-22☾+0☿-6. 🜕-16☉+24🜍-10 ♃-9🜔-18☾+16☿+14 🜕+7☉-1🜍-14 ♃+23🜔-3☾-1☿+1, 🜕+7☉-1🜍-14 ♃-20🜔+13☾-13☿+5. 🜕-21☉-13🜍-10♃+19🜔+18 ☾+7☿-10🜕-12☉+0🜍-15♃-17 🜔+13☾+3☿+17🜕+8☉-1🜍+14♃-21, 🜔-10☾+19☿-15🜕+8 ☉-17🜍-2♃+19🜔+2 ☾+23☿+10 🜕-21☉+20 🜍+18♃+24🜔-19☾+15☿+17🜕-16☉+15🜍+5?
 ```
 
-But the instability... why does it collapse? Three weeks for Thomad before everything started shifting. The body REMEMBERS even when the mind doesn't. Or maybe the body is trying to remember and can't figure out which version was real?] Every time she tried to recall it, the memory was different. All equally plausible. None feeling true.
+Every time she tried to recall it, the memory was different. All equally plausible. None feeling true.
 
 She sought out the merchant in a panic, but he wore a face she didn't recognize. Or perhaps the same face. She couldn't be certain.
 
