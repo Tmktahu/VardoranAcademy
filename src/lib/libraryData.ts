@@ -362,7 +362,7 @@ export const libraryData: {
           'A small notebook bound in dark cloth, pages stained with soil and marked with pressed flower samples. The binding is reinforced with thread, showing frequent field use. Written in careful script with sketches of cemetery layouts in margins. Common tongue. Well-worn condition.',
         category: 'botanical',
         path: 'lib/books/Flora Vardorana/6 - Mourning Lily.md',
-        isAvailable: false,
+        isAvailable: true,
       },
       {
         slug: 'trippy-shroom',
@@ -683,7 +683,7 @@ export const libraryData: {
         title: "Raven's Physical Precision",
         bookSpineTitle: "Raven's Physical<br>Precision",
         description:
-          'A precision combat manual with critical strike analysis tables. Pages show damage variance calculations. Written in mixed formal and casual script. Common tongue. Good condition.',
+          'A worn precision combat manual with hand-copied tables and faded damage variance calculations. Margins filled with scribbled alchemical symbols and notes. Script alternates between formal and casual styles. Clearly an older reproduction. Common tongue. Fair condition.',
         category: 'alchemical',
         path: "lib/books/Blood Essence Mastery/6 - Raven's Physical Precision.md",
         isAvailable: false,
@@ -744,7 +744,7 @@ export const libraryData: {
           'Bound in golden leather with sunburst gold tooling. Pages show careful organization with margin calculations and orbital diagrams. Written in precise script with complete sentences and consistent notation. No corrections or deletions. Excellent condition.',
         category: 'astrological',
         path: 'lib/books/Celestial Symbolica/01-Theralen.md',
-        isAvailable: false,
+        isAvailable: true,
       },
       {
         slug: 'calyx',
@@ -804,7 +804,7 @@ export const libraryData: {
           'Bound in purple-black leather with volcano scorch marks along spine. Pages contain spiral breakdown diagrams with strikethrough corrections showing thought process derailments. Script becomes erratic around cycle counting sections. Fair condition with ash residue on several pages.',
         category: 'astrological',
         path: 'lib/books/Celestial Symbolica/15-Xylos.md',
-        isAvailable: false,
+        isAvailable: true,
       },
       {
         slug: 'introduction-to-celestial-symbolica',
@@ -814,7 +814,7 @@ export const libraryData: {
           'Bound in midnight-blue leather with silver celestial inlays. Pages flow wildly between topics with frequent strikethrough corrections and abandoned thoughts. Stream-of-consciousness narrative with sections interrupted mid-sentence. Good condition with numerous ink corrections and energy diagrams.',
         category: 'astrological',
         path: 'lib/books/Celestial Symbolica/19-Introduction to Celestial Symbolica.md',
-        isAvailable: false,
+        isAvailable: true,
       },
       {
         slug: 'vaylra',
@@ -825,6 +825,64 @@ export const libraryData: {
         category: 'astrological',
         path: 'lib/books/Celestial Symbolica/21-Vaylra.md',
         isAvailable: false,
+      },
+    ],
+  },
+  {
+    series: 'Entropy and You',
+    description:
+      "Educational series organized from Emilia Villas's personal journal documenting Entropy as the source and end of all magic, the Scions of Entropy doomsday cult, the four stages of affliction progression, the Hyphae hive mind, and the war between factions. Covers magical cycle mechanics, Dracula's waygates, cleansing rituals, and personal reflections on the moral costs of war. Written in 202 AMR, recently compiled by Zrott.",
+    color: 'chaosPurple',
+    books: [
+      {
+        slug: 'what-is-entropy',
+        title: 'What is Entropy?',
+        bookSpineTitle: 'What is<br>Entropy?',
+        description:
+          'Bound in purple leather with Entropy-themed tooling. Pages are clean and well-organized with clear academic writing on magical cycle theory. Written in precise script with theoretical explanations. Common tongue. Excellent condition.',
+        category: 'history',
+        path: 'lib/books/Entropy and You/1 - What is Entropy.md',
+        isAvailable: true,
+      },
+      {
+        slug: 'scions-affliction-hyphae-part-1',
+        title: 'The Scions, Affliction, and Hyphae - Part 1',
+        bookSpineTitle: 'The Scions, Affliction<br>and Hyphae - Part 1',
+        description:
+          'Bound in purple leather with protective coating. Pages contain detailed exposition on affliction stages 0-2.5 with clear structure and organization. Written in methodical script with stage-by-stage analysis. Common tongue. Excellent condition.',
+        category: 'history',
+        path: 'lib/books/Entropy and You/2 - The Scions, Affliction, and Hyphae - Part 1.md',
+        isAvailable: true,
+      },
+      {
+        slug: 'scions-affliction-hyphae-part-2',
+        title: 'The Scions, Affliction, and Hyphae - Part 2',
+        bookSpineTitle: 'The Scions, Affliction<br>and Hyphae - Part 2',
+        description:
+          'Bound in purple leather. Pages document stages 3-4 (Encasement and Hyphae) with minor ink marks where pen was tapped repeatedly in thought. Contains emotional reflections on the nature of the affliction. Common tongue. Excellent condition.',
+        category: 'history',
+        path: 'lib/books/Entropy and You/3 - The Scions, Affliction, and Hyphae - Part 2.md',
+        isAvailable: true,
+      },
+      {
+        slug: 'sides-of-war',
+        title: 'The Sides of War',
+        bookSpineTitle: 'The Sides<br>of War',
+        description:
+          'Bound in purple leather. Pages list known members of the Scions of Entropy with detailed descriptions. Contains scratched-out personal reflections visible in margins showing conflicted feelings about former enemies. Common tongue. Good condition.',
+        category: 'history',
+        path: 'lib/books/Entropy and You/4 - The Sides of War.md',
+        isAvailable: true,
+      },
+      {
+        slug: 'record-of-war',
+        title: 'The Record of War',
+        bookSpineTitle: 'The Record<br>of War',
+        description:
+          'Bound in purple leather with reinforced binding. Final volume documenting the war, cleansing rituals, and ethical dilemmas. Contains heavily scratched out sections but remains legible. Ends with personal dedication. Common tongue. Good condition.',
+        category: 'history',
+        path: 'lib/books/Entropy and You/5 - The Record of War.md',
+        isAvailable: true,
       },
     ],
   },
@@ -1116,6 +1174,62 @@ export const libraryData: {
           'A collection journal bound in emerald-green leather with worn edges. Contains cautionary tales, warnings, and reflections on voices from darkness. Includes "Three Warnings for Children" section. Written in varied oral styles from multiple regions. Common tongue. Fair condition with extensive use.',
         category: 'folklore',
         path: 'lib/books/Old World Tales/4 - Old World Tales Volume 4.md',
+        isAvailable: true,
+      },
+    ],
+  },
+  {
+    series: 'Miscellaneous History',
+    description:
+      'Assorted historical documents and standalone texts preserved for their academic value. Each book represents significant events, movements, or perspectives from different periods of Vardoran history and beyond.',
+    color: 'info',
+    books: [
+      {
+        slug: 'father-sullivans-53-theses',
+        title: "Father Sullivan's 53 Theses",
+        bookSpineTitle: "Father Sullivan's<br>53 Theses",
+        description:
+          'Bound in weathered brown leather with singed edges, as if rescued from flames. Pages contain 53 theological statements challenging Church of Luminance doctrine, nailed to church doors in 806 AD. Original distribution was in Farbane while Luminance forces were deployed away. Labeled heresy and burned; this Academy-preserved copy shows water damage and soot marks but remains fully legible. Written in urgent script with Roman numeral divisions. Common tongue. Fair condition due to age and rescue from destruction.',
+        category: 'history',
+        path: "lib/books/Father Sullivan's 53 Theses.md",
+        isAvailable: true,
+      },
+    ],
+  },
+  {
+    series: 'Academy Inventions',
+    description:
+      'A collection of research notes, prototypes, and experimental findings from various Academy researchers. Documents the inventive process, successes, and failures of Academy innovation across multiple fields.',
+    color: 'inventionYellow',
+    books: [
+      {
+        slug: 'construct-2',
+        title: 'Construct 02 - Reinforced Waygate',
+        bookSpineTitle: 'Construct 02:<br>Reinforced Waygate',
+        description:
+          'A prototype waygate with reinforced structure and enhanced stability. Pages contain design schematics, testing records, and performance analysis. Written in technical script with detailed annotations. Common tongue. Good condition with minor wear from testing.',
+        category: 'invention',
+        path: 'lib/books/Academy Inventions/Construct 02 - Reinforced Waygate.md',
+        isAvailable: true,
+      },
+      {
+        slug: 'construct-5',
+        title: 'Construct 05 - Rejuvenation Juice',
+        bookSpineTitle: 'Construct 05:<br>Rejuvenation Juice',
+        description:
+          'A prototype rejuvenation serum with experimental formulation. Pages contain chemical composition, testing results, and efficacy analysis. Written in technical script with experimental procedure notes. Common tongue. Fair condition with chemical stains on several pages.',
+        category: 'invention',
+        path: 'lib/books/Academy Inventions/Construct 05 - Rejuvenation Juice.md',
+        isAvailable: true,
+      },
+      {
+        slug: 'construct-6',
+        title: 'Construct 06 - Sculpting Charges',
+        bookSpineTitle: 'Construct 06:<br>Sculpting Charges',
+        description:
+          'A prototype explosive device designed for controlled demolition. Pages contain design schematics, testing records, and performance analysis. Written in technical script with detailed annotations. Common tongue. Good condition with minor wear from testing.',
+        category: 'invention',
+        path: 'lib/books/Academy Inventions/Construct 06 - Sculpting Charges.md',
         isAvailable: true,
       },
     ],

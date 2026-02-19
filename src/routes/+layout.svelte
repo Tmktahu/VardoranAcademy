@@ -36,6 +36,7 @@
   bg-folkloreGreen-500 bg-folkloreGreen-600 bg-folkloreGreen-700 bg-folkloreGreen-800 bg-folkloreGreen-900
   bg-frostCyan-500 bg-frostCyan-600 bg-frostCyan-700 bg-frostCyan-800 bg-frostCyan-900
   bg-unholyGreen-500 bg-unholyGreen-600 bg-unholyGreen-700 bg-unholyGreen-800 bg-unholyGreen-900
+  bg-inventionYellow-500 bg-inventionYellow-600 bg-inventionYellow-700 bg-inventionYellow-800 bg-inventionYellow-900
 
   border-botanicalGreen-200
   border-alchemicalOrange-200
@@ -51,6 +52,7 @@
   border-folkloreGreen-200
   border-frostCyan-200
   border-unholyGreen-200
+  border-inventionYellow-200
 -->
 
 <style>

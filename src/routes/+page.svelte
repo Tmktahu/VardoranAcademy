@@ -1,20 +1,10 @@
 <script lang="ts">
-  import { boardMembers, faculty } from '$lib/constants';
+  import { boardMembers, faculty, researchDivisionMembers } from '$lib/constants';
 
   // Function to randomly select a quote from an array
   function getRandomQuote(quotes: string[]) {
     return quotes[Math.floor(Math.random() * quotes.length)];
   }
-
-  // // Professors
-  // const professors: Member[] = [
-  //   // Add professors here
-  // ];
-
-  // // Members
-  // const members: Member[] = [
-  //   // Add members here
-  // ];
 
   let userData = null;
   let userError = null;
@@ -117,49 +107,21 @@
         </div>
       </div>
 
-      <!-- Professors -->
-      <!-- {#if professors.length > 0}
-        <div class="mb-12">
-          <h3 class="category-title text-[1.5rem] font-medium text-tprimary-0 mb-8 text-center tracking-[0.08em]">Professors</h3>
-          <div class="grid grid-cols-[repeat(auto-fit,minmax(280px,1fr))] gap-8 mt-8">
-            {#each professors as member (member.name)}
-              <div class="archive-card border border-tsecondary-500/30 px-4 py-2 relative bg-background-0/90 transition-all duration-300">
-                <div class="text-center text-xl font-medium text-tprimary-0 tracking-[0.05em]">{member.name}</div>
-                <div class="text-center text-lg text-tsecondary-400 font-light tracking-[0.03em] mb-2">{member.role}</div>
-                <div class="text-center text-sm text-tsecondary-500 italic leading-[1.5] border-t border-tsecondary-500/30 pt-2 tracking-[0.02em]"
-                  >"{getRandomQuote(member.quotes)}"</div
-                >
-              </div>
-            {/each}
-          </div>
+      <!-- Research Division Members -->
+      <div class="mb-4">
+        <h3 class="section-header-background text-[1.5rem] font-medium text-tprimary-0 text-center tracking-[0.08em]">Research Division</h3>
+        <div class="grid grid-cols-[repeat(auto-fit,minmax(280px,1fr))] gap-8 mt-4">
+          {#each researchDivisionMembers as member (member.name)}
+            <div class="archive-card border border-tsecondary-500/30 px-4 py-2 relative bg-background-0/90 transition-all duration-300">
+              <div class="text-center text-xl font-medium text-tprimary-0 tracking-[0.05em]">{member.name}</div>
+              <div class="text-center text-lg text-tsecondary-400 font-light tracking-[0.03em] mb-2">{member.role}</div>
+              <div class="text-center text-sm text-tsecondary-500 italic leading-[1.5] border-t border-tsecondary-500/30 pt-2 tracking-[0.02em]"
+                >"{getRandomQuote(member.quotes)}"</div
+              >
+            </div>
+          {/each}
         </div>
-      {/if} -->
-
-      <!-- {#if userData}
-        <section class="mb-20">
-          <h2>User Data</h2>
-          <pre>{JSON.stringify(userData, null, 2)}</pre>
-        </section>
-      {:else if userError}
-        <section class="mb-20">
-          <h2>User Data</h2>
-          <p style="color: red;">{userError}</p>
-        </section>
-      {/if} -->
-      <!-- {#if members.length > 0}
-        <div class="mb-12">
-          <h3 class="category-title text-[1.5rem] font-medium text-tprimary-0 mb-8 text-center tracking-[0.08em]">Members</h3>
-          <div class="grid grid-cols-[repeat(auto-fit,minmax(280px,1fr))] gap-8 mt-8">
-            {#each members as member (member.name)}
-              <div class="archive-card border border-tsecondary-500/30 px-8 py-8 relative bg-background-0 transition-all duration-300">
-                <div class=" text-[1.4rem] font-medium text-tprimary-0 mb-0.5 tracking-[0.05em]">{member.name}</div>
-                <div class="text-[0.95rem] text-tsecondary-400 font-light tracking-[0.03em] mb-4">{member.role}</div>
-                <div class="text-[0.9rem] text-tsecondary-500 italic leading-[1.5] border-t border-tsecondary-500/30 pt-4 tracking-[0.02em]">"{getRandomQuote(member.quotes)}"</div>
-              </div>
-            {/each}
-          </div>
-        </div>
-      {/if} -->
+      </div>
     </section>
   </main>
 </div>

@@ -109,6 +109,45 @@ export const boardMembers: Member[] = [
       'That seemed... incredibly fucking painful... let me get you back up.',
     ],
   },
+  {
+    name: 'Tilly',
+    role: 'Ward of the Academy',
+    quotes: [
+      'This is fine. This is absolutely - Nope! Not fine! Pineapple! Pineapple! PINEAPPLE!!!',
+      'Good news. I learned something. Bad news. It was the hard way.',
+      'Please pretend you didn’t see that.',
+    ],
+  },
+  {
+    name: 'Wilhelmina',
+    role: 'Head of Botanical Studies',
+    quotes: ["I'm hungry.", 'Peace is something that is worth fighting for, dying for even.', "You shouldn't trust me."],
+  },
+];
+
+export const researchDivisionMembers: Member[] = [
+  {
+    name: 'Fallemnia',
+    role: 'Head of Research Division',
+    quotes: ['This meeting could have been a bat.', 'Oooh what does this do?', 'I know I put it somewhere... Guess we will find out when it blows up.'],
+  },
+  {
+    name: 'Deracine Ruine',
+    role: 'Prosthetic Augment Researcher',
+    quotes: [
+      'Radical problems require radical solutions, and ive got some!',
+      "It's not my fault im so good at my job.",
+      'You see this prototype is built on a feedback loop of tension and energy, where everything must be fine-tuned or it might go volatile and- why are you moving away?',
+    ],
+  },
+  // {
+  //   name: 'Dante Scutum',
+  //   role: 'Researcher',
+  //   quotes: [
+  //     'The study of ancient civilizations is like peering through a window into the soul of humanity.',
+  //     'By unraveling the mysteries of the past, we can gain insights into our own nature and the world around us.',
+  //   ],
+  // },
 ];
 
 export const faculty: Member[] = [
@@ -128,8 +167,21 @@ export const faculty: Member[] = [
     quotes: ['Everything has to be done with a backbone, if not you will fail.', "Don't just read, try to understand.", 'Be quiet, the books like silence.'],
   },
   {
-    name: 'Wilhelmina',
-    role: 'Botanical Specialist',
-    quotes: ["I'm hungry.", 'Peace is something that is worth fighting for, dying for even.', "You shouldn't trust me."],
+    name: 'Vespera',
+    role: 'Professor of Ritualism',
+    quotes: [
+      'Popularity and sentimentality are temporary. Do not neglect the foundations of your self for them.',
+      "Power passed through an intermediary is always a chain. True power is created from one's efforts, not given as a reward for them.",
+      "Ley is the world's blood and soul.",
+    ],
+  },
+  {
+    name: 'Archivarius',
+    role: 'Trial Librarian',
+    quotes: [
+      'The worst are full of passionate conviction. The best lack all certainty.',
+      "Nothing's good nor bad, but thinking makes it so.",
+      'Those without mercy are those without hope.',
+    ],
   },
 ];

@@ -92,6 +92,14 @@
           >
             Folklore
           </button>
+
+          <button
+            class="absolute z-10 invention-background cursor-pointer pointer-events-auto font-semibold"
+            style="top: 25%; left: 5%; width: 35%; height: 10%;"
+            on:click={() => gotoCategory('invention')}
+          >
+            Inventions
+          </button>
         </div>
       </div>
     </div>
@@ -133,6 +141,10 @@
 
         <button class="button-mobile folklore-background cursor-pointer p-6 rounded-lg text-center text-xl text-white font-semibold" on:click={() => gotoCategory('folklore')}>
           Folklore
+        </button>
+
+        <button class="button-mobile invention-background cursor-pointer p-6 rounded-lg text-center text-xl text-white font-semibold" on:click={() => gotoCategory('invention')}>
+          Invention
         </button>
       </div>
     </div>
@@ -220,6 +232,16 @@
     }
   }
 
+  .invention-background {
+    background: linear-gradient(to left, transparent, var(--color-inventionYellow-900) 40%, var(--color-inventionYellow-900) 60%, transparent);
+    transition: opacity 0.3s ease;
+    opacity: 0.9;
+
+    &:hover {
+      opacity: 1;
+    }
+  }
+
   .button-mobile {
     transition: opacity 0.3s ease;
     opacity: 0.9;
@@ -264,6 +286,10 @@
 
     .folklore-mobile {
       background: linear-gradient(to left, transparent, var(--color-folkloreGreen-800) 40%, var(--color-folkloreGreen-800) 60%, transparent);
+    }
+
+    .invention-mobile {
+      background: linear-gradient(to left, transparent, var(--color-inventionYellow-900) 40%, var(--color-inventionYellow-900) 60%, transparent);
     }
   }
 

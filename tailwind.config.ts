@@ -32,6 +32,7 @@ const medicalRed = '#981c20';
 const folkloreGreen = '#228B22';
 const frostCyan = '#00FFFF';
 const unholyGreen = '#6B8E23';
+const inventionYellow = '#DAA520';
 
 const primaryOverlayOpacity = 0.8;
 const secondaryOverlayOpacity = 0.3;
@@ -75,6 +76,7 @@ const config = {
       folkloreGreen: generateColors(pitchBlack, folkloreGreen, 0.4),
       frostCyan: generateColors(pitchBlack, frostCyan, 0.4),
       unholyGreen: generateColors(pitchBlack, unholyGreen, 0.4),
+      inventionYellow: generateColors(pitchBlack, inventionYellow, 0.4),
 
       zinc: colors.zinc,
       white: colors.white,
@@ -209,6 +211,12 @@ const config = {
           DEFAULT: unholyGreen,
           foreground: generateColors(baseBackgroundColor, unholyGreen, 0.4),
           ...generateColors(baseBackgroundColor, unholyGreen, 0.7),
+        },
+
+        inventionYellow: {
+          DEFAULT: inventionYellow,
+          foreground: generateColors(baseBackgroundColor, inventionYellow, 0.4),
+          ...generateColors(baseBackgroundColor, inventionYellow, 0.7),
         },
 
         destructive: {
