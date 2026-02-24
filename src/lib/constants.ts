@@ -150,6 +150,16 @@ export const researchDivisionMembers: Member[] = [
   // },
 ];
 
+export const bookPasswords: Record<string, string> = {};
+
+libraryData.forEach((series) => {
+  series.books.forEach((book) => {
+    if (book.password) {
+      bookPasswords[book.slug] = book.password;
+    }
+  });
+});
+
 export const faculty: Member[] = [
   {
     name: 'Pasithea',

@@ -2,7 +2,7 @@ export const libraryData: {
   series: string;
   description: string;
   color: string;
-  books: { slug: string; title: string; bookSpineTitle: string; description: string; category: string; path: string; isAvailable: boolean }[];
+  books: { slug: string; title: string; bookSpineTitle: string; description: string; category: string; path: string; isAvailable: boolean; password?: string }[];
 }[] = [
   {
     series: 'Sanguine Theory',
@@ -115,6 +115,7 @@ export const libraryData: {
         category: 'arcana',
         path: 'lib/books/Frost Theory/3 - Advanced Structures and Applications.md',
         isAvailable: false,
+        password: 'permanence',
       },
     ],
   },

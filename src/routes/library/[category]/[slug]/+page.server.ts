@@ -4,8 +4,6 @@ import { error, redirect } from '@sveltejs/kit';
 
 const bookFiles = import.meta.glob('/src/lib/books/**/*.md', { query: '?raw', import: 'default', eager: true });
 
-import { parse } from 'cookie';
-
 export async function load({ params, cookies }: { params: { category: string; slug: string }; cookies: any }) {
   const { category, slug } = params;
   // Read cookie
@@ -45,7 +43,7 @@ export async function load({ params, cookies }: { params: { category: string; sl
   }
   // If book is unavailable, return special data for unavailable book message
   if (bookFromLibrary && !bookFromLibrary.isAvailable) {
-    return { book: { ...bookConfig, isAvailable: false }, content: '# Unavailable', category };
+    return { book: { ...bookConfig, isAvailable: false, slug }, content: '# Unavailable', category };
   }
   const absPath = `/src/${bookConfig.path}`;
   const content = bookFiles[absPath];

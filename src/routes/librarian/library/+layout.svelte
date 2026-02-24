@@ -1,52 +1,106 @@
 <script lang="ts">
   import { onMount } from 'svelte';
   import { browser } from '$app/environment';
-  let showModal = false;
-  let password = '';
-  let error = '';
-  let isLibrarian = false;
-  let checked = false;
+  import { page } from '$app/stores';
+  import PasswordModal from '$lib/components/PasswordModal.svelte';
+  import { bookPasswords } from '$lib/constants';
 
-  async function checkAuth() {
-    if (!browser) return;
-    const res = await fetch('/librarian/library/auth-check');
-    isLibrarian = (await res.json()).ok;
-    checked = true;
-    if (!isLibrarian) showModal = true;
+  let showModal = false;
+  let checked = false;
+  let authEndpoint = '/librarian/library/auth-check';
+  let isAuthorized = false;
+
+  function isBookPage(): boolean {
+    const path = $page.url.pathname;
+    return /^\/librarian\/library\/[^/]+\/[^/]+$/.test(path);
   }
 
-  async function login() {
-    error = '';
-    const res = await fetch('/librarian/library/auth-check', {
-      method: 'POST',
-      headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify({ password })
-    });
-    const result = await res.json();
-    if (result.ok) {
-      showModal = false;
-      isLibrarian = true;
+  function getBookSlug(): string | null {
+    const path = $page.url.pathname;
+    const match = path.match(/^\/librarian\/library\/[^/]+\/([^/]+)$/);
+    return match ? match[1] : null;
+  }
+
+  function getBookCategory(): string | null {
+    const path = $page.url.pathname;
+    const match = path.match(/^\/librarian\/library\/([^/]+)\/[^/]+$/);
+    return match ? match[1] : null;
+  }
+
+  function hasBookAuth(slug: string): boolean {
+    if (typeof document === 'undefined') return false;
+    const cookies = document.cookie.split(';');
+    return cookies.some((cookie) => cookie.trim().startsWith(`book_auth_${slug}=`));
+  }
+
+  function hasLibrarianAuth(): boolean {
+    if (typeof document === 'undefined') return false;
+    const cookies = document.cookie.split(';');
+    return cookies.some((cookie) => cookie.trim().startsWith('librarian_auth='));
+  }
+
+  function checkAuth(): boolean {
+    if (!browser) return false;
+
+    if (isBookPage()) {
+      const slug = getBookSlug();
+      if (!slug) return false;
+
+      // Book page: accept either librarian auth OR book-specific auth (if book has password)
+      if (hasLibrarianAuth()) return true;
+      if (bookPasswords[slug] && hasBookAuth(slug)) return true;
+      return false;
     } else {
-      error = 'Invalid password';
+      // Index or category page: only librarian auth
+      return hasLibrarianAuth();
     }
   }
 
-  onMount(checkAuth);
+  function updateAuthEndpoint() {
+    if (isBookPage()) {
+      const slug = getBookSlug();
+      const category = getBookCategory();
+      if (slug && category && bookPasswords[slug]) {
+        // For book pages with password, pass both category and slug
+        authEndpoint = '/librarian/library/auth-check';
+      } else {
+        authEndpoint = '/librarian/library/auth-check';
+      }
+    } else {
+      authEndpoint = '/librarian/library/auth-check';
+    }
+  }
+
+  function getAuthPayload(): { slug?: string; category?: string } {
+    if (isBookPage()) {
+      const slug = getBookSlug();
+      const category = getBookCategory();
+      if (slug && category && bookPasswords[slug]) {
+        return { slug, category };
+      }
+    }
+    return {};
+  }
+
+  onMount(() => {
+    checked = true;
+  });
+
+  // Reactive auth check - runs every time the page changes (navigation)
+  $: {
+    if (checked) {
+      isAuthorized = checkAuth();
+      showModal = !isAuthorized;
+    }
+  }
+
+  $: updateAuthEndpoint();
 </script>
 
-{#if checked && isLibrarian}
+{#if checked && !showModal}
   <slot />
 {/if}
 
 {#if showModal}
-  <div class="fixed inset-0 bg-black/60 flex items-center justify-center z-50">
-    <form class="bg-background-0 p-8 rounded shadow max-w-xs w-full" on:submit|preventDefault={login}>
-      <h2 class="text-lg font-bold mb-4">Librarian Login</h2>
-      {#if error}
-        <div class="text-red-600 mb-2">{error}</div>
-      {/if}
-      <input type="password" bind:value={password} placeholder="Password" class="w-full border rounded px-2 py-1 mb-4" autofocus required />
-      <button type="submit" class="w-full bg-success-400 text-white rounded py-2">Login</button>
-    </form>
-  </div>
+  <PasswordModal title="Login to access this content" {authEndpoint} buttonText="Login" additionalPayload={getAuthPayload()} />
 {/if}
