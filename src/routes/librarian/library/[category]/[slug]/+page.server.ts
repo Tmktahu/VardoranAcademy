@@ -18,11 +18,19 @@ export async function load({ params, cookies }) {
   if (bookFromLibrary && !bookFromLibrary.isAvailable) {
     const hasPassword = bookFromLibrary.password !== undefined;
     let isAuthenticated = false;
+    let authType: 'librarian' | 'book' | null = null;
     
     if (hasPassword) {
       const librarianAuth = cookies.get('librarian_auth') === 'true';
       const bookAuth = cookies.get(`book_auth_${slug}`) === 'true';
       isAuthenticated = librarianAuth || bookAuth;
+      
+      // Determine which type of auth was used
+      if (librarianAuth) {
+        authType = 'librarian';
+      } else if (bookAuth) {
+        authType = 'book';
+      }
       
       if (isAuthenticated) {
         // Authenticated with password, allow access
@@ -31,15 +39,15 @@ export async function load({ params, cookies }) {
         if (!content) {
           throw error(404, 'Book file not found');
         }
-        return { book: { ...bookConfig, isAvailable: true, slug, password: bookFromLibrary.password }, content, category };
+        return { book: { ...bookConfig, isAvailable: true, slug, password: bookFromLibrary.password }, content, category, authType };
       } else {
         // Not authenticated, return password requirement
-        return { book: { ...bookConfig, isAvailable: false, requiresPassword: true, slug, password: bookFromLibrary.password }, content: '# Unavailable', category };
+        return { book: { ...bookConfig, isAvailable: false, requiresPassword: true, slug, password: bookFromLibrary.password }, content: '# Unavailable', category, authType };
       }
     }
     
     // No password configured, show regular unavailable message
-    return { book: { ...bookConfig, isAvailable: false, requiresPassword: false, slug, password: bookFromLibrary.password }, content: '# Unavailable', category };
+    return { book: { ...bookConfig, isAvailable: false, requiresPassword: false, slug, password: bookFromLibrary.password }, content: '# Unavailable', category, authType };
   }
   
   const absPath = `/src/${bookConfig.path}`;

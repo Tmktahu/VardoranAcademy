@@ -29,6 +29,10 @@
   </div>
 {:else}
   <BookContent content={data.content} color={data.book.color}>
-    <button slot="back" class="text-success-400 hover:underline" on:click={() => goto(resolve(`/librarian/library/${data.book.category}`))}> &larr; Back to Library </button>
+    <svelte:fragment slot="back">
+      {#if !data.book.password || data.authType === 'librarian'}
+        <button class="text-success-400 hover:underline" on:click={() => goto(resolve(`/librarian/library/${data.book.category}`))}> &larr; Back to Library </button>
+      {/if}
+    </svelte:fragment>
   </BookContent>
 {/if}

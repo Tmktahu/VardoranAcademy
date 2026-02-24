@@ -17,7 +17,7 @@ export async function POST({ request, cookies }) {
   if (normalizedPassword === LIBRARIAN_PASSWORD.toLowerCase()) {
     cookies.set('librarian_auth', 'true', {
       path: '/librarian/library',
-      httpOnly: true,
+      httpOnly: false,
       sameSite: 'lax',
       maxAge: 60 * 60 * 8, // 8 hours
     });
