@@ -265,7 +265,7 @@ export const libraryData: {
           'A scholarly treatise bound in deep green leather with emerald clasps. Pages contain theoretical diagrams on will-saturation and emerald affinity mechanics. Written in sharp academic script with enthusiastic consultation notes from practitioner. Common tongue. Excellent condition.',
         category: 'arcana',
         path: 'lib/books/Unholy Theory/1 - Foundations of Unholy Magic.md',
-        isAvailable: false,
+        isAvailable: true,
       },
       {
         slug: 'combat-applications-unholy',
@@ -1232,6 +1232,26 @@ export const libraryData: {
         category: 'invention',
         path: 'lib/books/Academy Inventions/Construct 06 - Sculpting Charges.md',
         isAvailable: true,
+      },
+    ],
+  },
+  {
+    series: 'The Ladder', // astrological book about constellations written by a madman
+    description:
+      'A peculiar astrological tome detailing constellations and celestial phenomena, authored by an individual whose sanity is questionable. The text is filled with erratic observations and unconventional interpretations of the night sky.',
+    color: 'astrologicalBlue',
+    books: [
+      {
+        // 12-Introduction to Ladder.md
+        slug: 'introduction-to-ladder',
+        title: 'Introduction to The Ladder',
+        bookSpineTitle: 'Introduction to<br>The Ladder',
+        description:
+          "The opening chapter of The Ladder, providing an overview of the author's unconventional astrological theories and setting the stage for the erratic observations that follow. Common tongue. Fair condition with signs of age and handling.",
+        category: 'astrological',
+        path: 'lib/books/The Ladder/12-Introduction to Ladder.md',
+        isAvailable: false,
+        password: 'ladderbook',
       },
     ],
   },
