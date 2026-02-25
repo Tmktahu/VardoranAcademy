@@ -1,7 +1,7 @@
 # Introduction to The Ladder
-> **Series:** The Ladder
-> **Author:** Phaelon Canterburlh
-> **Written:** AD 582
+> **Series:** The Ladder  
+> **Author:** Phaelon Canterburlh  
+> **Written:** AD 582  
 ## What The Ladder Actually Is
 
 The ladder ~~isn't~~ something you ~~do~~. It's somewhere you ARE. The twelve positions ~~aren't~~ procedures or steps ~~or chemical processes~~. The positions are cosmic states. ~~Moments when celestial geometry aligns properly for~~ transformation to ~~occur~~.
