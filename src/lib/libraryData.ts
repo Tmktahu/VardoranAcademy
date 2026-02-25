@@ -189,7 +189,7 @@ export const libraryData: {
           'Bound in teal leather with geometric pattern tooling. Pages contain illusion theory diagrams and consultation notes. Written in sharp academic script with astrological references. Excellent condition.',
         category: 'arcana',
         path: 'lib/books/Illusion Theory/1 - Foundations of Illusion Magic.md',
-        isAvailable: false,
+        isAvailable: true,
       },
       {
         slug: 'illusion-combat',
@@ -1175,7 +1175,7 @@ export const libraryData: {
           'A copy of a book in deep green leather. Contains four tales of identity, memory, and origins. Lyrical oral style. Common tongue. Poor condition - someone wrote notes in margins in an odd script.',
         category: 'folklore',
         path: 'lib/books/Old World Tales/3 - Old World Tales Volume 3.md',
-        isAvailable: false,
+        isAvailable: true,
       },
       {
         slug: 'old-world-tales-vol-4',
