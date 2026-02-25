@@ -1276,7 +1276,7 @@ export const libraryData: {
       {
         slug: 'on-magical-snares',
         title: 'On Magical Snares',
-        bookSpineTitle: 'On Magical<br>Snares',
+        bookSpineTitle: 'On Magical Snares',
         description:
           'An in-depth exploration of the phenomenon known as Magical Snares. It goes into their composition, origin, and methods of containment. Common tongue. Good condition with minor wear from handling.',
         category: 'arcana',
