@@ -1265,4 +1265,24 @@ export const libraryData: {
       },
     ],
   },
+  {
+    series: 'Misc Arcana and Oddities',
+    description:
+      'A collection of miscellaneous arcane texts and oddities that defy categorization. These books contain a variety of esoteric knowledge, strange phenomena, and unconventional theories that may not fit neatly into any specific category but are preserved for their unique insights and curiosities.',
+    color: 'info',
+    books: [
+      // On Magical Snares.md
+      // a book about the nature Magical Snares phenomenon
+      {
+        slug: 'on-magical-snares',
+        title: 'On Magical Snares',
+        bookSpineTitle: 'On Magical<br>Snares',
+        description:
+          'An in-depth exploration of the phenomenon known as Magical Snares. It goes into their composition, origin, and methods of containment. Common tongue. Good condition with minor wear from handling.',
+        category: 'arcana',
+        path: 'lib/books/On Magical Snares.md',
+        isAvailable: true,
+      },
+    ],
+  },
 ];
