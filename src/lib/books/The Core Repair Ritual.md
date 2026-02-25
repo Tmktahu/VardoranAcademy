@@ -1,5 +1,5 @@
 # The Core Repair Ritual
-> **Author:** Karina
+> **Author:** Karina  
 > **Written:** AMR 4
 ## Fundamental Theories
 A magical core is not a vessel that can be filled and emptied at will. It is a self-sustaining, intrinsic part of a living being, as natural and essential as the heart that moves blood through the body. Every living creature possesses one. It contains some or all of the magical schools, and in a healthy individual, it maintains itself without conscious effort.
