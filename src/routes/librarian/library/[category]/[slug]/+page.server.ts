@@ -10,53 +10,33 @@ export async function load({ params, cookies }) {
   if (!bookConfig || bookConfig.category !== category) {
     throw error(404, 'Book not found in this category');
   }
-  
-  // If book is unavailable, check for password protection
+
   const bookSeries = libraryData.find((s) => s.books.some((b) => b.slug === slug));
   const bookFromLibrary = bookSeries?.books.find((b) => b.slug === slug);
-  
-  if (bookFromLibrary && !bookFromLibrary.isAvailable) {
-    const hasPassword = bookFromLibrary.password !== undefined;
-    let isAuthenticated = false;
-    let authType: 'librarian' | 'book' | null = null;
-    
-    if (hasPassword) {
-      const librarianAuth = cookies.get('librarian_auth') === 'true';
-      const bookAuth = cookies.get(`book_auth_${slug}`) === 'true';
-      isAuthenticated = librarianAuth || bookAuth;
-      
-      // Determine which type of auth was used
-      if (librarianAuth) {
-        authType = 'librarian';
-      } else if (bookAuth) {
-        authType = 'book';
-      }
-      
-      if (isAuthenticated) {
-        // Authenticated with password, allow access
-        const absPath = `/src/${bookConfig.path}`;
-        const content = bookFiles[absPath];
-        if (!content) {
-          throw error(404, 'Book file not found');
-        }
-        return { book: { ...bookConfig, isAvailable: true, slug, password: bookFromLibrary.password }, content, category, authType };
-      } else {
-        // Not authenticated, return password requirement
-        return { book: { ...bookConfig, isAvailable: false, requiresPassword: true, slug, password: bookFromLibrary.password }, content: '# Unavailable', category, authType };
-      }
+  const isAvailable = bookFromLibrary?.isAvailable ?? true;
+
+  if (!isAvailable && bookFromLibrary?.password) {
+    const librarianAuth = cookies.get('librarian_auth') === 'true';
+    const bookAuth = cookies.get(`book_auth_${slug}`) === 'true';
+    const isAuthenticated = librarianAuth || bookAuth;
+
+    if (!isAuthenticated) {
+      return {
+        book: { ...bookConfig, isAvailable, requiresPassword: true, slug, password: bookFromLibrary.password },
+        content: '# Unavailable',
+        category,
+        authType: null,
+      };
     }
-    
-    // No password configured, show regular unavailable message
-    return { book: { ...bookConfig, isAvailable: false, requiresPassword: false, slug, password: bookFromLibrary.password }, content: '# Unavailable', category, authType };
   }
-  
+
   const absPath = `/src/${bookConfig.path}`;
   const content = bookFiles[absPath];
   if (!content) {
     throw error(404, 'Book file not found');
   }
   return {
-    book: { ...bookConfig, slug },
+    book: { ...bookConfig, isAvailable, slug },
     content,
     category,
   };
