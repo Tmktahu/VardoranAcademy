@@ -28,7 +28,7 @@ Perhaps most curiously, blood roses feature in necromantic practices, specifical
 *The following section documents clinical applications developed after the Academy's operational period.*
 
 **Author:** Martin Ehrlich  
-**Written:** AMR 201
+**Written:** 201 AMR
 
 Blood rose distillate forms the active regenerative component in multiple established protocols and constructs. Primary medical application: Protocol 07 (Emery-Bloodrose Suspension) for venom sap neutralization. Crushed emery ore suspended in high-grade bloodrose distillate (minimum 80% active extract) produces violent localized tissue purging followed by immediate regenerative response. Distillate concentration critical: below 80% potency produces incomplete regeneration.
 

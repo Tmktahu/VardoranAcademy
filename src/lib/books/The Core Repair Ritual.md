@@ -1,6 +1,6 @@
 # The Core Repair Ritual
 > **Author:** Karina  
-> **Written:** AMR 4  
+> **Written:** 4 AMR  
 ## Fundamental Theories
 A magical core is not a vessel that can be filled and emptied at will. It is a self-sustaining, intrinsic part of a living being, as natural and essential as the heart that moves blood through the body. Every living creature possesses one. It contains some or all of the magical schools, and in a healthy individual, it maintains itself without conscious effort.
 
@@ -55,7 +55,7 @@ A core may accept the new magic quickly, granting the patient partial or full us
 
 If rejection occurs, act quickly. The threads themselves are permanent structures and should not be destroyed: what must be done is to make a careful incision in the weave, opening the binding without tearing out the threadwork. This allows the rejected magic to escape rather than remain trapped, while leaving the threadweave architecture intact for a future attempt. Speed matters here, but so does precision. Tearing the threads entirely does more harm than good.
 
-The patient will notice a minor decrease in casting capacity, typically five to ten percent, in the schools that were drawn upon to construct the threadweaves. This is not a side effect of something going wrong. It is an inherent cost of the process: the threads are made from the patient's own core magic, and that material is now woven into a permanent structure rather than freely available. In most cases this loss can be reasonably recovered over time as the introduced magic settles and the core adjusts. It should be discussed with the patient before the procedure begins.
+The patient will notice a minor decrease in casting capacity, typically five to ten percent, in the schools that were drawn upon to construct the threadweaves. This is not a side effect of something going wrong. It is an inherent cost of the process: the threads are made from the patient's own core magic, and that material is now woven into a permanent structure rather than freely available. In most cases this loss can be reasonably recovered over time as the introduced magic settles and the core adjusts. If possible, this should be discussed with the patient before the procedure begins.
 ## A Note on Patience
 It is my strong recommendation not to attempt this ritual for more than one school in a single sitting, even when circumstances seem to demand urgency. The body and the core both need time to process what has been done to them. Rushing this work does not serve the patient. It serves the anxiety of those around them.
 

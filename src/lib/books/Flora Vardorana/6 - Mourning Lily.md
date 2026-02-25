@@ -28,7 +28,7 @@ Perhaps most surprisingly, horse trainers incorporating mourning lily into feed 
 *The following section documents clinical applications developed after the Academy's operational period.*
 
 **Author:** Martin Ehrlich  
-**Written:** AMR 201
+**Written:** 201 AMR
 
 Mourning lily extract serves as sedation and reflexive suppression component in Protocol 10: Trifold Anesthetic Draught. Plant demonstrates magically-attuned connection to death, property exploited for inducing unconsciousness during medical procedures. Boiled flowers yield oils that deepen sedation and reduce reflexive response.
 

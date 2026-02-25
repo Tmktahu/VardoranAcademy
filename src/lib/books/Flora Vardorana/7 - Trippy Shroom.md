@@ -26,7 +26,7 @@ Notably, trippy shroom demonstrates no apparent utility in traditional alchemica
 *The following section documents clinical applications developed after the Academy's operational period.*
 
 **Author:** Martin Ehrlich  
-**Written:** AMR 201
+**Written:** 201 AMR
 
 Trippy shroom extracts form the active component in Protocol 10: Anesthetic Draught. Controlled dosing produces sensory disruption sufficient for pain management without complete incapacitation. Efficacy tested across 47 subjects with consistent results.
 

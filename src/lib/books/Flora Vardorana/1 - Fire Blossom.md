@@ -28,7 +28,7 @@ Combinations of fire blossom with various other reagents produce distinct effect
 *The following section documents alchemical applications developed after the Academy's operational period.*
 
 **Author:** Martin Ehrlich  
-**Written:** AMR 201
+**Written:** 201 AMR
 
 Fire blossom extract serves as thermal energy source in Construct 03: Liquid Fire incendiary device. Plant contains dormant thermal energy in stable form. Careful distillation concentrates active compounds without triggering premature combustion. Distillation must occur in completely oxygen-free environment when preparing volatile compounds.
 

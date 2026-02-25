@@ -26,7 +26,7 @@ Horse trainers incorporate snow flower into feed preparations with reported impr
 *The following section documents clinical applications developed after the Academy's operational period.*
 
 **Author:** Martin Ehrlich  
-**Written:** AMR 201
+**Written:** 201 AMR
 
 Snow flower extract serves as vasoconstrictive agent in two established medical protocols. Primary application: Protocol 08 (Coldpress Clotting Compound) for hemostasis stabilization. Fresh petals crushed and cold-steeped in low-mineral water for 4-6 hours produce extract with strong blood flow reduction properties. Extract potency window: 12 hours post-extraction. Preparation beyond this timeframe demonstrates degraded efficacy.
 
