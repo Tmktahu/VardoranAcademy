@@ -1095,8 +1095,7 @@ export const libraryData: {
   },
   {
     series: 'Medical Record',
-    description:
-      'Clinical research notes and pathological analyses by Martin Ehrlich, Academy Director (AMR 0-present). Documents specialized disease research, outbreak records, and medical case studies for vampiric medical knowledge.',
+    description: 'Various clinical research notes and pathological analyses.',
     color: 'medicalRed',
     books: [
       {
@@ -1118,6 +1117,17 @@ export const libraryData: {
         category: 'medical',
         path: 'lib/books/Record 55 - Goreshroom Disease.md',
         isAvailable: true,
+      },
+      {
+        slug: 'core-repair-ritual',
+        title: 'The Core Repair Ritual',
+        bookSpineTitle: 'The Core Repair<br>Ritual',
+        description:
+          'Bound in black leather with arcane symbols embossed on cover. Pages document ritualistic core repair procedure for severe vampiric trauma, including step-by-step instructions, required components, and safety precautions. Written in precise clinical script with ritual diagrams and practitioner notes. Common tongue. Excellent condition.',
+        category: 'medical',
+        path: 'lib/books/The Core Repair Ritual.md',
+        isAvailable: true,
+        password: 'karina',
       },
     ],
   },
