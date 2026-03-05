@@ -129,7 +129,7 @@ export const researchDivisionMembers: Member[] = [
     ],
   },
   {
-    name: 'Emory',
+    name: 'Emeritus Applegate',
     role: 'Research Assistant',
     quotes: [
       'The past is ash, good for growing from. The future is unsown, ours to prepare.',

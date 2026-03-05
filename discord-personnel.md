@@ -12,7 +12,7 @@
 ## Research Division
 - **Fallemnia** - Head of Research Division - Has Discord role
 - **Deracine Ruine** - Prosthetic Augment Researcher - Has Discord role
-- **Emory** - Research Assistant - Has Discord role
+- **Emeritus Applegate** - Research Assistant - Has Discord role
 - **Alecto Vlachos** - Occult Researcher - Has Discord role
 - **Dante Scutum** - Pioneer of Vampiric Studies - Has Discord role
 ## Faculty
