@@ -50,13 +50,8 @@ export const boardMembers: Member[] = [
     quotes: ['Rrhah rhah rawr rha rhrah.', 'Ghruff... ghruff.', 'Awwooooooooo.', 'No one will ever believe you.'],
   },
   {
-    name: 'Gascoigne',
-    role: 'Professor of The Dark Arts',
-    quotes: ['What does a man have to fear that has nothing left to lose?', 'There is no nobility in fighting for honor', 'Noted.'],
-  },
-  {
     name: 'Jaime Valentine',
-    role: 'Professor of Holy Arts',
+    role: 'Professor of Radiant Studies',
     quotes: [
       "It isn't enough to just hold the Light, I want to be a Light for any one who needs help on their path!",
       "My Sister means the world to me, there is nothing I won't do to keep her safe.",
@@ -74,8 +69,8 @@ export const boardMembers: Member[] = [
     ],
   },
   {
-    name: 'Squeaks',
-    role: 'Quartermaster',
+    name: 'Millicent Courtwright',
+    role: 'Quartermaster & Head of Internal Affairs',
     quotes: [
       'PLEASE STOP BRINGING ME SNOW FLOWERS! I WILL UN-MOLD YOUR CHEESE!',
       'We need to purchase more cheese, Monsieur Zrott, we only have eight hundred and three kilograms left in the reserves.',
@@ -83,20 +78,13 @@ export const boardMembers: Member[] = [
     ],
   },
   {
-    name: 'Roran',
-    role: 'Groundskeeper',
+    name: 'Roran Courtright',
+    role: 'Head of Field Operations',
     quotes: [
-      'Now I ain’t sayin’ you should be out past curfew. I’m just sayin’ the moon’s real persuasive, and I remember bein’ young. Let’s walk you back before someone with less patience than me decides tonight’s the night they enforce a rule.',
-      'Easy now, brother. I’m a groundskeeper, not the gallows. If you fix what you broke and don’t do it again, we can both pretend tonight went real smooth.',
-      'Now Sugar, I ain’t sayin’ you’re in trouble. I’m sayin’ trouble’s lookin’ for you, and I’d rather it not find you tonight.',
-      'Do your work. Go to bed. Let me worry about the dark.',
-      'Don’t worry. If I didn’t like you, this conversation would be much shorter.',
+      "Do the work in front of you. I'll carry the rest.",
+      "You don't have to like what I handle. Just know I handle it.",
+      'We act tonight, or we react tomorrow.',
     ],
-  },
-  {
-    name: 'Quinn',
-    role: 'Specialist',
-    quotes: ['In the Silence of Aversion. Scream.', 'Load-bearing Nap Time.'],
   },
   {
     name: 'Elias',
@@ -110,8 +98,8 @@ export const boardMembers: Member[] = [
     ],
   },
   {
-    name: 'Tilly',
-    role: 'Ward of the Academy',
+    name: 'Tilly Dalrad',
+    role: 'Head of Mechanical Studies',
     quotes: [
       'This is fine. This is absolutely - Nope! Not fine! Pineapple! Pineapple! PINEAPPLE!!!',
       'Good news. I learned something. Bad news. It was the hard way.',
@@ -140,14 +128,33 @@ export const researchDivisionMembers: Member[] = [
       'You see this prototype is built on a feedback loop of tension and energy, where everything must be fine-tuned or it might go volatile and- why are you moving away?',
     ],
   },
-  // {
-  //   name: 'Dante Scutum',
-  //   role: 'Researcher',
-  //   quotes: [
-  //     'The study of ancient civilizations is like peering through a window into the soul of humanity.',
-  //     'By unraveling the mysteries of the past, we can gain insights into our own nature and the world around us.',
-  //   ],
-  // },
+  {
+    name: 'Emory',
+    role: 'Research Assistant',
+    quotes: [
+      'The past is ash, good for growing from. The future is unsown, ours to prepare.',
+      'I believe in a kinder, gentler world. We were born to have neighbors, and to learn to love them.',
+      'Uh, good dog...? Wait, WAIT-',
+    ],
+  },
+  {
+    name: 'Alecto Vlachos',
+    role: 'Occult Researcher',
+    quotes: [
+      "I've heard people say I'm too enthusiastic in my research. Clearly, they don't know me at all!",
+      "World's got mysteries that need solvin'. I'm your man. World's got beasties to slay. I'm still your man, if the need arises.",
+      "No shadow without light, no discovery without danger. The dark secrets of the world are a'callin'.",
+    ],
+  },
+  {
+    name: 'Dante Scutum',
+    role: 'Pioneer of Vampiric Studies',
+    quotes: [
+      "You'll have that on them big jobs",
+      'Do the impossible, see the invisible, touch the untouchable, break the unbreakable',
+      "Every saint has a past, and every sinner has a future.",
+    ],
+  },
 ];
 
 export const bookPasswords: Record<string, string> = {};
@@ -193,5 +200,15 @@ export const faculty: Member[] = [
       "Nothing's good nor bad, but thinking makes it so.",
       'Those without mercy are those without hope.',
     ],
+  },
+  {
+    name: 'Margery',
+    role: 'Secretary to the Quartermaster',
+    quotes: ["Where's your report, dear?", "I'm 77 years young.", "I'm a stubborn old lady and proud of it."],
+  },
+  {
+    name: 'Nabs',
+    role: 'Acquisition Specialist',
+    quotes: ["No, I can't gather you trippy shrooms. Ask my wife.", 'Send me a list!', "Are you alright? Please, I just want to help!"],
   },
 ];
