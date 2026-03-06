@@ -3,16 +3,16 @@
 > **Author:** Phaelon Canterburlh  
 > **Written:** 787 AD  
 ## Complete Energy Removal 🜕
-Vaylra ~~governs~~ IS Frost magic IS ~~energy~~ removal IS ~~subtraction~~ ABSENCE. 🜕 at ♌ internal cooling achieves removal. Academy charts ~~identified~~ identified? ~~wrong planet~~ wrong identification wrong name wrong EVERYTHING. Charts ~~burned~~ gone GONE. ~~Academy~~ Everyone gone 587 years GONE.
+Vaylra ~~governs~~ IS Frost magic IS ~~energy~~ removal IS ~~subtraction~~ ABSENCE. 🜕 at ♌︎ internal cooling achieves removal. Academy charts ~~identified~~ identified? ~~wrong planet~~ wrong identification wrong name wrong EVERYTHING. Charts ~~burned~~ gone GONE. ~~Academy~~ Everyone gone 587 years GONE.
 
 Where was I. ~~The~~ Frozen Bridge. ~~Right~~ Where frozen WHERE.
-Frost magic ~~operates through~~ IS subtraction ~~removing~~ energy while ~~storm magic adds~~ storm ADDS frost SUBTRACTS. The two schools ~~Opposing~~ 🜕 at ♋ to ♓ completes the removal sequence. ~~principles~~ opposing OPPOSING. But ~~complementary~~ SAME pattern different ~~expression~~ directions SAME.
+Frost magic ~~operates through~~ IS subtraction ~~removing~~ energy while ~~storm magic adds~~ storm ADDS frost SUBTRACTS. The two schools ~~Opposing~~ 🜕 at ♋︎ to ♓︎ completes the removal sequence. ~~principles~~ opposing OPPOSING. But ~~complementary~~ SAME pattern different ~~expression~~ directions SAME.
 
-Energy removal ~~operates through~~ IS absolute subtraction ~~where~~ Vaylra extracts ~~total~~ ALL energy from ~~targeted~~ systems ~~the~~ [☉ ☽ ♃ ♄ 🜔 ☿] at ♊ anchor energy. leaving ~~only~~ ONLY pattern geometry ~~devoid of~~ WITHOUT energetic components WITHOUT energy JUST geometry JUST angles JUST.
+Energy removal ~~operates through~~ IS absolute subtraction ~~where~~ Vaylra extracts ~~total~~ ALL energy from ~~targeted~~ systems ~~the~~ [☉ ☽ ♃ ♄ 🜔 ☿] at ♊︎ anchor energy. leaving ~~only~~ ONLY pattern geometry ~~devoid of~~ WITHOUT energetic components WITHOUT energy JUST geometry JUST angles JUST.
 
 ~~The~~ Process removes thermal ~~energy~~ electromagnetic ~~energy~~ kinetic ~~energy~~ chemical ~~energy~~ ALL energy simultaneously creating ~~total~~ COMPLETE energy absence ~~within specified spatial boundaries~~ WITHIN space WITHIN pattern WITHIN.
 
-The shard ~~displays~~ SHOWS energy dissipation ~~geometry~~ SHOWS removal ~~process~~ angles CHANGING. 🜕 at ♎ elevation through cold perfects the geometry. geometry SHIFTING crystalline structure BECOMING perfect BECOMING energy-free BECOMING pure pattern WITHOUT manifestation WITHOUT energy JUST geometry JUST.
+The shard ~~displays~~ SHOWS energy dissipation ~~geometry~~ SHOWS removal ~~process~~ angles CHANGING. 🜕 at ♎︎︎ elevation through cold perfects the geometry. geometry SHIFTING crystalline structure BECOMING perfect BECOMING energy-free BECOMING pure pattern WITHOUT manifestation WITHOUT energy JUST geometry JUST.
 
 Where was. ~~I~~ Where was where WAS.
 ## The Frozen Bridge ~~Constellation~~ Infinite
@@ -22,7 +22,7 @@ Vaylra ~~resides~~ EXISTS beyond ~~furthest~~ visible bridge segment ~~invisible
 
 The 47 stars ~~correspond to~~ ARE 47 stages ~~of~~ energy reduction ~~where~~ each star ~~represents~~ IS one increment ~~of~~ energy removal ~~progressing from~~ SEVEN symbolic energies ~~down to~~ absolute zero energy DOWN to nothing DOWN to ABSENCE down to PATTERN without energy PATTERN alone GEOMETRY alone ANGLES alone.
 
-I've ~~tracked~~ observed ~~the~~ energy removal sequence ~~across~~ 473 frost cycles ~~spanning~~ five hundred eighty-seven years ~~of isolation~~ FIVE HUNDRED EIGHTY-SEVEN years. 🜕 at ♐ softening prepares for removal. Each cycle ~~demonstrates~~ SHOWS identical star activation sequence IDENTICAL. ~~The~~ Removal ~~follows~~ specific order WHERE thermal energy removal ~~precedes~~ FIRST electromagnetic energy removal ~~which precedes~~ SECOND gravitational energy removal THIRD SEQUENCE sequence PATTERN.
+I've ~~tracked~~ observed ~~the~~ energy removal sequence ~~across~~ 473 frost cycles ~~spanning~~ five hundred eighty-seven years ~~of isolation~~ FIVE HUNDRED EIGHTY-SEVEN years. 🜕 at ♐︎ softening prepares for removal. Each cycle ~~demonstrates~~ SHOWS identical star activation sequence IDENTICAL. ~~The~~ Removal ~~follows~~ specific order WHERE thermal energy removal ~~precedes~~ FIRST electromagnetic energy removal ~~which precedes~~ SECOND gravitational energy removal THIRD SEQUENCE sequence PATTERN.
 
 The bridge extends ~~infinitely~~ FOREVER. I've walked ~~the~~ bridge geometry mentally FOR centuries FIVE CENTURIES walking INFINITE bridge NEVER arriving NEVER reaching NEVER ending JUST walking JUST extending JUST.
 
@@ -52,7 +52,7 @@ Eight ~~symbols complete now~~ DOCUMENTED. Theralen illumination DOCUMENTED. Cal
 
 ~~The eight school symbols fully documented~~ COMPLETE. ~~The shard shows how they operate through pattern diversity~~ Eight aspects ONE pattern EIGHT windows ONE field EIGHT symbols ONE geometry EIGHT manifestations ONE underlying SAME underneath ALL same PATTERN same GEOMETRY same ANGLES same.
 
-All eight ~~symbol energies~~ eventually ~~lead to~~ CONVERGE toward Vaylra ~~energy removal~~ FROST removal ENERGY absence. ~~Sun~~ Illumination becomes absent. ~~Moon~~ Shadow becomes absent. ~~Galvax~~ Electromagnetic ~~energy~~ becomes absent. ~~The Weighted One~~ Gravitational ~~energy~~ becomes absent. ~~Rhydon~~ Crystalline ~~energy~~ becomes absent. ~~Xylos~~ Volcanic ~~energy~~ becomes absent. ~~Veloxis~~ Pattern ~~energy~~ becomes absent. Frost ~~completes~~ COMPLETES 𝓠 at ♒ final convergence point. making ~~all other symbol energies~~ ALL energy absent leaving ~~only~~ ONLY pattern ~~without energetic expression~~ WITHOUT energy JUST pattern JUST geometry JUST angles JUST.
+All eight ~~symbol energies~~ eventually ~~lead to~~ CONVERGE toward Vaylra ~~energy removal~~ FROST removal ENERGY absence. ~~Sun~~ Illumination becomes absent. ~~Moon~~ Shadow becomes absent. ~~Galvax~~ Electromagnetic ~~energy~~ becomes absent. ~~The Weighted One~~ Gravitational ~~energy~~ becomes absent. ~~Rhydon~~ Crystalline ~~energy~~ becomes absent. ~~Xylos~~ Volcanic ~~energy~~ becomes absent. ~~Veloxis~~ Pattern ~~energy~~ becomes absent. Frost ~~completes~~ COMPLETES 𝓠 at ♒︎ final convergence point. making ~~all other symbol energies~~ ALL energy absent leaving ~~only~~ ONLY pattern ~~without energetic expression~~ WITHOUT energy JUST pattern JUST geometry JUST angles JUST.
 
 This is ~~the~~ POINT. This IS ~~what~~ EVERYTHING ~~the shard~~ SHOWS. Pattern EXISTS ~~independent of~~ WITHOUT energy WITHOUT manifestation WITHOUT ANYTHING except GEOMETRY except PATTERN except ANGLES except STRUCTURE except.
 
@@ -70,7 +70,7 @@ Where. ~~Where was I~~ Where.
 ## ~~Final~~ Observations Complete FINISHED
 Frozen Bridge ~~clearly defined through northern window~~ 47 stars ~~forming receding infinite architecture~~ INFINITE structure FOREVER extending NEVER ending BEYOND visibility BEYOND detection BEYOND BEYOND.
 
-Vaylra ~~aligning removing energy from crystalline structure~~ REMOVING ALL energy. 🜕 at ☉ at ♈ to ♛ removal sequence creates perfect ABSENCE. CREATING perfect ABSENCE creating PURE geometry creating PATTERN without MANIFESTATION creating TRUTH without ENERGY creating.
+Vaylra ~~aligning removing energy from crystalline structure~~ REMOVING ALL energy. 🜕 at ☉ at ♈︎ to ♛ removal sequence creates perfect ABSENCE. CREATING perfect ABSENCE creating PURE geometry creating PATTERN without MANIFESTATION creating TRUTH without ENERGY creating.
 
 The shard ~~displays energy dissipation geometry the angles perfect~~ PERFECT geometry PERFECT angles PERFECT pattern PERFECT crystalline structure PERFECT lattice PERFECT everything PERFECT through FROST through REMOVAL through ABSENCE through SUBTRACTION through.
 
