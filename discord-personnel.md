@@ -24,6 +24,7 @@
 - **Archivarius Walsh** - Trial Librarian - Has Discord role
 - **Margery** - Secretary to the Quartermaster - Has Discord role
 - **Nabs** - Master of Acquisitions - Has Discord role
+- **Heinrich Tox** - Medical Research Specialist - Has Discord role
 ## Members
 - Rowan
 - Velos Darkwood
