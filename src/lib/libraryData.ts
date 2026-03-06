@@ -333,7 +333,7 @@ export const libraryData: {
           'A slim volume bound in worn leather, its pages showing water stains and dog-eared corners from frequent field use. The text is written in a precise hand with occasional margin notes and corrections. Common tongue. Fair condition.',
         category: 'botanical',
         path: 'lib/books/Flora Vardorana/3 - Blood Rose.md',
-        isAvailable: false,
+        isAvailable: true,
       },
       {
         slug: 'sunflower',
@@ -481,7 +481,7 @@ export const libraryData: {
           'A worn journal with pages showing sun damage and fading. Several entries are barely legible. Written in careful script with urgent margin notes about vampire safety. Common tongue. Poor condition.',
         category: 'alchemical',
         path: 'lib/books/Field Alchemy/4 - Emergency Sun Protection.md',
-        isAvailable: false,
+        isAvailable: true,
       },
       {
         slug: 'blood-rose-field-medicine',
@@ -501,7 +501,7 @@ export const libraryData: {
           'A field manual with leather cover reinforced with silver studs. Pages show wear from outdoor use and monster blood stains. Written in practical block letters with hunting notes in margins. Common tongue. Poor condition.',
         category: 'alchemical',
         path: 'lib/books/Field Alchemy/6 - Ferocity from the Monster Hunters.md',
-        isAvailable: false,
+        isAvailable: true,
       },
       {
         slug: 'enchanted-enhancement-basics',
@@ -677,7 +677,7 @@ export const libraryData: {
           'A mobility research journal with movement pattern diagrams. Pages show stealth testing records. Written in mixed formal and casual script. Common tongue. Good condition.',
         category: 'alchemical',
         path: "lib/books/Blood Essence Mastery/5 - Prowler's Stealth Advantage.md",
-        isAvailable: false,
+        isAvailable: true,
       },
       {
         slug: 'ravens-physical-precision',
@@ -755,7 +755,7 @@ export const libraryData: {
           'Bound in silver leather with crescent moon inlay. Pages contain systematic measurements with eight-phase lunar diagram included in final pages. Written in precise script with occasional ink smudges from haste. Excellent condition.',
         category: 'astrological',
         path: 'lib/books/Celestial Symbolica/02-Calyx.md',
-        isAvailable: false,
+        isAvailable: true,
       },
       {
         slug: 'galvax',
@@ -785,7 +785,7 @@ export const libraryData: {
           'Bound in heavy dark leather with dark matter ring patterns in spine. Pages contain gravitational measurement tables with pattern calculations filling margins. Script precise but increasingly focused on geometry over practical application. Good condition.',
         category: 'astrological',
         path: 'lib/books/Celestial Symbolica/08-The Weighted One.md',
-        isAvailable: false,
+        isAvailable: true,
       },
       {
         slug: 'rhydon',
@@ -1262,6 +1262,126 @@ export const libraryData: {
         path: 'lib/books/The Ladder/12-Introduction to Ladder.md',
         isAvailable: false,
         password: 'ladderbook',
+      },
+      {
+        slug: 'ash-forge',
+        title: 'Ash Forge',
+        bookSpineTitle: 'Ash Forge',
+        description:
+          'Bound in golden leather with fire motif stamping. Pages contain systematic burning transformation theory in coherent script with complete sentences. Excellent condition. Common tongue.',
+        category: 'astrological',
+        path: 'lib/books/The Ladder/03-Ash Forge.md',
+        isAvailable: false,
+      },
+      {
+        slug: 'frozen-seal',
+        title: 'Frozen Seal',
+        bookSpineTitle: 'Frozen Seal',
+        description:
+          'Bound in silvery leather with ring patterns tooled along spine. Pages document crystallization mechanics with precise script and complete theoretical framework. Increasing shard interest visible. Good condition. Common tongue.',
+        category: 'astrological',
+        path: 'lib/books/The Ladder/05-Frozen Seal.md',
+        isAvailable: true,
+      },
+      {
+        slug: 'anchor-point',
+        title: 'Anchor Point',
+        bookSpineTitle: 'Anchor Point',
+        description:
+          'Bound in deep blue leather with anchor tooling. Pages contain anchoring theory with margin calculations. Script coherent but pattern geometry focus increasing. Shard references prominent. Fair condition. Common tongue.',
+        category: 'astrological',
+        path: 'lib/books/The Ladder/07-Anchor Point.md',
+        isAvailable: false,
+      },
+      {
+        slug: 'dissolving-basin',
+        title: 'Dissolving Basin',
+        bookSpineTitle: 'Dissolving Basin',
+        description:
+          'Bound in muted green leather with flowing water patterns. Pages document dissolution mechanics through star-fading observation. Pattern geometry becoming central theory focus. Good condition with ink corrections. Common tongue.',
+        category: 'astrological',
+        path: 'lib/books/The Ladder/09-Dissolving Basin.md',
+        isAvailable: true,
+      },
+      {
+        slug: 'breaking-vat',
+        title: 'Breaking Vat',
+        bookSpineTitle: 'Breaking Vat',
+        description:
+          'Bound in cracked leather resembling shattered vessel pattern. Pages contain absorption theory with margin channel diagrams. Script declining with "Where was I" interruptions. Pattern obsession evident. Fair condition. Common tongue.',
+        category: 'astrological',
+        path: 'lib/books/The Ladder/10-Breaking Vat.md',
+        isAvailable: true,
+      },
+      {
+        slug: 'rising-mist',
+        title: 'Rising Mist',
+        bookSpineTitle: 'Rising Mist',
+        description:
+          'Bound in shimmering leather that shifts color under light. Pages document dimensional elevation theory with margin geometry diagrams. Script shows strikethroughs and abandoned thoughts. Shard growing obsessive. Good condition. Common tongue.',
+        category: 'astrological',
+        path: 'lib/books/The Ladder/11-Rising Mist.md',
+        isAvailable: false,
+      },
+      {
+        slug: 'dividing-line',
+        title: 'Dividing Line',
+        bookSpineTitle: 'Dividing Line',
+        description:
+          'Bound in hard leather with deep crack patterns. Pages contain barely coherent stream-of-consciousness about pattern separation. Script fragmented with "Where was I" repetition. Shard geometry dominates margins. Poor to fair condition. Common tongue.',
+        category: 'astrological',
+        path: 'lib/books/The Ladder/14-Dividing Line.md',
+        isAvailable: false,
+      },
+      {
+        slug: 'waxing-flame',
+        title: 'Waxing Flame',
+        bookSpineTitle: 'Waxing Flame',
+        description:
+          'Bound in warm golden leather with dripping wax motifs. Pages contain softening theory through fractured repetitive thoughts. Script barely legible, cognitive deterioration evident. Shard geometry lens applied throughout. Poor condition. Common tongue.',
+        category: 'astrological',
+        path: 'lib/books/The Ladder/16-Waxing Flame.md',
+        isAvailable: false,
+      },
+      {
+        slug: 'purifying-retort',
+        title: 'Purifying Retort',
+        bookSpineTitle: 'Purifying Retort',
+        description:
+          'Bound in darkened leather showing heat discoloration. Pages document essence distillation with shard obsession dominating all thought. Script barely coherent with repetitive interruptions. Poor condition with burn marks. Common tongue.',
+        category: 'astrological',
+        path: 'lib/books/The Ladder/17-Purifying Retort.md',
+        isAvailable: false,
+      },
+      {
+        slug: 'breathing-jar',
+        title: 'Breathing Jar',
+        bookSpineTitle: 'Breathing Jar',
+        description:
+          'Bound in leather that appears slightly flexible. Pages contain fermentation theory expressed through repetitive fragmentary stream-of-consciousness. Script barely legible with extensive deletions. Poor condition with structural damage. Common tongue.',
+        category: 'astrological',
+        path: 'lib/books/The Ladder/18-Breathing Jar.md',
+        isAvailable: false,
+      },
+      {
+        slug: 'expanding-vessel',
+        title: 'Expanding Vessel',
+        bookSpineTitle: 'Expanding Vessel',
+        description:
+          'Bound in leather with outward-expanding concentric ring patterns. Pages show infinite replication through barely coherent stream-of-consciousness. Script extremely fragmented with "Where was I" as primary thought. Poor condition. Common tongue.',
+        category: 'astrological',
+        path: 'lib/books/The Ladder/20-Expanding Vessel.md',
+        isAvailable: false,
+      },
+      {
+        slug: 'final-horizon',
+        title: 'Final Horizon',
+        bookSpineTitle: 'Final Horizon',
+        description:
+          'Bound in fading leather with edge-of-reality burn patterns. Pages demonstrate barely comprehensible stream-of-consciousness about projection beyond dimensions. Script deteriorated to near-random character distributions. Shard geometry absolute. Poor condition. Common tongue.',
+        category: 'astrological',
+        path: 'lib/books/The Ladder/22-Final Horizon.md',
+        isAvailable: false,
       },
     ],
   },
