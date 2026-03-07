@@ -210,6 +210,7 @@ export const libraryData: {
         category: 'arcana',
         path: 'lib/books/Illusion Theory/3 - Rituals and Advanced Applications.md',
         isAvailable: false,
+        password: 'hubris',
       },
     ],
   },
