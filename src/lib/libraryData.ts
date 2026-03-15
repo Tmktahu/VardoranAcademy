@@ -39,6 +39,7 @@ export const libraryData: {
         category: 'arcana',
         path: 'lib/books/Sanguine Theory/3 - Ritual and Ceremonial Applications.md',
         isAvailable: false,
+        password: 'perfection',
       },
     ],
   },
