@@ -38,7 +38,7 @@ export const libraryData: {
           'A ceremonial reference bound in crimson leather. Pages detail ritual blood magic theory and healing applications. Written in sharp academic script with consultation notes. Common tongue. Excellent condition.',
         category: 'arcana',
         path: 'lib/books/Sanguine Theory/3 - Ritual and Ceremonial Applications.md',
-        isAvailable: false,
+        isAvailable: true,
         password: 'perfection',
       },
     ],
@@ -777,7 +777,7 @@ export const libraryData: {
           'Bound in shifting-color leather that appears different under varying light. Pages contain 47 position diagrams with occasional gaps where author wandered to related topics. Script becomes less precise toward middle sections. Good condition.',
         category: 'astrological',
         path: 'lib/books/Celestial Symbolica/06-Veloxis.md',
-        isAvailable: false,
+        isAvailable: true,
       },
       {
         slug: 'weighted-one',
@@ -827,7 +827,7 @@ export const libraryData: {
           'Bound in frosted blue leather that crackles when opened. Pages contain energy removal calculations with extensive strikethrough deletions and abandoned thought fragments. Script barely legible in many sections showing mental deterioration. Poor condition with frost damage and ink fading.',
         category: 'astrological',
         path: 'lib/books/Celestial Symbolica/21-Vaylra.md',
-        isAvailable: false,
+        isAvailable: true,
       },
     ],
   },
@@ -1157,7 +1157,7 @@ export const libraryData: {
           "A collection journal bound in forest-green leather with faded story motifs on spine. Contains four tales of supernatural encounters and consequences beyond death. Written in oral storytelling style with Helena's preservation notes in margins. Common tongue. Good condition.",
         category: 'folklore',
         path: 'lib/books/Old World Tales/1 - Old World Tales Volume 1.md',
-        isAvailable: false,
+        isAvailable: true,
       },
       {
         slug: 'old-world-tales-vol-2',
@@ -1262,7 +1262,7 @@ export const libraryData: {
           "The opening chapter of The Ladder, providing an overview of the author's unconventional astrological theories and setting the stage for the erratic observations that follow. Common tongue. Fair condition with signs of age and handling.",
         category: 'astrological',
         path: 'lib/books/The Ladder/12-Introduction to Ladder.md',
-        isAvailable: false,
+        isAvailable: true,
         password: 'ladderbook',
       },
       {
@@ -1323,7 +1323,7 @@ export const libraryData: {
           'Bound in shimmering leather that shifts color under light. Pages document dimensional elevation theory with margin geometry diagrams. Script shows strikethroughs and abandoned thoughts. Shard growing obsessive. Good condition. Common tongue.',
         category: 'astrological',
         path: 'lib/books/The Ladder/11-Rising Mist.md',
-        isAvailable: false,
+        isAvailable: true,
       },
       {
         slug: 'dividing-line',
@@ -1343,7 +1343,7 @@ export const libraryData: {
           'Bound in warm golden leather with dripping wax motifs. Pages contain softening theory through fractured repetitive thoughts. Script barely legible, cognitive deterioration evident. Shard geometry lens applied throughout. Poor condition. Common tongue.',
         category: 'astrological',
         path: 'lib/books/The Ladder/16-Waxing Flame.md',
-        isAvailable: false,
+        isAvailable: true,
       },
       {
         slug: 'purifying-retort',
@@ -1363,7 +1363,7 @@ export const libraryData: {
           'Bound in leather that appears slightly flexible. Pages contain fermentation theory expressed through repetitive fragmentary stream-of-consciousness. Script barely legible with extensive deletions. Poor condition with structural damage. Common tongue.',
         category: 'astrological',
         path: 'lib/books/The Ladder/18-Breathing Jar.md',
-        isAvailable: false,
+        isAvailable: true,
       },
       {
         slug: 'expanding-vessel',
@@ -1373,7 +1373,7 @@ export const libraryData: {
           'Bound in leather with outward-expanding concentric ring patterns. Pages show infinite replication through barely coherent stream-of-consciousness. Script extremely fragmented with "Where was I" as primary thought. Poor condition. Common tongue.',
         category: 'astrological',
         path: 'lib/books/The Ladder/20-Expanding Vessel.md',
-        isAvailable: false,
+        isAvailable: true,
       },
       {
         slug: 'final-horizon',
