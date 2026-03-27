@@ -1216,6 +1216,16 @@ export const libraryData: {
     color: 'inventionYellow',
     books: [
       {
+        slug: 'construct-1',
+        title: 'Construct 01 - Prototype Arcane Core',
+        bookSpineTitle: 'Construct 01:<br>Prototype Arcane Core',
+        description:
+          'A prototype documentation volume bound in black leather with gemstone inlays. Pages contain composite magical storage device design using pristine gemstones in octahedral configuration. Includes fabrication protocol, stability testing, and observed multi-school storage behavior. Written in precise technical script. Common tongue. Excellent condition.',
+        category: 'invention',
+        path: 'lib/books/Academy Inventions/Construct 01 - Prototype Arcane Core.md',
+        isAvailable: true,
+      },
+      {
         slug: 'construct-2',
         title: 'Construct 02 - Reinforced Waygate',
         bookSpineTitle: 'Construct 02:<br>Reinforced Waygate',
@@ -1223,6 +1233,26 @@ export const libraryData: {
           'A prototype waygate with reinforced structure and enhanced stability. Pages contain design schematics, testing records, and performance analysis. Written in technical script with detailed annotations. Common tongue. Good condition with minor wear from testing.',
         category: 'invention',
         path: 'lib/books/Academy Inventions/Construct 02 - Reinforced Waygate.md',
+        isAvailable: true,
+      },
+      {
+        slug: 'construct-3',
+        title: 'Construct 03 - Liquid Fire',
+        bookSpineTitle: 'Construct 03:<br>Liquid Fire',
+        description:
+          'An alchemical research volume bound in heat-resistant leather with scorch marks on the spine. Pages document volatile incendiary compound formula using venom sap and fire blossom. Contains preparation protocols, oxygen-free mixing requirements, and combustion characteristics. Written in technical script with safety warnings. Common tongue. Good condition with singed edges.',
+        category: 'invention',
+        path: 'lib/books/Academy Inventions/Construct 03 - Liquid Fire.md',
+        isAvailable: true,
+      },
+      {
+        slug: 'construct-4',
+        title: 'Construct 04 - Entropic Separator',
+        bookSpineTitle: 'Construct 04:<br>Entropic Separator',
+        description:
+          'A mechanical design volume bound in dark leather with subtle energy patterns. Contains schematics for rotating induction wheel device that separates Entropic Magic into eight component schools. Includes eight-gemstone positioning, radiant fiber wiring assembly, and Transcendum-derived motor system. Written in precise technical script. Common tongue. Excellent condition.',
+        category: 'invention',
+        path: 'lib/books/Academy Inventions/Construct 04 - Entropic Separator.md',
         isAvailable: true,
       },
       {
@@ -1243,6 +1273,16 @@ export const libraryData: {
           'A prototype explosive device designed for controlled demolition. Pages contain design schematics, testing records, and performance analysis. Written in technical script with detailed annotations. Common tongue. Good condition with minor wear from testing.',
         category: 'invention',
         path: 'lib/books/Academy Inventions/Construct 06 - Sculpting Charges.md',
+        isAvailable: true,
+      },
+      {
+        slug: 'construct-7',
+        title: 'Construct 07 - Arcane Weave',
+        bookSpineTitle: 'Construct 07:<br>Arcane Weave',
+        description:
+          'A technical documentation volume bound in dark leather with faint luminescense. Pages contain composition analysis, production protocols, and transformation mechanics of Arcane Weave fabric. Includes detailed needle cycle diagrams and consumption constraints. Written in precise technical script. Common tongue. Excellent condition.',
+        category: 'invention',
+        path: 'lib/books/Academy Inventions/Construct 07 - Arcane Weave.md',
         isAvailable: true,
       },
     ],
@@ -1403,6 +1443,26 @@ export const libraryData: {
           'An in-depth exploration of the phenomenon known as Magical Snares. It goes into their composition, origin, and methods of containment. Common tongue. Good condition with minor wear from handling.',
         category: 'arcana',
         path: 'lib/books/On Magical Snares.md',
+        isAvailable: true,
+      },
+      {
+        slug: 'stygian-crystal-formation',
+        title: 'Record 52: Stygian Crystal Formation',
+        bookSpineTitle: 'Record 52:<br>Stygian Crystal Formation',
+        description:
+          'A technical research volume bound in dark leather with subtle geometric patterns. Documents Arcane Weave binding protocol combining Greater Stygian Shards into synthesized crystal structure. Includes fracture-realignment cycle observations and material density assessment. Written in precise script with audible hum documentation. Common tongue. Excellent condition.',
+        category: 'arcana',
+        path: 'lib/books/Record 52 - Stygian Crystal Formation.md',
+        isAvailable: true,
+      },
+      {
+        slug: 'entropic-magic-origins',
+        title: 'Record 53: Entropic Magic Origins',
+        bookSpineTitle: 'Record 53:<br>Entropic Magic Origins',
+        description:
+          'A theoretical analysis volume bound in black leather with containment seals. Presents Ley Flow Degradation Theory proposing entropic magic as natural primordial state. Contains Waygate intervention analysis and regional degradation patterns. Written in speculative script with historical correlation notes. Common tongue. Good condition.',
+        category: 'arcana',
+        path: 'lib/books/Record 53 - Entropic Magic Origins.md',
         isAvailable: true,
       },
     ],

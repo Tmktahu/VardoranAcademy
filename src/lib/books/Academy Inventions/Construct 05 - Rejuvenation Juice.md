@@ -1,6 +1,6 @@
 # Construct 05: Rejuvenation Juice
--# _Written by Zrott, 804 AD_
--# _Recipe sourced from Venom Blade Alchemist_
+_Developed by Martin Ehrlich, 804 AD_
+_Recipe sourced from Venom Blade Alchemist_
 ## Purpose
 To document the alchemical formula for a potent healing compound designed for rapid deployment in combat or emergency situations. The substance provides immediate regenerative effects upon impact, creating an effective healing agent suitable for thrown deployment in sealed containers. Functions similarly to blood rose potions but with enhanced delivery mechanism for field use.
 ## Materials

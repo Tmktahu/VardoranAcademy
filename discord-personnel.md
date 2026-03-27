@@ -10,7 +10,7 @@
 - **Tilly Dalrad** - Head of Mechanical Studies - Has Discord role
 - **Wilhelmina** - Head of Botanical Studies - Has Discord role
 ## Research Division
-- **Fallemnia Darkwood** - Head of Research Division - Has Discord role
+- **Fallemnia** - Head of Research Division - Has Discord role
 - **Leo Darkwood** - Ley Researcher - Has Discord role
 - **Deracine Ruine** - Prosthetic Augment Researcher - Has Discord role
 - **Emeritus Applegate** - Research Assistant - Has Discord role

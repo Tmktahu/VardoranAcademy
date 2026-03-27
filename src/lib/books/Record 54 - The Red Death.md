@@ -1,6 +1,6 @@
 # Record 54: The Red Death - Vampiric Hematologic Pathogen Analysis
 > **Author:** Martin Ehrlich, sourced from book on Vampiric Blood Diseases  
-> **Written:** 206 AMR
+> **Written:** 805 AD
 ## Subjects
 - The Red Death pathogen transmission and progression
 - Three-stage vampiric disease progression

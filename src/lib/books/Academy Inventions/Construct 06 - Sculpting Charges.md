@@ -1,5 +1,5 @@
 # Construct 06: Sculpting Charges
--# _Developed by The Academy, 201 AMR_
+_Developed by The Academy, 201 AMR_
 ## Purpose
 Directional explosive device for clearing collapsed rubble from archaeological sites, structural excavations, and damaged buildings requiring repair. Controlled directional force pulverizes and disperses fragmented material while preserving intact structural elements.
 

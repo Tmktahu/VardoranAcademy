@@ -115,7 +115,7 @@ export const boardMembers: Member[] = [
 
 export const researchDivisionMembers: Member[] = [
   {
-    name: 'Fallemnia Darkwood',
+    name: 'Fallemnia',
     role: 'Head of Research Division',
     quotes: ['This meeting could have been a bat.', 'Oooh what does this do?', 'I know I put it somewhere... Guess we will find out when it blows up.'],
   },

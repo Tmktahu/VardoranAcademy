@@ -1,5 +1,5 @@
 # Construct 02: Reinforced Waygate – Structurally Enhanced Castle Waygate
-_Written by Zrott, 803 AD_
+_Developed by Martin Ehrlich, 803 AD_
 ## Purpose
 To document the construction of an enhanced Castle Waygate specifically designed with superior structural integrity and magical conductivity. The reinforced design incorporates metallic strengthening materials and improved magical channeling components to sustain higher magical throughput and operational strain compared to standard Waygate constructions.
 ## Materials

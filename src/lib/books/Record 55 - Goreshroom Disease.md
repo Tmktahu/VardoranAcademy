@@ -1,6 +1,6 @@
 # Record 55: Goreshroom Disease - Mycotic Vampiric Infection Analysis
 > **Author:** Martin Ehrlich, sourced from book on Vampiric Blood Diseases  
-> **Written:** 206 AMR
+> **Written:** 805 AD
 ## Subjects
 - Mycruor Infection pathogen characteristics
 - Nociceptive dysfunction and cognitive effects
