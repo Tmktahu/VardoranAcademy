@@ -80,11 +80,7 @@ export const boardMembers: Member[] = [
   {
     name: 'Roran Courtright',
     role: 'Head of Field Operations',
-    quotes: [
-      "Do the work in front of you. I'll carry the rest.",
-      "You don't have to like what I handle. Just know I handle it.",
-      'We act tonight, or we react tomorrow.',
-    ],
+    quotes: ["Do the work in front of you. I'll carry the rest.", "You don't have to like what I handle. Just know I handle it.", 'We act tonight, or we react tomorrow.'],
   },
   {
     name: 'Elias',
@@ -124,21 +120,12 @@ export const researchDivisionMembers: Member[] = [
     name: 'Leo Darkwood',
     role: 'Ley Researcher',
     quotes: [
-      'If it is stupid, but it works, then it isn\'t stupid.',
+      "If it is stupid, but it works, then it isn't stupid.",
       'If you do something stupid and survive it, then you get to be proud of it.',
-      'The smarter you are, the more possibilities for true idiocy you have.'
+      'The smarter you are, the more possibilities for true idiocy you have.',
     ],
   },
 
-  {
-    name: 'Deracine Ruine',
-    role: 'Prosthetic Augment Researcher',
-    quotes: [
-      'Radical problems require radical solutions, and ive got some!',
-      "It's not my fault im so good at my job.",
-      'You see this prototype is built on a feedback loop of tension and energy, where everything must be fine-tuned or it might go volatile and- why are you moving away?',
-    ],
-  },
   {
     name: 'Deracine Ruine',
     role: 'Prosthetic Augment Researcher',
@@ -172,7 +159,7 @@ export const researchDivisionMembers: Member[] = [
     quotes: [
       "You'll have that on them big jobs",
       'Do the impossible, see the invisible, touch the untouchable, break the unbreakable',
-      "Every saint has a past, and every sinner has a future.",
+      'Every saint has a past, and every sinner has a future.',
     ],
   },
 ];
@@ -229,15 +216,11 @@ export const faculty: Member[] = [
   {
     name: 'Nabs',
     role: 'Master of Acquisitions',
-    quotes: ["No, I can't gather you trippy shrooms. Ask my wife.", 'Send me a list!', "Are you alright? Please, I just want to help!"],
+    quotes: ["No, I can't gather you trippy shrooms. Ask my wife.", 'Send me a list!', 'Are you alright? Please, I just want to help!'],
   },
   {
     name: 'Heinrich Tox',
     role: 'Medical Research Specialist',
-    quotes: [
-      'Progress has its limits.',
-      'I am a physician, not a psychiatrist.',
-      'Do not let your will be bent by the whims of others.'
-    ],
+    quotes: ['Progress has its limits.', 'I am a physician, not a psychiatrist.', 'Do not let your will be bent by the whims of others.'],
   },
 ];
